@@ -1,4 +1,5 @@
 <?php
+
 //console.log(JSON.stringify(items_backup.normal))
 function fetchHTML($url) {
     $opts = [
@@ -26,6 +27,17 @@ function extractItemsBackup($html) {
     return $items_backup['normal'];
 }
 
+function simpplifiedMods($itemMods) {
+    $simplifiedMods = [];
+    foreach($itemMods as $mod) {
+        $mod = preg_replace('/\d+\.\d+|(\(-?\d+\.?\d?--?\d+\.?\d?\))|\d+(\(\d+-\d+\))|\d+/', '#', $mod);
+
+        $simplifiedMods[] = $mod;
+    }
+
+    return $simplifiedMods;
+}
+
 $items = json_decode(file_get_contents("items.json"), true);
 
 $itemMods = [];
@@ -45,6 +57,8 @@ foreach($items as $category => $subCategories) {
             $value = str_replace("&ndash;", '-', $value);
             $value = str_replace(["<br>", "<br/>"], '<br>', $value);
 
+            $mods = explode("<br>", $value);
+
             $itemMods[$mod['ID']] = [
                 "ID" => $mod["ID"],
                 "ModTypeID" => $mod["ModTypeID"],
@@ -53,7 +67,8 @@ foreach($items as $category => $subCategories) {
                 "Level" => (int)$mod["Level"],
                 "ModDomainsID" => (int)$mod["ModDomainsID"],
                 "ModGenerationTypeID" => (int)$mod["ModGenerationTypeID"],
-                "Mods" => explode("<br>", $value),
+                "Mods" => $mods,
+                "SimplifiedMods" => simpplifiedMods($mods),
             ];
         }
         echo "Ending subcategory: $subCategory \n";
@@ -61,4 +76,4 @@ foreach($items as $category => $subCategories) {
 }
 
 echo "Downloaded \n";
-file_put_contents('all_mods.json', json_encode($itemMods));
+file_put_contents('all_mods.json', json_encode(array_values($itemMods)));

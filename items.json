@@ -128,7 +128,8 @@
         "Life Flasks": "https://poedb.tw/us/Life_Flasks#ModifiersCalc",
         "Mana Flasks": "https://poedb.tw/us/Mana_Flasks#ModifiersCalc",
         "Hybrid Flasks": "https://poedb.tw/us/Hybrid_Flasks#ModifiersCalc",
-        "Utility Flasks": "https://poedb.tw/us/Utility_Flasks#ModifiersCalc"
+        "Utility Flasks": "https://poedb.tw/us/Utility_Flasks#ModifiersCalc",
+        "Tinctures": "https://poedb.tw/us/Tinctures#ModifiersCalc"
     },
     "Special": {
         "Unset Ring": "https://poedb.tw/us/Unset_Ring#ModifiersCalc",
