@@ -27,17 +27,6 @@ function extractItemsBackup($html) {
     return $items_backup['normal'];
 }
 
-function simpplifiedMods($itemMods) {
-    $simplifiedMods = [];
-    foreach($itemMods as $mod) {
-        $mod = preg_replace('/\d+\.\d+|(\(-?\d+\.?\d?--?\d+\.?\d?\))|\d+(\(\d+-\d+\))|\d+/', '#', $mod);
-
-        $simplifiedMods[] = $mod;
-    }
-
-    return $simplifiedMods;
-}
-
 $items = json_decode(file_get_contents("items.json"), true);
 
 $itemMods = [];
@@ -68,7 +57,6 @@ foreach($items as $category => $subCategories) {
                 "ModDomainsID" => (int)$mod["ModDomainsID"],
                 "ModGenerationTypeID" => (int)$mod["ModGenerationTypeID"],
                 "Mods" => $mods,
-                "SimplifiedMods" => simpplifiedMods($mods),
             ];
         }
         echo "Ending subcategory: $subCategory \n";
