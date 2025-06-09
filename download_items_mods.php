@@ -24,7 +24,7 @@ function extractItemsBackup($html) {
         $items_backup = json_decode($json, true);
     }
 
-    return $items_backup['normal'];
+    return $items_backup;
 }
 
 $items = json_decode(file_get_contents("items.json"), true);
@@ -36,8 +36,10 @@ foreach($items as $category => $subCategories) {
         $html = fetchHTML($url);
         $downloadedMods = extractItemsBackup($html);
 
-        foreach($downloadedMods as $mod) {
-            if (isset($itemMods[$mod['ID']])) {
+        $modDomainId =  $downloadedMods['opt']['ModDomainsID'];
+        foreach($downloadedMods['normal'] as $mod) {
+            $id = sprintf("%s_%s_%s_%s", $modDomainId, $mod["Name"], $mod["ModGenerationTypeID"], $mod["Code"]);
+            if (isset($itemMods[$id])) {
                 continue;
             }
 
@@ -48,13 +50,13 @@ foreach($items as $category => $subCategories) {
 
             $mods = explode("<br>", $value);
 
-            $itemMods[$mod['ID']] = [
-                "ID" => $mod["ID"],
-                "ModTypeID" => $mod["ModTypeID"],
+            $itemMods[$id] = [
+                "ID" => $id,
+                // "ModTypeID" => $mod["ModTypeID"],
                 "Name"  => $mod["Name"],
                 "Code" => $mod["Code"],
                 "Level" => (int)$mod["Level"],
-                "ModDomainsID" => (int)$mod["ModDomainsID"],
+                "ModDomainsID" => (int)$modDomainId,
                 "ModGenerationTypeID" => (int)$mod["ModGenerationTypeID"],
                 "Mods" => $mods,
             ];
