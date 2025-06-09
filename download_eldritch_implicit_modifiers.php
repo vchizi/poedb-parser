@@ -80,7 +80,7 @@ foreach ($sources as $source => $url) {
 
         $implicitMods[$source][] = [
             "Level" => (int)$itemLevel,
-            "Mods" => $value = str_replace("\u{2013}", '-', $implicitText),
+            "Mod" => $value = str_replace("\u{2013}", '-', $implicitText),
             "Base" => $base,
             "Tier" => (int)(preg_match('/no_tier_(\d+)_/', $tier, $m) ? $m[1] : -1),
         ];
