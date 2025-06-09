@@ -83,6 +83,7 @@ foreach ($sources as $source => $url) {
             "Mod" => $value = str_replace("\u{2013}", '-', $implicitText),
             "Base" => $base,
             "Tier" => (int)(preg_match('/no_tier_(\d+)_/', $tier, $m) ? $m[1] : -1),
+            "Chance" => (int)$chance,
         ];
     }
 }
