@@ -1,0 +1,6732 @@
+[
+    {
+        "name": "Original Sin",
+        "dustVal": "1128.89",
+        "slots": "1"
+    },
+    {
+        "name": "Headhunter",
+        "dustVal": "891.16",
+        "slots": "2"
+    },
+    {
+        "name": "Mageblood",
+        "dustVal": "891.16",
+        "slots": "2"
+    },
+    {
+        "name": "Defiance of Destiny",
+        "dustVal": "891.16",
+        "slots": "1"
+    },
+    {
+        "name": "Reefbane",
+        "dustVal": "851.24",
+        "slots": "4"
+    },
+    {
+        "name": "Replica Shroud of the Lightless",
+        "dustVal": "791.78",
+        "slots": "6"
+    },
+    {
+        "name": "Stasis Prison",
+        "dustVal": "791.78",
+        "slots": "6"
+    },
+    {
+        "name": "The Squire",
+        "dustVal": "768.72",
+        "slots": "6"
+    },
+    {
+        "name": "Rakiata's Dance",
+        "dustVal": "768.72",
+        "slots": "8"
+    },
+    {
+        "name": "Angler's Plait",
+        "dustVal": "734.29",
+        "slots": "1"
+    },
+    {
+        "name": "Starforge",
+        "dustVal": "703.49",
+        "slots": "8"
+    },
+    {
+        "name": "Voidforge",
+        "dustVal": "703.49",
+        "slots": "8"
+    },
+    {
+        "name": "Replica Kongor's Undying Rage",
+        "dustVal": "703.49",
+        "slots": "8"
+    },
+    {
+        "name": "Echoforge",
+        "dustVal": "703.49",
+        "slots": "8"
+    },
+    {
+        "name": "Lioneye's Glare",
+        "dustVal": "683.00",
+        "slots": "8"
+    },
+    {
+        "name": "Divinarius",
+        "dustVal": "683.00",
+        "slots": "3"
+    },
+    {
+        "name": "Essentia Sanguis",
+        "dustVal": "683.00",
+        "slots": "4"
+    },
+    {
+        "name": "Kingmaker",
+        "dustVal": "683.00",
+        "slots": "8"
+    },
+    {
+        "name": "Soul Taker",
+        "dustVal": "663.11",
+        "slots": "6"
+    },
+    {
+        "name": "Voltaxic Rift",
+        "dustVal": "643.79",
+        "slots": "8"
+    },
+    {
+        "name": "Atziri's Disfavour",
+        "dustVal": "643.79",
+        "slots": "8"
+    },
+    {
+        "name": "Replica Duskdawn",
+        "dustVal": "643.79",
+        "slots": "8"
+    },
+    {
+        "name": "Bloodseeker",
+        "dustVal": "606.84",
+        "slots": "4"
+    },
+    {
+        "name": "The Saviour",
+        "dustVal": "606.84",
+        "slots": "6"
+    },
+    {
+        "name": "Replica Tukohama's Fortress",
+        "dustVal": "589.16",
+        "slots": "8"
+    },
+    {
+        "name": "Kalandra's Touch",
+        "dustVal": "572.00",
+        "slots": "1"
+    },
+    {
+        "name": "Bino's Kitchen Knife",
+        "dustVal": "539.17",
+        "slots": "3"
+    },
+    {
+        "name": "Marohi Erqi",
+        "dustVal": "523.46",
+        "slots": "8"
+    },
+    {
+        "name": "The Winds of Fate",
+        "dustVal": "493.41",
+        "slots": "8"
+    },
+    {
+        "name": "Hateforge",
+        "dustVal": "389.50",
+        "slots": "4"
+    },
+    {
+        "name": "Uul-Netol's Vow",
+        "dustVal": "367.15",
+        "slots": "1"
+    },
+    {
+        "name": "Soul Ascension",
+        "dustVal": "317.64",
+        "slots": "4"
+    },
+    {
+        "name": "Nimis",
+        "dustVal": "317.64",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Headhunter",
+        "dustVal": "316.70",
+        "slots": "2"
+    },
+    {
+        "name": "Yoke of Suffering",
+        "dustVal": "236.36",
+        "slots": "1"
+    },
+    {
+        "name": "Manastorm",
+        "dustVal": "210.00",
+        "slots": "4"
+    },
+    {
+        "name": "Replica Bated Breath",
+        "dustVal": "206.00",
+        "slots": "2"
+    },
+    {
+        "name": "Stranglegasp",
+        "dustVal": "203.28",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Farrul's Fur",
+        "dustVal": "186.58",
+        "slots": "6"
+    },
+    {
+        "name": "Kitava's Feast",
+        "dustVal": "181.15",
+        "slots": "8"
+    },
+    {
+        "name": "Replica Nebulis",
+        "dustVal": "181.15",
+        "slots": "6"
+    },
+    {
+        "name": "Malachai's Mark",
+        "dustVal": "175.87",
+        "slots": "4"
+    },
+    {
+        "name": "Replica Windripper",
+        "dustVal": "170.75",
+        "slots": "8"
+    },
+    {
+        "name": "Tidebreaker",
+        "dustVal": "165.78",
+        "slots": "8"
+    },
+    {
+        "name": "Replica Eternity Shroud",
+        "dustVal": "165.78",
+        "slots": "6"
+    },
+    {
+        "name": "Annihilation's Approach",
+        "dustVal": "165.78",
+        "slots": "4"
+    },
+    {
+        "name": "Eternal Damnation",
+        "dustVal": "165.78",
+        "slots": "1"
+    },
+    {
+        "name": "Duskdawn",
+        "dustVal": "160.95",
+        "slots": "8"
+    },
+    {
+        "name": "The Brine Crown",
+        "dustVal": "156.26",
+        "slots": "4"
+    },
+    {
+        "name": "Replica Atziri's Acuity",
+        "dustVal": "156.26",
+        "slots": "4"
+    },
+    {
+        "name": "Garukhan's Flight",
+        "dustVal": "151.71",
+        "slots": "4"
+    },
+    {
+        "name": "Tukohama's Fortress",
+        "dustVal": "147.29",
+        "slots": "8"
+    },
+    {
+        "name": "Entropic Devastation",
+        "dustVal": "134.79",
+        "slots": "4"
+    },
+    {
+        "name": "Cloak of Tawm'r Isley",
+        "dustVal": "127.05",
+        "slots": "6"
+    },
+    {
+        "name": "Arakaali's Fang",
+        "dustVal": "116.27",
+        "slots": "3"
+    },
+    {
+        "name": "Martyr of Innocence",
+        "dustVal": "112.89",
+        "slots": "8"
+    },
+    {
+        "name": "Song of the Sirens",
+        "dustVal": "111.95",
+        "slots": "4"
+    },
+    {
+        "name": "Replica Alberon's Warpath",
+        "dustVal": "103.31",
+        "slots": "4"
+    },
+    {
+        "name": "Replica Maloney's Mechanism",
+        "dustVal": "91.79",
+        "slots": "6"
+    },
+    {
+        "name": "Replica Trypanon",
+        "dustVal": "79.18",
+        "slots": "8"
+    },
+    {
+        "name": "Gruthkul's Pelt",
+        "dustVal": "74.63",
+        "slots": "6"
+    },
+    {
+        "name": "Dialla's Malefaction",
+        "dustVal": "72.46",
+        "slots": "6"
+    },
+    {
+        "name": "Ralakesh's Impatience",
+        "dustVal": "70.35",
+        "slots": "4"
+    },
+    {
+        "name": "Skyforth",
+        "dustVal": "69.77",
+        "slots": "4"
+    },
+    {
+        "name": "Wraithlord",
+        "dustVal": "66.31",
+        "slots": "4"
+    },
+    {
+        "name": "Eyes of the Greatwolf",
+        "dustVal": "65.76",
+        "slots": "1"
+    },
+    {
+        "name": "The Dark Seer",
+        "dustVal": "62.50",
+        "slots": "6"
+    },
+    {
+        "name": "Ryslatha's Coil",
+        "dustVal": "62.50",
+        "slots": "2"
+    },
+    {
+        "name": "Shade of Solaris",
+        "dustVal": "58.91",
+        "slots": "3"
+    },
+    {
+        "name": "Void Battery",
+        "dustVal": "56.73",
+        "slots": "3"
+    },
+    {
+        "name": "Rigwald's Quills",
+        "dustVal": "56.73",
+        "slots": "6"
+    },
+    {
+        "name": "The Brass Dome",
+        "dustVal": "56.73",
+        "slots": "6"
+    },
+    {
+        "name": "Light of Lunaris",
+        "dustVal": "55.53",
+        "slots": "4"
+    },
+    {
+        "name": "Seven-League Step",
+        "dustVal": "53.47",
+        "slots": "4"
+    },
+    {
+        "name": "Warrior's Legacy",
+        "dustVal": "53.47",
+        "slots": "1"
+    },
+    {
+        "name": "Astral Projector",
+        "dustVal": "53.47",
+        "slots": "1"
+    },
+    {
+        "name": "Aegis Aurora",
+        "dustVal": "50.40",
+        "slots": "6"
+    },
+    {
+        "name": "Atziri's Splendour",
+        "dustVal": "48.93",
+        "slots": "6"
+    },
+    {
+        "name": "Shroud of the Lightless",
+        "dustVal": "47.51",
+        "slots": "6"
+    },
+    {
+        "name": "Voll's Devotion",
+        "dustVal": "46.12",
+        "slots": "1"
+    },
+    {
+        "name": "Shavronne's Revelation",
+        "dustVal": "46.12",
+        "slots": "1"
+    },
+    {
+        "name": "Windripper",
+        "dustVal": "46.12",
+        "slots": "8"
+    },
+    {
+        "name": "Magna Eclipsis",
+        "dustVal": "46.12",
+        "slots": "8"
+    },
+    {
+        "name": "Doryani's Fist",
+        "dustVal": "44.78",
+        "slots": "4"
+    },
+    {
+        "name": "Indigon",
+        "dustVal": "44.78",
+        "slots": "4"
+    },
+    {
+        "name": "Farrul's Fur",
+        "dustVal": "44.78",
+        "slots": "6"
+    },
+    {
+        "name": "Farrul's Chase",
+        "dustVal": "44.78",
+        "slots": "4"
+    },
+    {
+        "name": "Kaom's Heart",
+        "dustVal": "43.48",
+        "slots": "6"
+    },
+    {
+        "name": "Rathpith Globe",
+        "dustVal": "43.48",
+        "slots": "4"
+    },
+    {
+        "name": "Prism Guardian",
+        "dustVal": "43.48",
+        "slots": "6"
+    },
+    {
+        "name": "Broken Faith",
+        "dustVal": "43.48",
+        "slots": "6"
+    },
+    {
+        "name": "Cospri's Malice",
+        "dustVal": "43.48",
+        "slots": "4"
+    },
+    {
+        "name": "Inpulsa's Broken Heart",
+        "dustVal": "43.48",
+        "slots": "6"
+    },
+    {
+        "name": "Hand of Wisdom and Action",
+        "dustVal": "1.40",
+        "slots": "4"
+    },
+    {
+        "name": "The Red Trail",
+        "dustVal": "1.40",
+        "slots": "4"
+    },
+    {
+        "name": "Doryani's Delusion",
+        "dustVal": "43.48",
+        "slots": "4"
+    },
+    {
+        "name": "The Queen's Hunger",
+        "dustVal": "43.48",
+        "slots": "6"
+    },
+    {
+        "name": "Maloney's Mechanism",
+        "dustVal": "43.48",
+        "slots": "6"
+    },
+    {
+        "name": "Badge of the Brotherhood",
+        "dustVal": "43.48",
+        "slots": "1"
+    },
+    {
+        "name": "The Immortal Will",
+        "dustVal": "43.48",
+        "slots": "6"
+    },
+    {
+        "name": "Replica Kaom's Heart",
+        "dustVal": "43.48",
+        "slots": "6"
+    },
+    {
+        "name": "Replica Red Trail",
+        "dustVal": "43.48",
+        "slots": "4"
+    },
+    {
+        "name": "Viridi's Veil",
+        "dustVal": "43.48",
+        "slots": "4"
+    },
+    {
+        "name": "Doppelgänger Guise",
+        "dustVal": "43.48",
+        "slots": "6"
+    },
+    {
+        "name": "Thunderfist",
+        "dustVal": "42.21",
+        "slots": "4"
+    },
+    {
+        "name": "Steppan Eard",
+        "dustVal": "42.21",
+        "slots": "4"
+    },
+    {
+        "name": "Heretic's Veil",
+        "dustVal": "42.21",
+        "slots": "4"
+    },
+    {
+        "name": "Machina Mitts",
+        "dustVal": "42.21",
+        "slots": "4"
+    },
+    {
+        "name": "Sporeguard",
+        "dustVal": "42.21",
+        "slots": "6"
+    },
+    {
+        "name": "Doryani's Prototype",
+        "dustVal": "42.21",
+        "slots": "6"
+    },
+    {
+        "name": "Paradoxica",
+        "dustVal": "40.98",
+        "slots": "4"
+    },
+    {
+        "name": "The Yielding Mortality",
+        "dustVal": "40.98",
+        "slots": "8"
+    },
+    {
+        "name": "Replica Paradoxica",
+        "dustVal": "40.98",
+        "slots": "4"
+    },
+    {
+        "name": "Replica Allure",
+        "dustVal": "40.98",
+        "slots": "4"
+    },
+    {
+        "name": "Hyrri's Ire",
+        "dustVal": "39.79",
+        "slots": "6"
+    },
+    {
+        "name": "The Formless Inferno",
+        "dustVal": "6.96",
+        "slots": "4"
+    },
+    {
+        "name": "The Perfect Form",
+        "dustVal": "6.96",
+        "slots": "6"
+    },
+    {
+        "name": "Doedre's Skin",
+        "dustVal": "39.79",
+        "slots": "6"
+    },
+    {
+        "name": "The Eternity Shroud",
+        "dustVal": "39.79",
+        "slots": "6"
+    },
+    {
+        "name": "Replica Perfect Form",
+        "dustVal": "39.79",
+        "slots": "6"
+    },
+    {
+        "name": "Replica Hyrri's Ire",
+        "dustVal": "39.79",
+        "slots": "6"
+    },
+    {
+        "name": "Varunastra",
+        "dustVal": "643.79",
+        "slots": "6"
+    },
+    {
+        "name": "Uul-Netol's Embrace",
+        "dustVal": "6.76",
+        "slots": "8"
+    },
+    {
+        "name": "The Surrender",
+        "dustVal": "38.63",
+        "slots": "8"
+    },
+    {
+        "name": "Disintegrator",
+        "dustVal": "38.63",
+        "slots": "8"
+    },
+    {
+        "name": "Loreweave",
+        "dustVal": "38.63",
+        "slots": "6"
+    },
+    {
+        "name": "Replica Loreweave",
+        "dustVal": "38.63",
+        "slots": "6"
+    },
+    {
+        "name": "Yaomac's Accord",
+        "dustVal": "38.63",
+        "slots": "6"
+    },
+    {
+        "name": "Replica Stampede",
+        "dustVal": "37.50",
+        "slots": "4"
+    },
+    {
+        "name": "Shavronne's Wrappings",
+        "dustVal": "36.41",
+        "slots": "6"
+    },
+    {
+        "name": "Darkscorn",
+        "dustVal": "36.41",
+        "slots": "8"
+    },
+    {
+        "name": "Kintsugi",
+        "dustVal": "36.41",
+        "slots": "6"
+    },
+    {
+        "name": "Tulfall",
+        "dustVal": "1.17",
+        "slots": "3"
+    },
+    {
+        "name": "Esh's Visage",
+        "dustVal": "6.37",
+        "slots": "4"
+    },
+    {
+        "name": "Arborix",
+        "dustVal": "36.41",
+        "slots": "8"
+    },
+    {
+        "name": "Apep's Supremacy",
+        "dustVal": "36.41",
+        "slots": "4"
+    },
+    {
+        "name": "The Surging Thoughts",
+        "dustVal": "36.41",
+        "slots": "6"
+    },
+    {
+        "name": "The Admiral",
+        "dustVal": "36.41",
+        "slots": "6"
+    },
+    {
+        "name": "Replica Cold Iron Point",
+        "dustVal": "36.41",
+        "slots": "3"
+    },
+    {
+        "name": "Replica Tulfall",
+        "dustVal": "36.41",
+        "slots": "3"
+    },
+    {
+        "name": "Abberath's Hooves",
+        "dustVal": "34.61",
+        "slots": "4"
+    },
+    {
+        "name": "Mjölner",
+        "dustVal": "34.32",
+        "slots": "6"
+    },
+    {
+        "name": "Replica Abyssus",
+        "dustVal": "34.32",
+        "slots": "4"
+    },
+    {
+        "name": "Replica Mistwall",
+        "dustVal": "34.32",
+        "slots": "4"
+    },
+    {
+        "name": "The Iron Fortress",
+        "dustVal": "33.32",
+        "slots": "6"
+    },
+    {
+        "name": "Farrul's Pounce",
+        "dustVal": "33.32",
+        "slots": "4"
+    },
+    {
+        "name": "Fleshcrafter",
+        "dustVal": "33.32",
+        "slots": "6"
+    },
+    {
+        "name": "Gravebind",
+        "dustVal": "33.32",
+        "slots": "4"
+    },
+    {
+        "name": "Xoph's Nurture",
+        "dustVal": "1.04",
+        "slots": "8"
+    },
+    {
+        "name": "Crown of the Tyrant",
+        "dustVal": "32.35",
+        "slots": "4"
+    },
+    {
+        "name": "Crest of Desire",
+        "dustVal": "32.35",
+        "slots": "4"
+    },
+    {
+        "name": "Farrul's Bite",
+        "dustVal": "31.41",
+        "slots": "4"
+    },
+    {
+        "name": "Offering to the Serpent",
+        "dustVal": "31.41",
+        "slots": "4"
+    },
+    {
+        "name": "Garb of the Ephemeral",
+        "dustVal": "30.49",
+        "slots": "6"
+    },
+    {
+        "name": "Maata's Teaching",
+        "dustVal": "30.49",
+        "slots": "6"
+    },
+    {
+        "name": "Corpsewalker",
+        "dustVal": "29.60",
+        "slots": "4"
+    },
+    {
+        "name": "The Fourth Vow",
+        "dustVal": "29.60",
+        "slots": "6"
+    },
+    {
+        "name": "The Devouring Diadem",
+        "dustVal": "28.74",
+        "slots": "4"
+    },
+    {
+        "name": "Qotra's Regulator",
+        "dustVal": "28.74",
+        "slots": "4"
+    },
+    {
+        "name": "Atziri's Reflection",
+        "dustVal": "28.74",
+        "slots": "4"
+    },
+    {
+        "name": "Sandstorm Visage",
+        "dustVal": "28.74",
+        "slots": "4"
+    },
+    {
+        "name": "Utula's Hunger",
+        "dustVal": "27.91",
+        "slots": "6"
+    },
+    {
+        "name": "Cloak of Defiance",
+        "dustVal": "27.09",
+        "slots": "6"
+    },
+    {
+        "name": "Skin of the Lords",
+        "dustVal": "13.26",
+        "slots": "6"
+    },
+    {
+        "name": "Zerphi's Heart",
+        "dustVal": "26.52",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Frostbreath",
+        "dustVal": "25.54",
+        "slots": "6"
+    },
+    {
+        "name": "The Covenant",
+        "dustVal": "24.79",
+        "slots": "6"
+    },
+    {
+        "name": "Anathema",
+        "dustVal": "24.79",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Covenant",
+        "dustVal": "24.79",
+        "slots": "6"
+    },
+    {
+        "name": "Winds of Change",
+        "dustVal": "23.37",
+        "slots": "4"
+    },
+    {
+        "name": "Death Rush",
+        "dustVal": "22.69",
+        "slots": "1"
+    },
+    {
+        "name": "Emperor's Vigilance",
+        "dustVal": "22.69",
+        "slots": "6"
+    },
+    {
+        "name": "Mahuxotl's Machination",
+        "dustVal": "22.69",
+        "slots": "6"
+    },
+    {
+        "name": "The Pariah",
+        "dustVal": "22.03",
+        "slots": "1"
+    },
+    {
+        "name": "Abhorrent Interrogation",
+        "dustVal": "22.03",
+        "slots": "4"
+    },
+    {
+        "name": "The Tempest's Liberation",
+        "dustVal": "22.03",
+        "slots": "4"
+    },
+    {
+        "name": "Perfidy",
+        "dustVal": "21.92",
+        "slots": "6"
+    },
+    {
+        "name": "Hand of the Fervent",
+        "dustVal": "20.76",
+        "slots": "4"
+    },
+    {
+        "name": "Impresence",
+        "dustVal": "20.66",
+        "slots": "1"
+    },
+    {
+        "name": "Assailum",
+        "dustVal": "20.66",
+        "slots": "4"
+    },
+    {
+        "name": "Mark of the Elder",
+        "dustVal": "19.48",
+        "slots": "1"
+    },
+    {
+        "name": "Mark of the Shaper",
+        "dustVal": "19.48",
+        "slots": "1"
+    },
+    {
+        "name": "Polaric Devastation",
+        "dustVal": "19.48",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Soul Strike",
+        "dustVal": "19.00",
+        "slots": "6"
+    },
+    {
+        "name": "Replica Midnight Bargain",
+        "dustVal": "19.00",
+        "slots": "3"
+    },
+    {
+        "name": "Brain Rattler",
+        "dustVal": "18.91",
+        "slots": "8"
+    },
+    {
+        "name": "Razor of the Seventh Sun",
+        "dustVal": "18.91",
+        "slots": "6"
+    },
+    {
+        "name": "Snakepit",
+        "dustVal": "18.91",
+        "slots": "1"
+    },
+    {
+        "name": "The Scourge",
+        "dustVal": "18.91",
+        "slots": "4"
+    },
+    {
+        "name": "Memory Vault",
+        "dustVal": "18.91",
+        "slots": "4"
+    },
+    {
+        "name": "Grelwood Shank",
+        "dustVal": "18.91",
+        "slots": "6"
+    },
+    {
+        "name": "Beltimber Blade",
+        "dustVal": "18.91",
+        "slots": "6"
+    },
+    {
+        "name": "Vulconus",
+        "dustVal": "18.91",
+        "slots": "3"
+    },
+    {
+        "name": "Augyre",
+        "dustVal": "18.91",
+        "slots": "6"
+    },
+    {
+        "name": "Gloomfang",
+        "dustVal": "18.91",
+        "slots": "1"
+    },
+    {
+        "name": "The Gull",
+        "dustVal": "17.91",
+        "slots": "4"
+    },
+    {
+        "name": "Severed in Sleep",
+        "dustVal": "0.58",
+        "slots": "3"
+    },
+    {
+        "name": "United in Dream",
+        "dustVal": "3.13",
+        "slots": "3"
+    },
+    {
+        "name": "Blackflame",
+        "dustVal": "17.91",
+        "slots": "1"
+    },
+    {
+        "name": "Maligaro's Virtuosity",
+        "dustVal": "17.82",
+        "slots": "4"
+    },
+    {
+        "name": "Asenath's Gentle Touch",
+        "dustVal": "17.82",
+        "slots": "4"
+    },
+    {
+        "name": "Perandus Signet",
+        "dustVal": "17.82",
+        "slots": "1"
+    },
+    {
+        "name": "Nebuloch",
+        "dustVal": "17.82",
+        "slots": "6"
+    },
+    {
+        "name": "Hopeshredder",
+        "dustVal": "17.82",
+        "slots": "8"
+    },
+    {
+        "name": "Shimmeron",
+        "dustVal": "17.82",
+        "slots": "3"
+    },
+    {
+        "name": "Beacon of Madness",
+        "dustVal": "17.82",
+        "slots": "4"
+    },
+    {
+        "name": "Sunblast",
+        "dustVal": "17.39",
+        "slots": "2"
+    },
+    {
+        "name": "Doon Cuebiyari",
+        "dustVal": "17.30",
+        "slots": "6"
+    },
+    {
+        "name": "Death's Door",
+        "dustVal": "17.30",
+        "slots": "4"
+    },
+    {
+        "name": "Auxium",
+        "dustVal": "16.80",
+        "slots": "2"
+    },
+    {
+        "name": "Flamesight",
+        "dustVal": "16.80",
+        "slots": "4"
+    },
+    {
+        "name": "Galesight",
+        "dustVal": "16.80",
+        "slots": "4"
+    },
+    {
+        "name": "Thundersight",
+        "dustVal": "16.80",
+        "slots": "4"
+    },
+    {
+        "name": "The Ivory Tower",
+        "dustVal": "16.80",
+        "slots": "6"
+    },
+    {
+        "name": "Leash of Oblation",
+        "dustVal": "16.80",
+        "slots": "2"
+    },
+    {
+        "name": "Mistwall",
+        "dustVal": "16.80",
+        "slots": "4"
+    },
+    {
+        "name": "Maw of Mischief",
+        "dustVal": "16.80",
+        "slots": "4"
+    },
+    {
+        "name": "The Burden of Truth",
+        "dustVal": "16.80",
+        "slots": "2"
+    },
+    {
+        "name": "Shadowstitch",
+        "dustVal": "16.31",
+        "slots": "6"
+    },
+    {
+        "name": "Hegemony's Era",
+        "dustVal": "15.84",
+        "slots": "8"
+    },
+    {
+        "name": "Replica Restless Ward",
+        "dustVal": "15.84",
+        "slots": "6"
+    },
+    {
+        "name": "Lioneye's Remorse",
+        "dustVal": "15.37",
+        "slots": "8"
+    },
+    {
+        "name": "Incandescent Heart",
+        "dustVal": "15.37",
+        "slots": "6"
+    },
+    {
+        "name": "The Hungry Loop",
+        "dustVal": "15.37",
+        "slots": "1"
+    },
+    {
+        "name": "Chains of Command",
+        "dustVal": "15.37",
+        "slots": "6"
+    },
+    {
+        "name": "Black Zenith",
+        "dustVal": "15.37",
+        "slots": "4"
+    },
+    {
+        "name": "Crown of Eyes",
+        "dustVal": "14.93",
+        "slots": "4"
+    },
+    {
+        "name": "Ylfeban's Trickery",
+        "dustVal": "14.93",
+        "slots": "4"
+    },
+    {
+        "name": "Voidwalker",
+        "dustVal": "14.93",
+        "slots": "4"
+    },
+    {
+        "name": "Bubonic Trail",
+        "dustVal": "14.93",
+        "slots": "4"
+    },
+    {
+        "name": "Craiceann's Pincers",
+        "dustVal": "14.93",
+        "slots": "4"
+    },
+    {
+        "name": "Usurper's Penance",
+        "dustVal": "14.93",
+        "slots": "4"
+    },
+    {
+        "name": "Replica Voidwalker",
+        "dustVal": "14.93",
+        "slots": "4"
+    },
+    {
+        "name": "Vorana's March",
+        "dustVal": "14.93",
+        "slots": "4"
+    },
+    {
+        "name": "Kaom's Spirit",
+        "dustVal": "14.93",
+        "slots": "4"
+    },
+    {
+        "name": "The Shattered Divinity",
+        "dustVal": "14.56",
+        "slots": "6"
+    },
+    {
+        "name": "Mon'tregul's Grasp",
+        "dustVal": "14.49",
+        "slots": "6"
+    },
+    {
+        "name": "Pledge of Hands",
+        "dustVal": "14.49",
+        "slots": "8"
+    },
+    {
+        "name": "Kaom's Roots",
+        "dustVal": "14.49",
+        "slots": "4"
+    },
+    {
+        "name": "Voll's Vision",
+        "dustVal": "14.49",
+        "slots": "4"
+    },
+    {
+        "name": "Malachai's Vision",
+        "dustVal": "14.49",
+        "slots": "4"
+    },
+    {
+        "name": "Cospri's Will",
+        "dustVal": "14.49",
+        "slots": "6"
+    },
+    {
+        "name": "Tinkerskin",
+        "dustVal": "14.49",
+        "slots": "6"
+    },
+    {
+        "name": "Hand of Thought and Motion",
+        "dustVal": "2.04",
+        "slots": "4"
+    },
+    {
+        "name": "The Infinite Pursuit",
+        "dustVal": "2.04",
+        "slots": "4"
+    },
+    {
+        "name": "The Unshattered Will",
+        "dustVal": "14.49",
+        "slots": "6"
+    },
+    {
+        "name": "Invictus Solaris",
+        "dustVal": "14.49",
+        "slots": "6"
+    },
+    {
+        "name": "Cyclopean Coil",
+        "dustVal": "14.49",
+        "slots": "2"
+    },
+    {
+        "name": "Blasphemer's Grasp",
+        "dustVal": "14.49",
+        "slots": "4"
+    },
+    {
+        "name": "The Grey Spire",
+        "dustVal": "14.49",
+        "slots": "8"
+    },
+    {
+        "name": "Bitterbind Point",
+        "dustVal": "14.49",
+        "slots": "4"
+    },
+    {
+        "name": "Nebulis",
+        "dustVal": "14.49",
+        "slots": "6"
+    },
+    {
+        "name": "Atziri's Rule",
+        "dustVal": "14.49",
+        "slots": "8"
+    },
+    {
+        "name": "Cadigan's Crown",
+        "dustVal": "14.49",
+        "slots": "4"
+    },
+    {
+        "name": "The Taming",
+        "dustVal": "14.14",
+        "slots": "1"
+    },
+    {
+        "name": "The Bringer of Rain",
+        "dustVal": "14.07",
+        "slots": "4"
+    },
+    {
+        "name": "Replica Oro's Sacrifice",
+        "dustVal": "14.07",
+        "slots": "8"
+    },
+    {
+        "name": "Dawnbreaker",
+        "dustVal": "14.07",
+        "slots": "8"
+    },
+    {
+        "name": "Dreamfeather",
+        "dustVal": "13.66",
+        "slots": "6"
+    },
+    {
+        "name": "Repentance",
+        "dustVal": "13.66",
+        "slots": "4"
+    },
+    {
+        "name": "Shaper's Touch",
+        "dustVal": "13.66",
+        "slots": "4"
+    },
+    {
+        "name": "The Enmity Divine",
+        "dustVal": "13.66",
+        "slots": "8"
+    },
+    {
+        "name": "Vix Lunaris",
+        "dustVal": "13.66",
+        "slots": "6"
+    },
+    {
+        "name": "Voidfletcher",
+        "dustVal": "13.66",
+        "slots": "6"
+    },
+    {
+        "name": "Hands of the High Templar",
+        "dustVal": "13.66",
+        "slots": "4"
+    },
+    {
+        "name": "Font of Thunder",
+        "dustVal": "13.66",
+        "slots": "4"
+    },
+    {
+        "name": "Replica Dreamfeather",
+        "dustVal": "13.66",
+        "slots": "6"
+    },
+    {
+        "name": "The Goddess Scorned",
+        "dustVal": "13.33",
+        "slots": "6"
+    },
+    {
+        "name": "Rime Gaze",
+        "dustVal": "13.26",
+        "slots": "4"
+    },
+    {
+        "name": "Infernal Mantle",
+        "dustVal": "13.26",
+        "slots": "6"
+    },
+    {
+        "name": "Ming's Heart",
+        "dustVal": "13.26",
+        "slots": "1"
+    },
+    {
+        "name": "Jack, the Axe",
+        "dustVal": "13.26",
+        "slots": "6"
+    },
+    {
+        "name": "Doomsower",
+        "dustVal": "13.26",
+        "slots": "8"
+    },
+    {
+        "name": "Scold's Bridle",
+        "dustVal": "13.26",
+        "slots": "4"
+    },
+    {
+        "name": "The Formless Flame",
+        "dustVal": "2.44",
+        "slots": "4"
+    },
+    {
+        "name": "The Snowblind Grace",
+        "dustVal": "2.44",
+        "slots": "6"
+    },
+    {
+        "name": "Saqawal's Nest",
+        "dustVal": "13.26",
+        "slots": "6"
+    },
+    {
+        "name": "Fenumus' Shroud",
+        "dustVal": "13.26",
+        "slots": "6"
+    },
+    {
+        "name": "Hale Negator",
+        "dustVal": "13.26",
+        "slots": "4"
+    },
+    {
+        "name": "Echoes of Creation",
+        "dustVal": "13.26",
+        "slots": "4"
+    },
+    {
+        "name": "Taryn's Shiver",
+        "dustVal": "12.88",
+        "slots": "8"
+    },
+    {
+        "name": "Alpha's Howl",
+        "dustVal": "12.88",
+        "slots": "4"
+    },
+    {
+        "name": "Rebuke of the Vaal",
+        "dustVal": "12.88",
+        "slots": "6"
+    },
+    {
+        "name": "Hezmana's Bloodlust",
+        "dustVal": "12.88",
+        "slots": "8"
+    },
+    {
+        "name": "Reach of the Council",
+        "dustVal": "12.88",
+        "slots": "8"
+    },
+    {
+        "name": "Uul-Netol's Kiss",
+        "dustVal": "2.37",
+        "slots": "8"
+    },
+    {
+        "name": "The Anticipation",
+        "dustVal": "12.88",
+        "slots": "8"
+    },
+    {
+        "name": "Replica Alpha's Howl",
+        "dustVal": "12.88",
+        "slots": "4"
+    },
+    {
+        "name": "Daresso's Defiance",
+        "dustVal": "12.50",
+        "slots": "6"
+    },
+    {
+        "name": "Atziri's Acuity",
+        "dustVal": "12.50",
+        "slots": "4"
+    },
+    {
+        "name": "Fenumus' Spinnerets",
+        "dustVal": "12.50",
+        "slots": "4"
+    },
+    {
+        "name": "Crown of the Inward Eye",
+        "dustVal": "12.50",
+        "slots": "4"
+    },
+    {
+        "name": "Astramentis",
+        "dustVal": "12.20",
+        "slots": "1"
+    },
+    {
+        "name": "Presence of Chayula",
+        "dustVal": "12.20",
+        "slots": "1"
+    },
+    {
+        "name": "Aul's Uprising",
+        "dustVal": "12.20",
+        "slots": "1"
+    },
+    {
+        "name": "Solstice Vigil",
+        "dustVal": "12.20",
+        "slots": "1"
+    },
+    {
+        "name": "Leadership's Price",
+        "dustVal": "12.20",
+        "slots": "1"
+    },
+    {
+        "name": "Crystallised Omniscience",
+        "dustVal": "12.20",
+        "slots": "1"
+    },
+    {
+        "name": "Ashes of the Stars",
+        "dustVal": "12.20",
+        "slots": "1"
+    },
+    {
+        "name": "Stormfire",
+        "dustVal": "12.17",
+        "slots": "1"
+    },
+    {
+        "name": "The Searing Touch",
+        "dustVal": "12.14",
+        "slots": "8"
+    },
+    {
+        "name": "Carcass Jack",
+        "dustVal": "12.14",
+        "slots": "6"
+    },
+    {
+        "name": "Death's Oath",
+        "dustVal": "12.14",
+        "slots": "6"
+    },
+    {
+        "name": "The Vertex",
+        "dustVal": "12.14",
+        "slots": "4"
+    },
+    {
+        "name": "Tulborn",
+        "dustVal": "1.71",
+        "slots": "3"
+    },
+    {
+        "name": "Esh's Mirror",
+        "dustVal": "2.24",
+        "slots": "4"
+    },
+    {
+        "name": "Yriel's Fostering",
+        "dustVal": "12.14",
+        "slots": "6"
+    },
+    {
+        "name": "The Rippling Thoughts",
+        "dustVal": "12.14",
+        "slots": "6"
+    },
+    {
+        "name": "Perepiteia",
+        "dustVal": "12.14",
+        "slots": "4"
+    },
+    {
+        "name": "Fractal Thoughts",
+        "dustVal": "12.14",
+        "slots": "4"
+    },
+    {
+        "name": "Cold Iron Point",
+        "dustVal": "12.14",
+        "slots": "3"
+    },
+    {
+        "name": "Law of the Wilds",
+        "dustVal": "12.14",
+        "slots": "4"
+    },
+    {
+        "name": "Blunderbore",
+        "dustVal": "12.14",
+        "slots": "6"
+    },
+    {
+        "name": "Replica Wings of Entropy",
+        "dustVal": "12.14",
+        "slots": "8"
+    },
+    {
+        "name": "Glimpse of Chaos",
+        "dustVal": "12.14",
+        "slots": "4"
+    },
+    {
+        "name": "Dawnstrider",
+        "dustVal": "12.14",
+        "slots": "4"
+    },
+    {
+        "name": "Rigwald's Savagery",
+        "dustVal": "11.82",
+        "slots": "6"
+    },
+    {
+        "name": "Rigwald's Command",
+        "dustVal": "11.82",
+        "slots": "6"
+    },
+    {
+        "name": "Slivertongue",
+        "dustVal": "11.82",
+        "slots": "8"
+    },
+    {
+        "name": "Obscurantis",
+        "dustVal": "11.82",
+        "slots": "4"
+    },
+    {
+        "name": "Inya's Epiphany",
+        "dustVal": "11.78",
+        "slots": "4"
+    },
+    {
+        "name": "Replica Inya's Epiphany",
+        "dustVal": "11.78",
+        "slots": "4"
+    },
+    {
+        "name": "Abyssus",
+        "dustVal": "11.44",
+        "slots": "4"
+    },
+    {
+        "name": "Lightning Coil",
+        "dustVal": "11.44",
+        "slots": "6"
+    },
+    {
+        "name": "Null's Inclination",
+        "dustVal": "11.44",
+        "slots": "8"
+    },
+    {
+        "name": "Dyadian Dawn",
+        "dustVal": "11.44",
+        "slots": "2"
+    },
+    {
+        "name": "Rigwald's Curse",
+        "dustVal": "11.44",
+        "slots": "1"
+    },
+    {
+        "name": "Grip of the Council",
+        "dustVal": "11.44",
+        "slots": "4"
+    },
+    {
+        "name": "Saqawal's Flock",
+        "dustVal": "11.44",
+        "slots": "4"
+    },
+    {
+        "name": "The Iron Mass",
+        "dustVal": "11.44",
+        "slots": "6"
+    },
+    {
+        "name": "The Hidden Blade",
+        "dustVal": "11.44",
+        "slots": "3"
+    },
+    {
+        "name": "The Fulcrum",
+        "dustVal": "11.44",
+        "slots": "8"
+    },
+    {
+        "name": "Replica Grip of the Council",
+        "dustVal": "11.44",
+        "slots": "4"
+    },
+    {
+        "name": "Cameria's Avarice",
+        "dustVal": "11.44",
+        "slots": "6"
+    },
+    {
+        "name": "Contract: The Twins",
+        "dustVal": "11.29",
+        "slots": "1"
+    },
+    {
+        "name": "Algor Mortis",
+        "dustVal": "11.14",
+        "slots": "4"
+    },
+    {
+        "name": "Saffell's Frame",
+        "dustVal": "11.11",
+        "slots": "6"
+    },
+    {
+        "name": "Queen of the Forest",
+        "dustVal": "11.11",
+        "slots": "6"
+    },
+    {
+        "name": "Saqawal's Talons",
+        "dustVal": "11.11",
+        "slots": "4"
+    },
+    {
+        "name": "Breathstealer",
+        "dustVal": "11.11",
+        "slots": "4"
+    },
+    {
+        "name": "Expedition's End",
+        "dustVal": "11.11",
+        "slots": "6"
+    },
+    {
+        "name": "Wilma's Requital",
+        "dustVal": "11.11",
+        "slots": "4"
+    },
+    {
+        "name": "Gamblesprint",
+        "dustVal": "11.11",
+        "slots": "4"
+    },
+    {
+        "name": "First Piece of Focus",
+        "dustVal": "10.96",
+        "slots": "2"
+    },
+    {
+        "name": "Second Piece of Focus",
+        "dustVal": "10.96",
+        "slots": "2"
+    },
+    {
+        "name": "Third Piece of Focus",
+        "dustVal": "10.96",
+        "slots": "1"
+    },
+    {
+        "name": "Fourth Piece of Focus",
+        "dustVal": "10.96",
+        "slots": "1"
+    },
+    {
+        "name": "First Piece of Storms",
+        "dustVal": "10.96",
+        "slots": "1"
+    },
+    {
+        "name": "Second Piece of Storms",
+        "dustVal": "10.96",
+        "slots": "1"
+    },
+    {
+        "name": "Third Piece of Storms",
+        "dustVal": "10.96",
+        "slots": "2"
+    },
+    {
+        "name": "Contract: Death to Darnaw",
+        "dustVal": "10.96",
+        "slots": "1"
+    },
+    {
+        "name": "Unyielding Flame",
+        "dustVal": "10.82",
+        "slots": "6"
+    },
+    {
+        "name": "Xoph's Inception",
+        "dustVal": "1.51",
+        "slots": "8"
+    },
+    {
+        "name": "Craiceann's Chitin",
+        "dustVal": "10.78",
+        "slots": "4"
+    },
+    {
+        "name": "Mask of the Stitched Demon",
+        "dustVal": "10.78",
+        "slots": "4"
+    },
+    {
+        "name": "Storm's Gift",
+        "dustVal": "10.78",
+        "slots": "4"
+    },
+    {
+        "name": "Mask of the Tribunal",
+        "dustVal": "10.78",
+        "slots": "4"
+    },
+    {
+        "name": "Contract: Heart of Glory",
+        "dustVal": "10.64",
+        "slots": "1"
+    },
+    {
+        "name": "The Magnate",
+        "dustVal": "10.52",
+        "slots": "2"
+    },
+    {
+        "name": "The Torrent's Reclamation",
+        "dustVal": "10.52",
+        "slots": "2"
+    },
+    {
+        "name": "Replica Soul Tether",
+        "dustVal": "10.52",
+        "slots": "2"
+    },
+    {
+        "name": "Replica Ungil's Gauche",
+        "dustVal": "10.52",
+        "slots": "3"
+    },
+    {
+        "name": "Replica Badge of the Brotherhood",
+        "dustVal": "10.52",
+        "slots": "1"
+    },
+    {
+        "name": "Perseverance",
+        "dustVal": "10.50",
+        "slots": "2"
+    },
+    {
+        "name": "The Black Cane",
+        "dustVal": "10.50",
+        "slots": "6"
+    },
+    {
+        "name": "Willowgift",
+        "dustVal": "10.50",
+        "slots": "1"
+    },
+    {
+        "name": "Eye of Malice",
+        "dustVal": "10.50",
+        "slots": "4"
+    },
+    {
+        "name": "Ancient Skull",
+        "dustVal": "10.50",
+        "slots": "4"
+    },
+    {
+        "name": "Mind of the Council",
+        "dustVal": "10.47",
+        "slots": "4"
+    },
+    {
+        "name": "The Crimson Storm",
+        "dustVal": "10.47",
+        "slots": "8"
+    },
+    {
+        "name": "Kaom's Binding",
+        "dustVal": "10.47",
+        "slots": "2"
+    },
+    {
+        "name": "Contract: Breaking the Unbreakable",
+        "dustVal": "10.33",
+        "slots": "1"
+    },
+    {
+        "name": "Contract: The Slaver King",
+        "dustVal": "10.33",
+        "slots": "1"
+    },
+    {
+        "name": "The Rat Cage",
+        "dustVal": "10.16",
+        "slots": "6"
+    },
+    {
+        "name": "Craiceann's Carapace",
+        "dustVal": "10.16",
+        "slots": "6"
+    },
+    {
+        "name": "Fate of the Vaal",
+        "dustVal": "10.16",
+        "slots": "3"
+    },
+    {
+        "name": "Replica Dragonfang's Flight",
+        "dustVal": "10.16",
+        "slots": "1"
+    },
+    {
+        "name": "Lioneye's Vision",
+        "dustVal": "9.90",
+        "slots": "6"
+    },
+    {
+        "name": "Brinerot Mark",
+        "dustVal": "9.87",
+        "slots": "1"
+    },
+    {
+        "name": "Redblade Band",
+        "dustVal": "9.87",
+        "slots": "1"
+    },
+    {
+        "name": "Mutewind Seal",
+        "dustVal": "9.87",
+        "slots": "1"
+    },
+    {
+        "name": "Ngamahu's Flame",
+        "dustVal": "9.87",
+        "slots": "8"
+    },
+    {
+        "name": "Omeyocan",
+        "dustVal": "9.87",
+        "slots": "4"
+    },
+    {
+        "name": "Tavukai",
+        "dustVal": "9.87",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Three-step Assault",
+        "dustVal": "9.87",
+        "slots": "4"
+    },
+    {
+        "name": "Temptation Step",
+        "dustVal": "9.87",
+        "slots": "4"
+    },
+    {
+        "name": "Great Old One's Tentacles",
+        "dustVal": "9.61",
+        "slots": "4"
+    },
+    {
+        "name": "Ceaseless Feast",
+        "dustVal": "9.61",
+        "slots": "4"
+    },
+    {
+        "name": "Inextricable Fate",
+        "dustVal": "9.61",
+        "slots": "4"
+    },
+    {
+        "name": "Chitus' Apex",
+        "dustVal": "9.58",
+        "slots": "4"
+    },
+    {
+        "name": "Daresso's Courage",
+        "dustVal": "9.58",
+        "slots": "6"
+    },
+    {
+        "name": "Craiceann's Tracks",
+        "dustVal": "9.58",
+        "slots": "4"
+    },
+    {
+        "name": "Fenumus' Toxins",
+        "dustVal": "9.58",
+        "slots": "4"
+    },
+    {
+        "name": "Eye of Innocence",
+        "dustVal": "9.45",
+        "slots": "1"
+    },
+    {
+        "name": "First Piece of Brutality",
+        "dustVal": "9.45",
+        "slots": "2"
+    },
+    {
+        "name": "Second Piece of Brutality",
+        "dustVal": "9.45",
+        "slots": "2"
+    },
+    {
+        "name": "Third Piece of Brutality",
+        "dustVal": "9.45",
+        "slots": "4"
+    },
+    {
+        "name": "First Piece of Directions",
+        "dustVal": "9.45",
+        "slots": "2"
+    },
+    {
+        "name": "Second Piece of Directions",
+        "dustVal": "9.45",
+        "slots": "2"
+    },
+    {
+        "name": "Third Piece of Directions",
+        "dustVal": "9.45",
+        "slots": "2"
+    },
+    {
+        "name": "Leper's Alms",
+        "dustVal": "9.45",
+        "slots": "4"
+    },
+    {
+        "name": "Atziri's Foible",
+        "dustVal": "9.35",
+        "slots": "1"
+    },
+    {
+        "name": "Ahkeli's Meadow",
+        "dustVal": "9.35",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Emberwake",
+        "dustVal": "9.35",
+        "slots": "1"
+    },
+    {
+        "name": "Dyadus",
+        "dustVal": "9.33",
+        "slots": "6"
+    },
+    {
+        "name": "Atziri's Step",
+        "dustVal": "9.33",
+        "slots": "4"
+    },
+    {
+        "name": "Cherrubim's Maleficence",
+        "dustVal": "9.33",
+        "slots": "6"
+    },
+    {
+        "name": "Eber's Unification",
+        "dustVal": "9.33",
+        "slots": "4"
+    },
+    {
+        "name": "Medved's Challenge",
+        "dustVal": "9.33",
+        "slots": "4"
+    },
+    {
+        "name": "Rainbowstride",
+        "dustVal": "9.30",
+        "slots": "4"
+    },
+    {
+        "name": "Apep's Rage",
+        "dustVal": "9.30",
+        "slots": "3"
+    },
+    {
+        "name": "Lightpoacher",
+        "dustVal": "9.30",
+        "slots": "4"
+    },
+    {
+        "name": "Forbidden Shako",
+        "dustVal": "9.30",
+        "slots": "4"
+    },
+    {
+        "name": "Replica Infractem",
+        "dustVal": "9.30",
+        "slots": "8"
+    },
+    {
+        "name": "The Beast Fur Shawl",
+        "dustVal": "9.06",
+        "slots": "6"
+    },
+    {
+        "name": "Touch of Anguish",
+        "dustVal": "9.06",
+        "slots": "4"
+    },
+    {
+        "name": "Ahn's Contempt",
+        "dustVal": "9.06",
+        "slots": "4"
+    },
+    {
+        "name": "Ahn's Might",
+        "dustVal": "9.06",
+        "slots": "6"
+    },
+    {
+        "name": "Gorgon's Gaze",
+        "dustVal": "9.03",
+        "slots": "4"
+    },
+    {
+        "name": "Profane Proxy",
+        "dustVal": "9.03",
+        "slots": "1"
+    },
+    {
+        "name": "Witchhunter's Judgment",
+        "dustVal": "9.03",
+        "slots": "8"
+    },
+    {
+        "name": "Akoya's Gaze",
+        "dustVal": "9.03",
+        "slots": "4"
+    },
+    {
+        "name": "The Ephemeral Bond",
+        "dustVal": "8.91",
+        "slots": "1"
+    },
+    {
+        "name": "Kongor's Undying Rage",
+        "dustVal": "8.79",
+        "slots": "8"
+    },
+    {
+        "name": "Ahn's Heritage",
+        "dustVal": "8.79",
+        "slots": "8"
+    },
+    {
+        "name": "Saqawal's Winds",
+        "dustVal": "8.77",
+        "slots": "4"
+    },
+    {
+        "name": "Legacy of Fury",
+        "dustVal": "8.77",
+        "slots": "4"
+    },
+    {
+        "name": "Devoto's Devotion",
+        "dustVal": "8.65",
+        "slots": "4"
+    },
+    {
+        "name": "Bloodgrip",
+        "dustVal": "8.65",
+        "slots": "1"
+    },
+    {
+        "name": "Agnerod East",
+        "dustVal": "8.54",
+        "slots": "8"
+    },
+    {
+        "name": "Agnerod North",
+        "dustVal": "8.54",
+        "slots": "8"
+    },
+    {
+        "name": "Agnerod South",
+        "dustVal": "8.54",
+        "slots": "8"
+    },
+    {
+        "name": "Agnerod West",
+        "dustVal": "8.54",
+        "slots": "8"
+    },
+    {
+        "name": "Breath of the Council",
+        "dustVal": "8.54",
+        "slots": "6"
+    },
+    {
+        "name": "The Poised Prism",
+        "dustVal": "8.54",
+        "slots": "6"
+    },
+    {
+        "name": "Andvarius",
+        "dustVal": "8.51",
+        "slots": "1"
+    },
+    {
+        "name": "Star of Wraeclast",
+        "dustVal": "8.51",
+        "slots": "1"
+    },
+    {
+        "name": "Fenumus' Weave",
+        "dustVal": "8.51",
+        "slots": "4"
+    },
+    {
+        "name": "Replica Victario's Charity",
+        "dustVal": "8.51",
+        "slots": "6"
+    },
+    {
+        "name": "Replica Heartbreaker",
+        "dustVal": "8.51",
+        "slots": "3"
+    },
+    {
+        "name": "Worldcarver",
+        "dustVal": "8.40",
+        "slots": "4"
+    },
+    {
+        "name": "Painseeker",
+        "dustVal": "8.40",
+        "slots": "4"
+    },
+    {
+        "name": "The Poet's Pen",
+        "dustVal": "8.31",
+        "slots": "3"
+    },
+    {
+        "name": "Putembo's Mountain",
+        "dustVal": "8.31",
+        "slots": "1"
+    },
+    {
+        "name": "Rise of the Phoenix",
+        "dustVal": "8.29",
+        "slots": "6"
+    },
+    {
+        "name": "Darkray Vectors",
+        "dustVal": "8.29",
+        "slots": "4"
+    },
+    {
+        "name": "Vis Mortis",
+        "dustVal": "8.29",
+        "slots": "6"
+    },
+    {
+        "name": "Ventor's Gamble",
+        "dustVal": "8.29",
+        "slots": "1"
+    },
+    {
+        "name": "Malachai's Loop",
+        "dustVal": "8.29",
+        "slots": "4"
+    },
+    {
+        "name": "Cane of Kulemak",
+        "dustVal": "8.26",
+        "slots": "8"
+    },
+    {
+        "name": "The Scales of Justice",
+        "dustVal": "8.26",
+        "slots": "4"
+    },
+    {
+        "name": "Bound Fate",
+        "dustVal": "8.26",
+        "slots": "2"
+    },
+    {
+        "name": "Death's Hand",
+        "dustVal": "8.16",
+        "slots": "6"
+    },
+    {
+        "name": "Doryani's Catalyst",
+        "dustVal": "8.05",
+        "slots": "6"
+    },
+    {
+        "name": "Soul Strike",
+        "dustVal": "8.05",
+        "slots": "6"
+    },
+    {
+        "name": "Geofri's Sanctuary",
+        "dustVal": "8.05",
+        "slots": "6"
+    },
+    {
+        "name": "Hyrri's Truth",
+        "dustVal": "8.05",
+        "slots": "1"
+    },
+    {
+        "name": "Rashkaldor's Patience",
+        "dustVal": "8.02",
+        "slots": "1"
+    },
+    {
+        "name": "Maw of Conquest",
+        "dustVal": "8.02",
+        "slots": "4"
+    },
+    {
+        "name": "The Jinxed Juju",
+        "dustVal": "8.02",
+        "slots": "1"
+    },
+    {
+        "name": "The Restless Ward",
+        "dustVal": "7.92",
+        "slots": "6"
+    },
+    {
+        "name": "Replica Siegebreaker",
+        "dustVal": "7.83",
+        "slots": "2"
+    },
+    {
+        "name": "Speaker's Wreath",
+        "dustVal": "7.81",
+        "slots": "4"
+    },
+    {
+        "name": "The Stampede",
+        "dustVal": "7.81",
+        "slots": "4"
+    },
+    {
+        "name": "Actum",
+        "dustVal": "7.81",
+        "slots": "6"
+    },
+    {
+        "name": "Cerberus Limb",
+        "dustVal": "7.79",
+        "slots": "6"
+    },
+    {
+        "name": "Replica Kalisa's Grace",
+        "dustVal": "7.79",
+        "slots": "4"
+    },
+    {
+        "name": "Replica Innsbury Edge",
+        "dustVal": "7.79",
+        "slots": "6"
+    },
+    {
+        "name": "Jaws of Agony",
+        "dustVal": "7.69",
+        "slots": "4"
+    },
+    {
+        "name": "Rive",
+        "dustVal": "7.69",
+        "slots": "4"
+    },
+    {
+        "name": "Mercenary's Lot",
+        "dustVal": "7.69",
+        "slots": "4"
+    },
+    {
+        "name": "The Oppressor",
+        "dustVal": "7.69",
+        "slots": "6"
+    },
+    {
+        "name": "Hyaon's Fury",
+        "dustVal": "7.59",
+        "slots": "6"
+    },
+    {
+        "name": "Singularity",
+        "dustVal": "7.59",
+        "slots": "6"
+    },
+    {
+        "name": "Apep's Slumber",
+        "dustVal": "7.59",
+        "slots": "4"
+    },
+    {
+        "name": "Belly of the Beast",
+        "dustVal": "7.56",
+        "slots": "6"
+    },
+    {
+        "name": "Redblade Tramplers",
+        "dustVal": "7.56",
+        "slots": "4"
+    },
+    {
+        "name": "Veruso's Battering Rams",
+        "dustVal": "7.46",
+        "slots": "4"
+    },
+    {
+        "name": "Asenath's Mark",
+        "dustVal": "7.38",
+        "slots": "4"
+    },
+    {
+        "name": "Uzaza's Valley",
+        "dustVal": "7.38",
+        "slots": "1"
+    },
+    {
+        "name": "Scorpion's Call",
+        "dustVal": "7.36",
+        "slots": "6"
+    },
+    {
+        "name": "Soulthirst",
+        "dustVal": "7.34",
+        "slots": "2"
+    },
+    {
+        "name": "The Tempest's Binding",
+        "dustVal": "7.34",
+        "slots": "4"
+    },
+    {
+        "name": "Slavedriver's Hand",
+        "dustVal": "7.34",
+        "slots": "4"
+    },
+    {
+        "name": "Vivinsect",
+        "dustVal": "7.34",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Malachai's Artifice",
+        "dustVal": "7.34",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Voideye",
+        "dustVal": "7.34",
+        "slots": "1"
+    },
+    {
+        "name": "Rotblood Promise",
+        "dustVal": "7.34",
+        "slots": "1"
+    },
+    {
+        "name": "Triumvirate Authority",
+        "dustVal": "7.34",
+        "slots": "1"
+    },
+    {
+        "name": "Izaro's Dilemma",
+        "dustVal": "7.25",
+        "slots": "4"
+    },
+    {
+        "name": "Nuro's Harp",
+        "dustVal": "7.25",
+        "slots": "8"
+    },
+    {
+        "name": "Xoph's Blood",
+        "dustVal": "7.16",
+        "slots": "1"
+    },
+    {
+        "name": "The Pandemonius",
+        "dustVal": "7.16",
+        "slots": "1"
+    },
+    {
+        "name": "Choir of the Storm",
+        "dustVal": "7.16",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Hyrri's Truth",
+        "dustVal": "7.16",
+        "slots": "1"
+    },
+    {
+        "name": "Starkonja's Head",
+        "dustVal": "7.15",
+        "slots": "4"
+    },
+    {
+        "name": "Romira's Banquet",
+        "dustVal": "7.15",
+        "slots": "1"
+    },
+    {
+        "name": "Scaeva",
+        "dustVal": "7.15",
+        "slots": "6"
+    },
+    {
+        "name": "Cane of Unravelling",
+        "dustVal": "7.15",
+        "slots": "8"
+    },
+    {
+        "name": "Soulwrest",
+        "dustVal": "7.15",
+        "slots": "8"
+    },
+    {
+        "name": "Cowl of the Thermophile",
+        "dustVal": "7.15",
+        "slots": "4"
+    },
+    {
+        "name": "Cowl of the Cryophile",
+        "dustVal": "7.15",
+        "slots": "4"
+    },
+    {
+        "name": "The Blood Dance",
+        "dustVal": "7.13",
+        "slots": "4"
+    },
+    {
+        "name": "Hinekora's Sight",
+        "dustVal": "7.13",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Hinekora's Sight",
+        "dustVal": "7.13",
+        "slots": "1"
+    },
+    {
+        "name": "Oro's Sacrifice",
+        "dustVal": "7.03",
+        "slots": "8"
+    },
+    {
+        "name": "Surgebinders",
+        "dustVal": "7.03",
+        "slots": "4"
+    },
+    {
+        "name": "Piscator's Vigil",
+        "dustVal": "6.94",
+        "slots": "3"
+    },
+    {
+        "name": "The Dancing Dervish",
+        "dustVal": "6.94",
+        "slots": "8"
+    },
+    {
+        "name": "Hiltless",
+        "dustVal": "6.94",
+        "slots": "8"
+    },
+    {
+        "name": "Dendrobate",
+        "dustVal": "6.94",
+        "slots": "6"
+    },
+    {
+        "name": "Cowl of the Ceraunophile",
+        "dustVal": "6.94",
+        "slots": "4"
+    },
+    {
+        "name": "Haemophilia",
+        "dustVal": "6.92",
+        "slots": "4"
+    },
+    {
+        "name": "Volkuur's Guidance",
+        "dustVal": "6.92",
+        "slots": "4"
+    },
+    {
+        "name": "Replica Volkuur's Guidance",
+        "dustVal": "6.92",
+        "slots": "4"
+    },
+    {
+        "name": "Callinellus Malleus",
+        "dustVal": "6.83",
+        "slots": "6"
+    },
+    {
+        "name": "The Goddess Unleashed",
+        "dustVal": "6.83",
+        "slots": "6"
+    },
+    {
+        "name": "Allure",
+        "dustVal": "6.83",
+        "slots": "4"
+    },
+    {
+        "name": "Debeon's Dirge",
+        "dustVal": "6.83",
+        "slots": "8"
+    },
+    {
+        "name": "White Wind",
+        "dustVal": "6.83",
+        "slots": "3"
+    },
+    {
+        "name": "Kaom's Primacy",
+        "dustVal": "32.35",
+        "slots": "8"
+    },
+    {
+        "name": "Snakebite",
+        "dustVal": "6.74",
+        "slots": "4"
+    },
+    {
+        "name": "Ichimonji",
+        "dustVal": "6.74",
+        "slots": "3"
+    },
+    {
+        "name": "Mask of the Spirit Drinker",
+        "dustVal": "6.74",
+        "slots": "4"
+    },
+    {
+        "name": "The Ghastly Theatre",
+        "dustVal": "6.74",
+        "slots": "6"
+    },
+    {
+        "name": "The Gluttonous Tide",
+        "dustVal": "6.74",
+        "slots": "8"
+    },
+    {
+        "name": "Mutewind Pennant",
+        "dustVal": "6.72",
+        "slots": "4"
+    },
+    {
+        "name": "Mutewind Whispersteps",
+        "dustVal": "6.72",
+        "slots": "4"
+    },
+    {
+        "name": "Tainted Pact",
+        "dustVal": "6.72",
+        "slots": "1"
+    },
+    {
+        "name": "Null and Void",
+        "dustVal": "6.54",
+        "slots": "4"
+    },
+    {
+        "name": "Kiloava's Bluster",
+        "dustVal": "6.54",
+        "slots": "4"
+    },
+    {
+        "name": "The Supreme Truth",
+        "dustVal": "6.52",
+        "slots": "6"
+    },
+    {
+        "name": "Nycta's Lantern",
+        "dustVal": "6.52",
+        "slots": "6"
+    },
+    {
+        "name": "Tremor Rod",
+        "dustVal": "6.52",
+        "slots": "8"
+    },
+    {
+        "name": "Brinerot Whalers",
+        "dustVal": "6.52",
+        "slots": "4"
+    },
+    {
+        "name": "Allelopathy",
+        "dustVal": "6.52",
+        "slots": "4"
+    },
+    {
+        "name": "Replica Allelopathy",
+        "dustVal": "6.52",
+        "slots": "4"
+    },
+    {
+        "name": "Mark of the Doubting Knight",
+        "dustVal": "6.44",
+        "slots": "3"
+    },
+    {
+        "name": "Skin of the Loyal",
+        "dustVal": "1.11",
+        "slots": "6"
+    },
+    {
+        "name": "Replica Atziri's Foible",
+        "dustVal": "6.37",
+        "slots": "1"
+    },
+    {
+        "name": "Greed's Embrace",
+        "dustVal": "6.35",
+        "slots": "6"
+    },
+    {
+        "name": "Story of the Vaal",
+        "dustVal": "6.35",
+        "slots": "3"
+    },
+    {
+        "name": "Storm Secret",
+        "dustVal": "6.35",
+        "slots": "1"
+    },
+    {
+        "name": "Ahuana's Bite",
+        "dustVal": "6.35",
+        "slots": "6"
+    },
+    {
+        "name": "Marylene's Fallacy",
+        "dustVal": "6.33",
+        "slots": "1"
+    },
+    {
+        "name": "Call of the Brotherhood",
+        "dustVal": "6.33",
+        "slots": "1"
+    },
+    {
+        "name": "Emberwake",
+        "dustVal": "6.33",
+        "slots": "1"
+    },
+    {
+        "name": "Trypanon",
+        "dustVal": "6.33",
+        "slots": "8"
+    },
+    {
+        "name": "Voice of the Storm",
+        "dustVal": "6.33",
+        "slots": "1"
+    },
+    {
+        "name": "Fury Valve",
+        "dustVal": "6.33",
+        "slots": "1"
+    },
+    {
+        "name": "Mother's Embrace",
+        "dustVal": "6.33",
+        "slots": "2"
+    },
+    {
+        "name": "Blood Price",
+        "dustVal": "6.33",
+        "slots": "4"
+    },
+    {
+        "name": "Thousand Teeth Temu",
+        "dustVal": "6.25",
+        "slots": "4"
+    },
+    {
+        "name": "The Broken Crown",
+        "dustVal": "6.25",
+        "slots": "4"
+    },
+    {
+        "name": "The Retch",
+        "dustVal": "6.18",
+        "slots": "2"
+    },
+    {
+        "name": "Voidbringer",
+        "dustVal": "6.17",
+        "slots": "4"
+    },
+    {
+        "name": "Dance of the Offered",
+        "dustVal": "6.17",
+        "slots": "4"
+    },
+    {
+        "name": "Sin Trek",
+        "dustVal": "6.07",
+        "slots": "4"
+    },
+    {
+        "name": "Chin Sol",
+        "dustVal": "6.07",
+        "slots": "8"
+    },
+    {
+        "name": "Wings of Entropy",
+        "dustVal": "6.07",
+        "slots": "8"
+    },
+    {
+        "name": "Sinvicta's Mettle",
+        "dustVal": "6.07",
+        "slots": "8"
+    },
+    {
+        "name": "Voidhome",
+        "dustVal": "5.99",
+        "slots": "8"
+    },
+    {
+        "name": "Pyroshock Clasp",
+        "dustVal": "5.99",
+        "slots": "2"
+    },
+    {
+        "name": "Circle of Nostalgia",
+        "dustVal": "5.97",
+        "slots": "1"
+    },
+    {
+        "name": "Chernobog's Pillar",
+        "dustVal": "5.89",
+        "slots": "8"
+    },
+    {
+        "name": "Kingsguard",
+        "dustVal": "5.89",
+        "slots": "6"
+    },
+    {
+        "name": "Kondo's Pride",
+        "dustVal": "5.89",
+        "slots": "8"
+    },
+    {
+        "name": "Geofri's Crest",
+        "dustVal": "5.81",
+        "slots": "4"
+    },
+    {
+        "name": "Bronn's Lithe",
+        "dustVal": "5.81",
+        "slots": "6"
+    },
+    {
+        "name": "The Consuming Dark",
+        "dustVal": "5.81",
+        "slots": "3"
+    },
+    {
+        "name": "The Coming Calamity",
+        "dustVal": "5.81",
+        "slots": "6"
+    },
+    {
+        "name": "Command of the Pit",
+        "dustVal": "5.80",
+        "slots": "4"
+    },
+    {
+        "name": "Replica Harvest",
+        "dustVal": "5.80",
+        "slots": "8"
+    },
+    {
+        "name": "Cameria's Maul",
+        "dustVal": "5.72",
+        "slots": "6"
+    },
+    {
+        "name": "Balefire",
+        "dustVal": "5.72",
+        "slots": "6"
+    },
+    {
+        "name": "The Wasp Nest",
+        "dustVal": "5.72",
+        "slots": "4"
+    },
+    {
+        "name": "Taproot",
+        "dustVal": "5.72",
+        "slots": "3"
+    },
+    {
+        "name": "The Druggery",
+        "dustVal": "5.72",
+        "slots": "2"
+    },
+    {
+        "name": "Goblinedge",
+        "dustVal": "5.72",
+        "slots": "3"
+    },
+    {
+        "name": "The Redblade",
+        "dustVal": "5.72",
+        "slots": "6"
+    },
+    {
+        "name": "Victario's Influence",
+        "dustVal": "5.64",
+        "slots": "6"
+    },
+    {
+        "name": "Crown of the Pale King",
+        "dustVal": "5.64",
+        "slots": "4"
+    },
+    {
+        "name": "Oskarm",
+        "dustVal": "5.64",
+        "slots": "4"
+    },
+    {
+        "name": "Aurseize",
+        "dustVal": "5.63",
+        "slots": "4"
+    },
+    {
+        "name": "Tombfist",
+        "dustVal": "5.63",
+        "slots": "4"
+    },
+    {
+        "name": "Vixen's Entrapment",
+        "dustVal": "5.63",
+        "slots": "4"
+    },
+    {
+        "name": "Moonsorrow",
+        "dustVal": "5.55",
+        "slots": "3"
+    },
+    {
+        "name": "Obliteration",
+        "dustVal": "5.55",
+        "slots": "3"
+    },
+    {
+        "name": "Replica Soul Taker",
+        "dustVal": "5.55",
+        "slots": "6"
+    },
+    {
+        "name": "The Dancing Duo",
+        "dustVal": "5.55",
+        "slots": "8"
+    },
+    {
+        "name": "The Fledgling",
+        "dustVal": "5.48",
+        "slots": "4"
+    },
+    {
+        "name": "Voll's Protector",
+        "dustVal": "5.46",
+        "slots": "6"
+    },
+    {
+        "name": "Meginord's Vise",
+        "dustVal": "5.46",
+        "slots": "4"
+    },
+    {
+        "name": "Redblade Banner",
+        "dustVal": "5.46",
+        "slots": "8"
+    },
+    {
+        "name": "Xoph's Heart",
+        "dustVal": "5.46",
+        "slots": "1"
+    },
+    {
+        "name": "The Halcyon",
+        "dustVal": "5.46",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Earendel's Embrace",
+        "dustVal": "5.46",
+        "slots": "6"
+    },
+    {
+        "name": "Gang's Momentum",
+        "dustVal": "5.39",
+        "slots": "4"
+    },
+    {
+        "name": "Femurs of the Saints",
+        "dustVal": "5.39",
+        "slots": "8"
+    },
+    {
+        "name": "March of the Legion",
+        "dustVal": "5.39",
+        "slots": "4"
+    },
+    {
+        "name": "Sign of the Sin Eater",
+        "dustVal": "5.39",
+        "slots": "6"
+    },
+    {
+        "name": "Rotting Legion",
+        "dustVal": "5.39",
+        "slots": "6"
+    },
+    {
+        "name": "The Burden of Shadows",
+        "dustVal": "5.39",
+        "slots": "8"
+    },
+    {
+        "name": "Warped Timepiece",
+        "dustVal": "5.32",
+        "slots": "1"
+    },
+    {
+        "name": "Heartbound Loop",
+        "dustVal": "5.32",
+        "slots": "1"
+    },
+    {
+        "name": "Frostbreath",
+        "dustVal": "5.32",
+        "slots": "6"
+    },
+    {
+        "name": "Darkness Enthroned",
+        "dustVal": "5.32",
+        "slots": "2"
+    },
+    {
+        "name": "Perquil's Toe",
+        "dustVal": "5.32",
+        "slots": "1"
+    },
+    {
+        "name": "Nametaker",
+        "dustVal": "5.32",
+        "slots": "6"
+    },
+    {
+        "name": "Soul Mantle",
+        "dustVal": "5.17",
+        "slots": "6"
+    },
+    {
+        "name": "Alberon's Warpath",
+        "dustVal": "5.17",
+        "slots": "4"
+    },
+    {
+        "name": "Sire of Shards",
+        "dustVal": "5.17",
+        "slots": "8"
+    },
+    {
+        "name": "Wyrmsign",
+        "dustVal": "5.17",
+        "slots": "4"
+    },
+    {
+        "name": "Venopuncture",
+        "dustVal": "5.17",
+        "slots": "1"
+    },
+    {
+        "name": "Icefang Orbit",
+        "dustVal": "5.17",
+        "slots": "1"
+    },
+    {
+        "name": "Shattershard",
+        "dustVal": "5.17",
+        "slots": "6"
+    },
+    {
+        "name": "Steelworm",
+        "dustVal": "5.17",
+        "slots": "6"
+    },
+    {
+        "name": "Tanu Ahi",
+        "dustVal": "5.17",
+        "slots": "4"
+    },
+    {
+        "name": "Bloodsoaked Medallion",
+        "dustVal": "5.17",
+        "slots": "1"
+    },
+    {
+        "name": "Windscream",
+        "dustVal": "5.15",
+        "slots": "4"
+    },
+    {
+        "name": "Deidbell",
+        "dustVal": "5.15",
+        "slots": "4"
+    },
+    {
+        "name": "The Whispering Ice",
+        "dustVal": "5.15",
+        "slots": "8"
+    },
+    {
+        "name": "Gluttony",
+        "dustVal": "5.01",
+        "slots": "2"
+    },
+    {
+        "name": "Nightgrip",
+        "dustVal": "5.01",
+        "slots": "4"
+    },
+    {
+        "name": "Olroth's Charge",
+        "dustVal": "5.01",
+        "slots": "4"
+    },
+    {
+        "name": "Sudden Dawn",
+        "dustVal": "5.01",
+        "slots": "4"
+    },
+    {
+        "name": "Ephemeral Edge",
+        "dustVal": "250.01",
+        "slots": "6"
+    },
+    {
+        "name": "Death's Harp",
+        "dustVal": "5.00",
+        "slots": "8"
+    },
+    {
+        "name": "Bitterdream",
+        "dustVal": "5.00",
+        "slots": "6"
+    },
+    {
+        "name": "Replica Iron Commander",
+        "dustVal": "5.00",
+        "slots": "8"
+    },
+    {
+        "name": "Hrimnor's Resolve",
+        "dustVal": "4.93",
+        "slots": "4"
+    },
+    {
+        "name": "Rat's Nest",
+        "dustVal": "4.93",
+        "slots": "4"
+    },
+    {
+        "name": "Maloney's Nightfall",
+        "dustVal": "4.93",
+        "slots": "6"
+    },
+    {
+        "name": "Three-step Assault",
+        "dustVal": "4.93",
+        "slots": "4"
+    },
+    {
+        "name": "The Ascetic",
+        "dustVal": "4.93",
+        "slots": "1"
+    },
+    {
+        "name": "The Highwayman",
+        "dustVal": "4.93",
+        "slots": "1"
+    },
+    {
+        "name": "Innsbury Edge",
+        "dustVal": "4.87",
+        "slots": "6"
+    },
+    {
+        "name": "The Fracturing Spinner",
+        "dustVal": "4.85",
+        "slots": "6"
+    },
+    {
+        "name": "Atziri's Mirror",
+        "dustVal": "4.79",
+        "slots": "4"
+    },
+    {
+        "name": "Great Old One's Ward",
+        "dustVal": "4.73",
+        "slots": "4"
+    },
+    {
+        "name": "Replica Advancing Fortress",
+        "dustVal": "4.73",
+        "slots": "4"
+    },
+    {
+        "name": "Kahuturoa's Certainty",
+        "dustVal": "4.73",
+        "slots": "4"
+    },
+    {
+        "name": "Umbilicus Immortalis",
+        "dustVal": "4.71",
+        "slots": "2"
+    },
+    {
+        "name": "Xirgil's Crank",
+        "dustVal": "4.71",
+        "slots": "8"
+    },
+    {
+        "name": "Bisco's Collar",
+        "dustVal": "4.71",
+        "slots": "1"
+    },
+    {
+        "name": "Bisco's Leash",
+        "dustVal": "4.71",
+        "slots": "2"
+    },
+    {
+        "name": "Replica Lioneye's Paws",
+        "dustVal": "4.71",
+        "slots": "4"
+    },
+    {
+        "name": "Relic of the Pact",
+        "dustVal": "4.71",
+        "slots": "3"
+    },
+    {
+        "name": "Infractem",
+        "dustVal": "4.65",
+        "slots": "8"
+    },
+    {
+        "name": "Prismatic Eclipse",
+        "dustVal": "4.65",
+        "slots": "6"
+    },
+    {
+        "name": "Empire's Grasp",
+        "dustVal": "4.65",
+        "slots": "4"
+    },
+    {
+        "name": "Replica Forbidden Shako",
+        "dustVal": "4.65",
+        "slots": "4"
+    },
+    {
+        "name": "Geofri's Legacy",
+        "dustVal": "4.65",
+        "slots": "4"
+    },
+    {
+        "name": "Voideye",
+        "dustVal": "4.59",
+        "slots": "1"
+    },
+    {
+        "name": "Malachai's Artifice",
+        "dustVal": "4.59",
+        "slots": "1"
+    },
+    {
+        "name": "Kongming's Stratagem",
+        "dustVal": "4.59",
+        "slots": "4"
+    },
+    {
+        "name": "Essence Worm",
+        "dustVal": "4.59",
+        "slots": "1"
+    },
+    {
+        "name": "Architect's Hand",
+        "dustVal": "4.59",
+        "slots": "4"
+    },
+    {
+        "name": "The Annihilating Light",
+        "dustVal": "4.59",
+        "slots": "8"
+    },
+    {
+        "name": "Stormseeker",
+        "dustVal": "4.59",
+        "slots": "4"
+    },
+    {
+        "name": "The Geomantic Gyre",
+        "dustVal": "4.52",
+        "slots": "8"
+    },
+    {
+        "name": "Maligaro's Restraint",
+        "dustVal": "4.46",
+        "slots": "2"
+    },
+    {
+        "name": "Jorrhast's Blacksteel",
+        "dustVal": "4.46",
+        "slots": "8"
+    },
+    {
+        "name": "Natural Hierarchy",
+        "dustVal": "4.46",
+        "slots": "1"
+    },
+    {
+        "name": "Ascent From Flesh",
+        "dustVal": "4.46",
+        "slots": "2"
+    },
+    {
+        "name": "Kitava's Thirst",
+        "dustVal": "4.46",
+        "slots": "4"
+    },
+    {
+        "name": "Soulbound",
+        "dustVal": "4.46",
+        "slots": "1"
+    },
+    {
+        "name": "Doomfletch",
+        "dustVal": "4.44",
+        "slots": "8"
+    },
+    {
+        "name": "Brutus' Lead Sprinkler",
+        "dustVal": "4.44",
+        "slots": "6"
+    },
+    {
+        "name": "Terminus Est",
+        "dustVal": "4.38",
+        "slots": "8"
+    },
+    {
+        "name": "Black Sun Crest",
+        "dustVal": "4.38",
+        "slots": "4"
+    },
+    {
+        "name": "Southbound",
+        "dustVal": "4.38",
+        "slots": "4"
+    },
+    {
+        "name": "Ambu's Charge",
+        "dustVal": "4.33",
+        "slots": "6"
+    },
+    {
+        "name": "Replica Ambu's Charge",
+        "dustVal": "4.33",
+        "slots": "6"
+    },
+    {
+        "name": "Vaal Caress",
+        "dustVal": "4.31",
+        "slots": "4"
+    },
+    {
+        "name": "Heartbreaker",
+        "dustVal": "4.26",
+        "slots": "3"
+    },
+    {
+        "name": "Immortal Flesh",
+        "dustVal": "4.26",
+        "slots": "2"
+    },
+    {
+        "name": "Victario's Charity",
+        "dustVal": "4.26",
+        "slots": "6"
+    },
+    {
+        "name": "The Embalmer",
+        "dustVal": "4.26",
+        "slots": "4"
+    },
+    {
+        "name": "Zeel's Amplifier",
+        "dustVal": "4.13",
+        "slots": "4"
+    },
+    {
+        "name": "The Eternal Apple",
+        "dustVal": "4.13",
+        "slots": "4"
+    },
+    {
+        "name": "Pragmatism",
+        "dustVal": "4.13",
+        "slots": "6"
+    },
+    {
+        "name": "Demon Stitcher",
+        "dustVal": "4.08",
+        "slots": "4"
+    },
+    {
+        "name": "Eye of Chayula",
+        "dustVal": "4.07",
+        "slots": "1"
+    },
+    {
+        "name": "The Eternal Struggle",
+        "dustVal": "4.07",
+        "slots": "1"
+    },
+    {
+        "name": "Midnight Bargain",
+        "dustVal": "3.96",
+        "slots": "3"
+    },
+    {
+        "name": "Ceinture of Benevolence",
+        "dustVal": "3.96",
+        "slots": "2"
+    },
+    {
+        "name": "Dream Fragments",
+        "dustVal": "3.95",
+        "slots": "1"
+    },
+    {
+        "name": "Reverberation Rod",
+        "dustVal": "3.95",
+        "slots": "3"
+    },
+    {
+        "name": "Winterweave",
+        "dustVal": "3.95",
+        "slots": "1"
+    },
+    {
+        "name": "Doedre's Tongue",
+        "dustVal": "3.95",
+        "slots": "1"
+    },
+    {
+        "name": "Kalisa's Grace",
+        "dustVal": "3.90",
+        "slots": "4"
+    },
+    {
+        "name": "Lightbane Raiment",
+        "dustVal": "3.90",
+        "slots": "6"
+    },
+    {
+        "name": "Doedre's Scorn",
+        "dustVal": "3.84",
+        "slots": "4"
+    },
+    {
+        "name": "Moonbender's Wing",
+        "dustVal": "3.84",
+        "slots": "6"
+    },
+    {
+        "name": "The Flawed Refuge",
+        "dustVal": "3.84",
+        "slots": "6"
+    },
+    {
+        "name": "Ungil's Harmony",
+        "dustVal": "3.83",
+        "slots": "1"
+    },
+    {
+        "name": "Brinerot Flag",
+        "dustVal": "3.83",
+        "slots": "4"
+    },
+    {
+        "name": "Ornament of the East",
+        "dustVal": "3.78",
+        "slots": "4"
+    },
+    {
+        "name": "Advancing Fortress",
+        "dustVal": "3.78",
+        "slots": "4"
+    },
+    {
+        "name": "Valako's Sign",
+        "dustVal": "3.73",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Bones of Ullr",
+        "dustVal": "3.72",
+        "slots": "4"
+    },
+    {
+        "name": "The Blood Reaper",
+        "dustVal": "3.67",
+        "slots": "8"
+    },
+    {
+        "name": "Sibyl's Lament",
+        "dustVal": "3.67",
+        "slots": "1"
+    },
+    {
+        "name": "The Anvil",
+        "dustVal": "3.67",
+        "slots": "1"
+    },
+    {
+        "name": "Maligaro's Lens",
+        "dustVal": "3.67",
+        "slots": "4"
+    },
+    {
+        "name": "Mark of Submission",
+        "dustVal": "3.67",
+        "slots": "1"
+    },
+    {
+        "name": "The Signal Fire",
+        "dustVal": "3.67",
+        "slots": "6"
+    },
+    {
+        "name": "Corona Solaris",
+        "dustVal": "3.67",
+        "slots": "3"
+    },
+    {
+        "name": "The Harvest",
+        "dustVal": "3.62",
+        "slots": "8"
+    },
+    {
+        "name": "Rigwald's Charge",
+        "dustVal": "3.56",
+        "slots": "8"
+    },
+    {
+        "name": "Widowmaker",
+        "dustVal": "3.56",
+        "slots": "3"
+    },
+    {
+        "name": "Siegebreaker",
+        "dustVal": "3.56",
+        "slots": "2"
+    },
+    {
+        "name": "Tawhanuku's Timing",
+        "dustVal": "3.56",
+        "slots": "1"
+    },
+    {
+        "name": "Heatshiver",
+        "dustVal": "3.51",
+        "slots": "4"
+    },
+    {
+        "name": "Berek's Respite",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Rigwald's Crest",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "The Flow Untethered",
+        "dustVal": "3.51",
+        "slots": "2"
+    },
+    {
+        "name": "Replica Tempestuous Steel",
+        "dustVal": "3.51",
+        "slots": "6"
+    },
+    {
+        "name": "Arn's Anguish",
+        "dustVal": "3.51",
+        "slots": "2"
+    },
+    {
+        "name": "Olesya's Delight",
+        "dustVal": "3.51",
+        "slots": "2"
+    },
+    {
+        "name": "Graven's Secret",
+        "dustVal": "3.51",
+        "slots": "2"
+    },
+    {
+        "name": "Ixchel's Temptation",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Heatshiver",
+        "dustVal": "3.51",
+        "slots": "4"
+    },
+    {
+        "name": "Daresso's Passion",
+        "dustVal": "3.46",
+        "slots": "4"
+    },
+    {
+        "name": "El'Abin's Visage",
+        "dustVal": "3.46",
+        "slots": "4"
+    },
+    {
+        "name": "Bloodbond",
+        "dustVal": "3.41",
+        "slots": "6"
+    },
+    {
+        "name": "Wurm's Molt",
+        "dustVal": "3.36",
+        "slots": "2"
+    },
+    {
+        "name": "Winterheart",
+        "dustVal": "3.36",
+        "slots": "1"
+    },
+    {
+        "name": "Goldwyrm",
+        "dustVal": "3.32",
+        "slots": "4"
+    },
+    {
+        "name": "The Primordial Chain",
+        "dustVal": "3.32",
+        "slots": "1"
+    },
+    {
+        "name": "Plume of Pursuit",
+        "dustVal": "3.32",
+        "slots": "4"
+    },
+    {
+        "name": "Cloak of Flame",
+        "dustVal": "3.31",
+        "slots": "6"
+    },
+    {
+        "name": "Clayshaper",
+        "dustVal": "3.26",
+        "slots": "6"
+    },
+    {
+        "name": "Sentari's Answer",
+        "dustVal": "3.22",
+        "slots": "4"
+    },
+    {
+        "name": "Chober Chaber",
+        "dustVal": "3.17",
+        "slots": "8"
+    },
+    {
+        "name": "Eclipse Solaris",
+        "dustVal": "116.27",
+        "slots": "3"
+    },
+    {
+        "name": "Chaber Cairn",
+        "dustVal": "3.17",
+        "slots": "8"
+    },
+    {
+        "name": "The Aylardex",
+        "dustVal": "3.13",
+        "slots": "1"
+    },
+    {
+        "name": "Iron Commander",
+        "dustVal": "3.13",
+        "slots": "8"
+    },
+    {
+        "name": "Replica Bitterdream",
+        "dustVal": "3.13",
+        "slots": "6"
+    },
+    {
+        "name": "Ahkeli's Valley",
+        "dustVal": "3.12",
+        "slots": "1"
+    },
+    {
+        "name": "Precursor's Emblem",
+        "dustVal": "3.12",
+        "slots": "1"
+    },
+    {
+        "name": "Circle of Anguish",
+        "dustVal": "3.12",
+        "slots": "1"
+    },
+    {
+        "name": "Icetomb",
+        "dustVal": "3.07",
+        "slots": "6"
+    },
+    {
+        "name": "Crystal Vault",
+        "dustVal": "3.07",
+        "slots": "6"
+    },
+    {
+        "name": "Orbala's Stand",
+        "dustVal": "3.07",
+        "slots": "4"
+    },
+    {
+        "name": "Rearguard",
+        "dustVal": "3.03",
+        "slots": "6"
+    },
+    {
+        "name": "Shadows and Dust",
+        "dustVal": "3.03",
+        "slots": "4"
+    },
+    {
+        "name": "Demigod's Beacon",
+        "dustVal": "3.03",
+        "slots": "6"
+    },
+    {
+        "name": "Aukuna's Will",
+        "dustVal": "3.03",
+        "slots": "4"
+    },
+    {
+        "name": "Replica Winterheart",
+        "dustVal": "3.03",
+        "slots": "1"
+    },
+    {
+        "name": "Valyrium",
+        "dustVal": "2.99",
+        "slots": "1"
+    },
+    {
+        "name": "Lioneye's Paws",
+        "dustVal": "2.95",
+        "slots": "4"
+    },
+    {
+        "name": "Thief's Torment",
+        "dustVal": "2.95",
+        "slots": "1"
+    },
+    {
+        "name": "Lori's Lantern",
+        "dustVal": "2.95",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Twyzel",
+        "dustVal": "2.95",
+        "slots": "3"
+    },
+    {
+        "name": "Zahndethus' Cassock",
+        "dustVal": "2.90",
+        "slots": "6"
+    },
+    {
+        "name": "Mindspiral",
+        "dustVal": "2.90",
+        "slots": "4"
+    },
+    {
+        "name": "Cybil's Paw",
+        "dustVal": "2.90",
+        "slots": "4"
+    },
+    {
+        "name": "Torchoak Step",
+        "dustVal": "2.90",
+        "slots": "4"
+    },
+    {
+        "name": "Chalice of Horrors",
+        "dustVal": "2.86",
+        "slots": "4"
+    },
+    {
+        "name": "Ngamahu's Sign",
+        "dustVal": "2.86",
+        "slots": "1"
+    },
+    {
+        "name": "Skullhead",
+        "dustVal": "2.81",
+        "slots": "4"
+    },
+    {
+        "name": "Skirmish",
+        "dustVal": "2.81",
+        "slots": "6"
+    },
+    {
+        "name": "Gifts from Above",
+        "dustVal": "2.78",
+        "slots": "1"
+    },
+    {
+        "name": "Blightwell",
+        "dustVal": "2.78",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Leer Cast",
+        "dustVal": "2.78",
+        "slots": "4"
+    },
+    {
+        "name": "Putembo's Meadow",
+        "dustVal": "2.77",
+        "slots": "1"
+    },
+    {
+        "name": "Circle of Regret",
+        "dustVal": "2.77",
+        "slots": "1"
+    },
+    {
+        "name": "The Three Dragons",
+        "dustVal": "2.73",
+        "slots": "4"
+    },
+    {
+        "name": "Earendel's Embrace",
+        "dustVal": "2.73",
+        "slots": "6"
+    },
+    {
+        "name": "Willclash",
+        "dustVal": "2.73",
+        "slots": "4"
+    },
+    {
+        "name": "Lycosidae",
+        "dustVal": "2.69",
+        "slots": "8"
+    },
+    {
+        "name": "Mortem Morsu",
+        "dustVal": "2.65",
+        "slots": "4"
+    },
+    {
+        "name": "Al Dhih",
+        "dustVal": "2.62",
+        "slots": "4"
+    },
+    {
+        "name": "The Baron",
+        "dustVal": "2.62",
+        "slots": "4"
+    },
+    {
+        "name": "Fairgraves' Tricorne",
+        "dustVal": "2.61",
+        "slots": "4"
+    },
+    {
+        "name": "Hyperboreus",
+        "dustVal": "2.61",
+        "slots": "2"
+    },
+    {
+        "name": "Survivor's Guilt",
+        "dustVal": "2.61",
+        "slots": "2"
+    },
+    {
+        "name": "Reaper's Pursuit",
+        "dustVal": "2.58",
+        "slots": "8"
+    },
+    {
+        "name": "Deidbellow",
+        "dustVal": "2.58",
+        "slots": "4"
+    },
+    {
+        "name": "Windshriek",
+        "dustVal": "2.58",
+        "slots": "4"
+    },
+    {
+        "name": "Drillneck",
+        "dustVal": "2.54",
+        "slots": "6"
+    },
+    {
+        "name": "Timeclasp",
+        "dustVal": "2.54",
+        "slots": "1"
+    },
+    {
+        "name": "Faithguard",
+        "dustVal": "2.54",
+        "slots": "4"
+    },
+    {
+        "name": "Shavronne's Pace",
+        "dustVal": "2.50",
+        "slots": "4"
+    },
+    {
+        "name": "Briskwrap",
+        "dustVal": "2.50",
+        "slots": "6"
+    },
+    {
+        "name": "Flesh-Eater",
+        "dustVal": "2.50",
+        "slots": "6"
+    },
+    {
+        "name": "Triad Grip",
+        "dustVal": "2.50",
+        "slots": "4"
+    },
+    {
+        "name": "Shavronne's Gambit",
+        "dustVal": "2.50",
+        "slots": "4"
+    },
+    {
+        "name": "Death's Opus",
+        "dustVal": "2.50",
+        "slots": "8"
+    },
+    {
+        "name": "Le Heup of All",
+        "dustVal": "2.47",
+        "slots": "1"
+    },
+    {
+        "name": "Pyre",
+        "dustVal": "2.46",
+        "slots": "1"
+    },
+    {
+        "name": "Uzaza's Mountain",
+        "dustVal": "2.46",
+        "slots": "1"
+    },
+    {
+        "name": "Circle of Fear",
+        "dustVal": "2.46",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Tasalio's Sign",
+        "dustVal": "2.46",
+        "slots": "1"
+    },
+    {
+        "name": "Call of the Void",
+        "dustVal": "2.46",
+        "slots": "1"
+    },
+    {
+        "name": "Ikiaho's Promise",
+        "dustVal": "2.43",
+        "slots": "1"
+    },
+    {
+        "name": "Matua Tupuna",
+        "dustVal": "2.40",
+        "slots": "4"
+    },
+    {
+        "name": "The Trickster's Smile",
+        "dustVal": "2.40",
+        "slots": "4"
+    },
+    {
+        "name": "Blood of Corruption",
+        "dustVal": "2.39",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Karui Ward",
+        "dustVal": "2.39",
+        "slots": "1"
+    },
+    {
+        "name": "Mightflay",
+        "dustVal": "2.36",
+        "slots": "3"
+    },
+    {
+        "name": "Titucius' Span",
+        "dustVal": "2.36",
+        "slots": "8"
+    },
+    {
+        "name": "Twyzel",
+        "dustVal": "2.36",
+        "slots": "3"
+    },
+    {
+        "name": "Chitus' Needle",
+        "dustVal": "2.36",
+        "slots": "4"
+    },
+    {
+        "name": "The Warden's Brand",
+        "dustVal": "2.36",
+        "slots": "1"
+    },
+    {
+        "name": "Retaliation Charm",
+        "dustVal": "2.36",
+        "slots": "1"
+    },
+    {
+        "name": "Elevore",
+        "dustVal": "2.36",
+        "slots": "4"
+    },
+    {
+        "name": "Veil of the Night",
+        "dustVal": "2.33",
+        "slots": "4"
+    },
+    {
+        "name": "Edge of Madness",
+        "dustVal": "2.33",
+        "slots": "8"
+    },
+    {
+        "name": "Replica Veil of the Night",
+        "dustVal": "2.33",
+        "slots": "4"
+    },
+    {
+        "name": "Relentless Fury",
+        "dustVal": "2.29",
+        "slots": "6"
+    },
+    {
+        "name": "Thirst for Horrors",
+        "dustVal": "2.29",
+        "slots": "4"
+    },
+    {
+        "name": "Fated End",
+        "dustVal": "2.25",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Doedre's Damning",
+        "dustVal": "2.25",
+        "slots": "1"
+    },
+    {
+        "name": "Wake of Destruction",
+        "dustVal": "2.22",
+        "slots": "4"
+    },
+    {
+        "name": "Leer Cast",
+        "dustVal": "2.22",
+        "slots": "4"
+    },
+    {
+        "name": "Lakishu's Blade",
+        "dustVal": "2.22",
+        "slots": "6"
+    },
+    {
+        "name": "The Stormheart",
+        "dustVal": "2.22",
+        "slots": "8"
+    },
+    {
+        "name": "Viper's Scales",
+        "dustVal": "2.22",
+        "slots": "6"
+    },
+    {
+        "name": "Doomfletch's Prism",
+        "dustVal": "2.22",
+        "slots": "8"
+    },
+    {
+        "name": "The Stormwall",
+        "dustVal": "2.22",
+        "slots": "8"
+    },
+    {
+        "name": "Meginord's Girdle",
+        "dustVal": "2.19",
+        "slots": "2"
+    },
+    {
+        "name": "Berek's Pass",
+        "dustVal": "2.19",
+        "slots": "1"
+    },
+    {
+        "name": "Berek's Grip",
+        "dustVal": "2.19",
+        "slots": "1"
+    },
+    {
+        "name": "Kikazaru",
+        "dustVal": "2.19",
+        "slots": "1"
+    },
+    {
+        "name": "Belt of the Deceiver",
+        "dustVal": "2.19",
+        "slots": "2"
+    },
+    {
+        "name": "Tasalio's Sign",
+        "dustVal": "2.19",
+        "slots": "1"
+    },
+    {
+        "name": "Maligaro's Cruelty",
+        "dustVal": "2.19",
+        "slots": "1"
+    },
+    {
+        "name": "Curtain Call",
+        "dustVal": "2.19",
+        "slots": "4"
+    },
+    {
+        "name": "The Felbog Fang",
+        "dustVal": "2.19",
+        "slots": "1"
+    },
+    {
+        "name": "Honoured Alliance",
+        "dustVal": "2.19",
+        "slots": "1"
+    },
+    {
+        "name": "Geofri's Baptism",
+        "dustVal": "2.16",
+        "slots": "8"
+    },
+    {
+        "name": "Sundance",
+        "dustVal": "2.16",
+        "slots": "4"
+    },
+    {
+        "name": "Slitherpinch",
+        "dustVal": "2.16",
+        "slots": "4"
+    },
+    {
+        "name": "Queen's Decree",
+        "dustVal": "2.16",
+        "slots": "8"
+    },
+    {
+        "name": "Glitterdisc",
+        "dustVal": "2.16",
+        "slots": "4"
+    },
+    {
+        "name": "Queen's Escape",
+        "dustVal": "2.16",
+        "slots": "8"
+    },
+    {
+        "name": "Sunspite",
+        "dustVal": "2.16",
+        "slots": "4"
+    },
+    {
+        "name": "Geofri's Devotion",
+        "dustVal": "2.16",
+        "slots": "8"
+    },
+    {
+        "name": "Thousand Ribbons",
+        "dustVal": "2.12",
+        "slots": "6"
+    },
+    {
+        "name": "Tabula Rasa",
+        "dustVal": "2.12",
+        "slots": "6"
+    },
+    {
+        "name": "Ewar's Mirage",
+        "dustVal": "2.09",
+        "slots": "4"
+    },
+    {
+        "name": "Mark of the Red Covenant",
+        "dustVal": "2.09",
+        "slots": "4"
+    },
+    {
+        "name": "Coward's Legacy",
+        "dustVal": "2.06",
+        "slots": "2"
+    },
+    {
+        "name": "Circle of Guilt",
+        "dustVal": "2.06",
+        "slots": "1"
+    },
+    {
+        "name": "Chains of Emancipation",
+        "dustVal": "2.06",
+        "slots": "2"
+    },
+    {
+        "name": "Carnage Heart",
+        "dustVal": "2.03",
+        "slots": "1"
+    },
+    {
+        "name": "Foxshade",
+        "dustVal": "2.03",
+        "slots": "6"
+    },
+    {
+        "name": "Prismweave",
+        "dustVal": "2.03",
+        "slots": "2"
+    },
+    {
+        "name": "Duskwing",
+        "dustVal": "2.03",
+        "slots": "1"
+    },
+    {
+        "name": "Timetwist",
+        "dustVal": "2.03",
+        "slots": "1"
+    },
+    {
+        "name": "Fox's Fortune",
+        "dustVal": "2.03",
+        "slots": "6"
+    },
+    {
+        "name": "Malachai's Simula",
+        "dustVal": "2.01",
+        "slots": "4"
+    },
+    {
+        "name": "Ashrend",
+        "dustVal": "2.01",
+        "slots": "6"
+    },
+    {
+        "name": "Solaris Lorica",
+        "dustVal": "2.01",
+        "slots": "6"
+    },
+    {
+        "name": "Trolltimber Spire",
+        "dustVal": "2.01",
+        "slots": "8"
+    },
+    {
+        "name": "Widowhail",
+        "dustVal": "2.00",
+        "slots": "6"
+    },
+    {
+        "name": "Storm Prison",
+        "dustVal": "1.97",
+        "slots": "3"
+    },
+    {
+        "name": "Amplification Rod",
+        "dustVal": "1.97",
+        "slots": "3"
+    },
+    {
+        "name": "Facebreaker",
+        "dustVal": "1.95",
+        "slots": "4"
+    },
+    {
+        "name": "Mokou's Embrace",
+        "dustVal": "1.95",
+        "slots": "1"
+    },
+    {
+        "name": "Ahkeli's Mountain",
+        "dustVal": "1.95",
+        "slots": "1"
+    },
+    {
+        "name": "The Peregrine",
+        "dustVal": "1.92",
+        "slots": "4"
+    },
+    {
+        "name": "Stormcharger",
+        "dustVal": "1.92",
+        "slots": "4"
+    },
+    {
+        "name": "Giantsbane",
+        "dustVal": "1.92",
+        "slots": "4"
+    },
+    {
+        "name": "Whakatutuki o Matua",
+        "dustVal": "1.92",
+        "slots": "4"
+    },
+    {
+        "name": "Flesh and Spirit",
+        "dustVal": "1.89",
+        "slots": "4"
+    },
+    {
+        "name": "Replica Bloodplay",
+        "dustVal": "1.89",
+        "slots": "3"
+    },
+    {
+        "name": "Bones of Ullr",
+        "dustVal": "1.86",
+        "slots": "4"
+    },
+    {
+        "name": "Quecholli",
+        "dustVal": "1.86",
+        "slots": "8"
+    },
+    {
+        "name": "Deerstalker",
+        "dustVal": "1.86",
+        "slots": "4"
+    },
+    {
+        "name": "Fidelitas' Spike",
+        "dustVal": "1.86",
+        "slots": "4"
+    },
+    {
+        "name": "Bated Breath",
+        "dustVal": "1.86",
+        "slots": "2"
+    },
+    {
+        "name": "Praxis",
+        "dustVal": "1.86",
+        "slots": "1"
+    },
+    {
+        "name": "Panquetzaliztli",
+        "dustVal": "1.86",
+        "slots": "8"
+    },
+    {
+        "name": "Perandus Blazon",
+        "dustVal": "1.75",
+        "slots": "2"
+    },
+    {
+        "name": "Ungil's Gauche",
+        "dustVal": "1.75",
+        "slots": "3"
+    },
+    {
+        "name": "Brightbeak",
+        "dustVal": "1.75",
+        "slots": "6"
+    },
+    {
+        "name": "Daresso's Salute",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Victario's Acuity",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Asphyxia's Wrath",
+        "dustVal": "1.75",
+        "slots": "6"
+    },
+    {
+        "name": "Shaper's Seed",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "The Deep One's Hide",
+        "dustVal": "1.75",
+        "slots": "6"
+    },
+    {
+        "name": "Lavianga's Wisdom",
+        "dustVal": "1.75",
+        "slots": "6"
+    },
+    {
+        "name": "Spine of the First Claimant",
+        "dustVal": "1.75",
+        "slots": "6"
+    },
+    {
+        "name": "Extractor Mentis",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Demigod's Dominance",
+        "dustVal": "1.75",
+        "slots": "6"
+    },
+    {
+        "name": "The Tempestuous Steel",
+        "dustVal": "1.75",
+        "slots": "6"
+    },
+    {
+        "name": "Saemus' Gift",
+        "dustVal": "1.75",
+        "slots": "6"
+    },
+    {
+        "name": "Frostferno",
+        "dustVal": "1.75",
+        "slots": "4"
+    },
+    {
+        "name": "The Tactician",
+        "dustVal": "1.75",
+        "slots": "2"
+    },
+    {
+        "name": "The Nomad",
+        "dustVal": "1.75",
+        "slots": "2"
+    },
+    {
+        "name": "Victario's Flight",
+        "dustVal": "1.73",
+        "slots": "4"
+    },
+    {
+        "name": "Ashcaller",
+        "dustVal": "1.73",
+        "slots": "3"
+    },
+    {
+        "name": "Putembo's Valley",
+        "dustVal": "1.73",
+        "slots": "1"
+    },
+    {
+        "name": "Ghostwrithe",
+        "dustVal": "1.68",
+        "slots": "6"
+    },
+    {
+        "name": "Dusktoe",
+        "dustVal": "1.65",
+        "slots": "4"
+    },
+    {
+        "name": "Wideswing",
+        "dustVal": "1.65",
+        "slots": "8"
+    },
+    {
+        "name": "Faminebind",
+        "dustVal": "1.65",
+        "slots": "2"
+    },
+    {
+        "name": "Roth's Reach",
+        "dustVal": "1.65",
+        "slots": "8"
+    },
+    {
+        "name": "Duskblight",
+        "dustVal": "1.65",
+        "slots": "4"
+    },
+    {
+        "name": "Thrillsteel",
+        "dustVal": "1.65",
+        "slots": "4"
+    },
+    {
+        "name": "Doryani's Invitation",
+        "dustVal": "1.63",
+        "slots": "2"
+    },
+    {
+        "name": "Night's Hold",
+        "dustVal": "1.63",
+        "slots": "1"
+    },
+    {
+        "name": "String of Servitude",
+        "dustVal": "1.63",
+        "slots": "2"
+    },
+    {
+        "name": "Bear's Girdle",
+        "dustVal": "1.63",
+        "slots": "2"
+    },
+    {
+        "name": "Hrimnor's Hymn",
+        "dustVal": "1.60",
+        "slots": "8"
+    },
+    {
+        "name": "Aurumvorax",
+        "dustVal": "1.60",
+        "slots": "4"
+    },
+    {
+        "name": "Hrimnor's Dirge",
+        "dustVal": "1.60",
+        "slots": "8"
+    },
+    {
+        "name": "Malachai's Awakening",
+        "dustVal": "1.60",
+        "slots": "4"
+    },
+    {
+        "name": "Kaltenhalt",
+        "dustVal": "1.56",
+        "slots": "4"
+    },
+    {
+        "name": "Nomic's Storm",
+        "dustVal": "1.56",
+        "slots": "4"
+    },
+    {
+        "name": "Dreadarc",
+        "dustVal": "1.56",
+        "slots": "6"
+    },
+    {
+        "name": "Kaltensoul",
+        "dustVal": "1.56",
+        "slots": "4"
+    },
+    {
+        "name": "Dreadsurge",
+        "dustVal": "1.56",
+        "slots": "6"
+    },
+    {
+        "name": "Uzaza's Meadow",
+        "dustVal": "1.54",
+        "slots": "1"
+    },
+    {
+        "name": "Wreath of Phrecia",
+        "dustVal": "1.54",
+        "slots": "4"
+    },
+    {
+        "name": "Demigod's Presence",
+        "dustVal": "1.51",
+        "slots": "1"
+    },
+    {
+        "name": "The Ignomon",
+        "dustVal": "1.51",
+        "slots": "1"
+    },
+    {
+        "name": "Bloodplay",
+        "dustVal": "1.51",
+        "slots": "3"
+    },
+    {
+        "name": "The Effigon",
+        "dustVal": "1.51",
+        "slots": "1"
+    },
+    {
+        "name": "The Untouched Soul",
+        "dustVal": "1.51",
+        "slots": "1"
+    },
+    {
+        "name": "The Goddess Bound",
+        "dustVal": "1.49",
+        "slots": "4"
+    },
+    {
+        "name": "Shackles of the Wretched",
+        "dustVal": "1.49",
+        "slots": "4"
+    },
+    {
+        "name": "Hyrri's Bite",
+        "dustVal": "1.47",
+        "slots": "6"
+    },
+    {
+        "name": "Hyrri's Demise",
+        "dustVal": "1.47",
+        "slots": "6"
+    },
+    {
+        "name": "Chain of Endurance",
+        "dustVal": "1.47",
+        "slots": "2"
+    },
+    {
+        "name": "Limbsplit",
+        "dustVal": "1.43",
+        "slots": "8"
+    },
+    {
+        "name": "Pillar of the Caged God",
+        "dustVal": "1.43",
+        "slots": "8"
+    },
+    {
+        "name": "Dying Breath",
+        "dustVal": "1.43",
+        "slots": "8"
+    },
+    {
+        "name": "Realmshaper",
+        "dustVal": "1.43",
+        "slots": "8"
+    },
+    {
+        "name": "The Cauteriser",
+        "dustVal": "1.43",
+        "slots": "8"
+    },
+    {
+        "name": "Realm Ender",
+        "dustVal": "1.43",
+        "slots": "8"
+    },
+    {
+        "name": "Doedre's Damning",
+        "dustVal": "1.41",
+        "slots": "1"
+    },
+    {
+        "name": "Quill Rain",
+        "dustVal": "1.41",
+        "slots": "6"
+    },
+    {
+        "name": "Replica Quill Rain",
+        "dustVal": "1.41",
+        "slots": "6"
+    },
+    {
+        "name": "Shiversting",
+        "dustVal": "1.38",
+        "slots": "8"
+    },
+    {
+        "name": "Honourhome",
+        "dustVal": "1.38",
+        "slots": "4"
+    },
+    {
+        "name": "Doedre's Tenure",
+        "dustVal": "1.38",
+        "slots": "4"
+    },
+    {
+        "name": "Demigod's Triumph",
+        "dustVal": "1.38",
+        "slots": "4"
+    },
+    {
+        "name": "Demigod's Stride",
+        "dustVal": "1.38",
+        "slots": "4"
+    },
+    {
+        "name": "Demigod's Touch",
+        "dustVal": "1.38",
+        "slots": "4"
+    },
+    {
+        "name": "Demigod's Bounty",
+        "dustVal": "1.38",
+        "slots": "2"
+    },
+    {
+        "name": "Demigod's Eye",
+        "dustVal": "1.38",
+        "slots": "1"
+    },
+    {
+        "name": "Wildslash",
+        "dustVal": "1.38",
+        "slots": "4"
+    },
+    {
+        "name": "Demigod's Immortality",
+        "dustVal": "1.38",
+        "slots": "4"
+    },
+    {
+        "name": "Doedre's Malevolence",
+        "dustVal": "1.38",
+        "slots": "4"
+    },
+    {
+        "name": "Kaom's Sign",
+        "dustVal": "1.37",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Blood Thorn",
+        "dustVal": "1.37",
+        "slots": "4"
+    },
+    {
+        "name": "Replica Fencoil",
+        "dustVal": "1.37",
+        "slots": "4"
+    },
+    {
+        "name": "Feastbind",
+        "dustVal": "1.34",
+        "slots": "2"
+    },
+    {
+        "name": "Sadima's Touch",
+        "dustVal": "1.33",
+        "slots": "4"
+    },
+    {
+        "name": "Goldrim",
+        "dustVal": "1.33",
+        "slots": "4"
+    },
+    {
+        "name": "Sacrificial Heart",
+        "dustVal": "1.33",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Last Resort",
+        "dustVal": "1.33",
+        "slots": "4"
+    },
+    {
+        "name": "The Princess",
+        "dustVal": "1.30",
+        "slots": "3"
+    },
+    {
+        "name": "Gorebreaker",
+        "dustVal": "1.30",
+        "slots": "3"
+    },
+    {
+        "name": "Axiom Perpetuum",
+        "dustVal": "1.30",
+        "slots": "6"
+    },
+    {
+        "name": "Coward's Chains",
+        "dustVal": "1.29",
+        "slots": "2"
+    },
+    {
+        "name": "Replica Prismweave",
+        "dustVal": "1.29",
+        "slots": "2"
+    },
+    {
+        "name": "Wondertrap",
+        "dustVal": "1.27",
+        "slots": "4"
+    },
+    {
+        "name": "Hrimsorrow",
+        "dustVal": "1.27",
+        "slots": "4"
+    },
+    {
+        "name": "Storm Cloud",
+        "dustVal": "1.27",
+        "slots": "8"
+    },
+    {
+        "name": "Hrimburn",
+        "dustVal": "1.27",
+        "slots": "4"
+    },
+    {
+        "name": "Greedtrap",
+        "dustVal": "1.27",
+        "slots": "4"
+    },
+    {
+        "name": "Wildwrap",
+        "dustVal": "1.27",
+        "slots": "6"
+    },
+    {
+        "name": "Bramblejack",
+        "dustVal": "1.25",
+        "slots": "6"
+    },
+    {
+        "name": "Crest of Perandus",
+        "dustVal": "1.23",
+        "slots": "4"
+    },
+    {
+        "name": "Asenath's Chant",
+        "dustVal": "1.23",
+        "slots": "4"
+    },
+    {
+        "name": "Stone of Lazhwar",
+        "dustVal": "1.19",
+        "slots": "1"
+    },
+    {
+        "name": "Karui Ward",
+        "dustVal": "1.19",
+        "slots": "1"
+    },
+    {
+        "name": "Springleaf",
+        "dustVal": "1.19",
+        "slots": "6"
+    },
+    {
+        "name": "Tear of Purity",
+        "dustVal": "1.19",
+        "slots": "1"
+    },
+    {
+        "name": "Karui Charge",
+        "dustVal": "1.19",
+        "slots": "1"
+    },
+    {
+        "name": "The Oak",
+        "dustVal": "1.19",
+        "slots": "6"
+    },
+    {
+        "name": "The Screaming Eagle",
+        "dustVal": "1.16",
+        "slots": "6"
+    },
+    {
+        "name": "Abberath's Horn",
+        "dustVal": "1.16",
+        "slots": "3"
+    },
+    {
+        "name": "The Gryphon",
+        "dustVal": "1.16",
+        "slots": "6"
+    },
+    {
+        "name": "Ondar's Clasp",
+        "dustVal": "1.13",
+        "slots": "4"
+    },
+    {
+        "name": "Wheel of the Stormsail",
+        "dustVal": "1.13",
+        "slots": "6"
+    },
+    {
+        "name": "Goredrill",
+        "dustVal": "1.13",
+        "slots": "3"
+    },
+    {
+        "name": "Sanguine Gambol",
+        "dustVal": "1.13",
+        "slots": "3"
+    },
+    {
+        "name": "The Megalomaniac",
+        "dustVal": "1.13",
+        "slots": "4"
+    },
+    {
+        "name": "Fencoil",
+        "dustVal": "1.09",
+        "slots": "4"
+    },
+    {
+        "name": "Craghead",
+        "dustVal": "1.09",
+        "slots": "6"
+    },
+    {
+        "name": "The Blood Thorn",
+        "dustVal": "1.09",
+        "slots": "4"
+    },
+    {
+        "name": "Kaom's Way",
+        "dustVal": "1.09",
+        "slots": "1"
+    },
+    {
+        "name": "Cragfall",
+        "dustVal": "1.09",
+        "slots": "6"
+    },
+    {
+        "name": "Mirebough",
+        "dustVal": "1.09",
+        "slots": "4"
+    },
+    {
+        "name": "Sidhebreath",
+        "dustVal": "1.06",
+        "slots": "1"
+    },
+    {
+        "name": "Crown of Thorns",
+        "dustVal": "1.06",
+        "slots": "4"
+    },
+    {
+        "name": "Araku Tiki",
+        "dustVal": "1.06",
+        "slots": "1"
+    },
+    {
+        "name": "Wanderlust",
+        "dustVal": "1.06",
+        "slots": "4"
+    },
+    {
+        "name": "Last Resort",
+        "dustVal": "1.06",
+        "slots": "4"
+    },
+    {
+        "name": "Ngamahu Tiki",
+        "dustVal": "1.06",
+        "slots": "1"
+    },
+    {
+        "name": "Martyr's Crown",
+        "dustVal": "1.06",
+        "slots": "4"
+    },
+    {
+        "name": "Blackheart",
+        "dustVal": "1.03",
+        "slots": "1"
+    },
+    {
+        "name": "Blackgleam",
+        "dustVal": "1.03",
+        "slots": "6"
+    },
+    {
+        "name": "Voidheart",
+        "dustVal": "1.03",
+        "slots": "1"
+    },
+    {
+        "name": "Oni-Goroshi",
+        "dustVal": "1.03",
+        "slots": "6"
+    },
+    {
+        "name": "Redbeak",
+        "dustVal": "1.00",
+        "slots": "3"
+    },
+    {
+        "name": "Silverbranch",
+        "dustVal": "1.00",
+        "slots": "6"
+    },
+    {
+        "name": "Ezomyte Peak",
+        "dustVal": "1.00",
+        "slots": "4"
+    },
+    {
+        "name": "Lochtonial Caress",
+        "dustVal": "1.00",
+        "slots": "4"
+    },
+    {
+        "name": "Lifesprig",
+        "dustVal": "1.00",
+        "slots": "3"
+    },
+    {
+        "name": "Talisman of the Victor",
+        "dustVal": "1.00",
+        "slots": "1"
+    },
+    {
+        "name": "First Piece of the Arcane",
+        "dustVal": "1.00",
+        "slots": "2"
+    },
+    {
+        "name": "Second Piece of the Arcane",
+        "dustVal": "1.00",
+        "slots": "2"
+    },
+    {
+        "name": "Third Piece of the Arcane",
+        "dustVal": "1.00",
+        "slots": "2"
+    },
+    {
+        "name": "First Piece of Time",
+        "dustVal": "1.00",
+        "slots": "1"
+    },
+    {
+        "name": "Second Piece of Time",
+        "dustVal": "1.00",
+        "slots": "1"
+    },
+    {
+        "name": "Demigod's Authority",
+        "dustVal": "1.00",
+        "slots": "6"
+    },
+    {
+        "name": "Wall of Brambles",
+        "dustVal": "1.00",
+        "slots": "6"
+    },
+    {
+        "name": "Ezomyte Hold",
+        "dustVal": "1.00",
+        "slots": "4"
+    },
+    {
+        "name": "Silverbough",
+        "dustVal": "1.00",
+        "slots": "6"
+    },
+    {
+        "name": "Dreadbeak",
+        "dustVal": "1.00",
+        "slots": "3"
+    },
+    {
+        "name": "Acton's Nightmare",
+        "dustVal": "7.46",
+        "slots": "1"
+    },
+    {
+        "name": "Admiral's Arrogance",
+        "dustVal": "6.15",
+        "slots": "4"
+    },
+    {
+        "name": "Altered Distant Memory",
+        "dustVal": "21.28",
+        "slots": "1"
+    },
+    {
+        "name": "Amanamu's Gaze",
+        "dustVal": "20.66",
+        "slots": "1"
+    },
+    {
+        "name": "Anatomical Knowledge",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Ancestral Vision",
+        "dustVal": "10.52",
+        "slots": "1"
+    },
+    {
+        "name": "Ancient Waystones",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Apex Mode",
+        "dustVal": "2.19",
+        "slots": "1"
+    },
+    {
+        "name": "Apparitions",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Assassin's Haste",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Atziri's Promise",
+        "dustVal": "2.07",
+        "slots": "2"
+    },
+    {
+        "name": "Atziri's Reign",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Augmented Distant Memory",
+        "dustVal": "21.28",
+        "slots": "1"
+    },
+    {
+        "name": "Azadi Crest",
+        "dustVal": "9.06",
+        "slots": "4"
+    },
+    {
+        "name": "Betrayal's Sting",
+        "dustVal": "58.43",
+        "slots": "1"
+    },
+    {
+        "name": "Binds of Bloody Vengeance",
+        "dustVal": "100.80",
+        "slots": "2"
+    },
+    {
+        "name": "Blood of the Karui",
+        "dustVal": "5.32",
+        "slots": "2"
+    },
+    {
+        "name": "Blood Sacrifice",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Bloodnotch",
+        "dustVal": "10.52",
+        "slots": "1"
+    },
+    {
+        "name": "Bottled Faith",
+        "dustVal": "12.94",
+        "slots": "2"
+    },
+    {
+        "name": "Bound By Destiny",
+        "dustVal": "60.00",
+        "slots": "1"
+    },
+    {
+        "name": "Brawn",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Brittle Barrier",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Brutal Restraint",
+        "dustVal": "43.48",
+        "slots": "1"
+    },
+    {
+        "name": "Brute Force Solution",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Cadigan's Authority",
+        "dustVal": "12.14",
+        "slots": "6"
+    },
+    {
+        "name": "Caer Blaidd, Wolfpack's Den",
+        "dustVal": "8.16",
+        "slots": "1"
+    },
+    {
+        "name": "Calamitous Visions",
+        "dustVal": "2.00",
+        "slots": "1"
+    },
+    {
+        "name": "Careful Planning",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Cheap Construction",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Chill of Corruption",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Cinderswallow Urn",
+        "dustVal": "4.31",
+        "slots": "2"
+    },
+    {
+        "name": "Circle of Ambition",
+        "dustVal": "14.14",
+        "slots": "1"
+    },
+    {
+        "name": "Clear Mind",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Coated Shrapnel",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Coiling Whisper",
+        "dustVal": "59.70",
+        "slots": "1"
+    },
+    {
+        "name": "Cold Steel",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Collateral Damage",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Combat Focus",
+        "dustVal": "2.19",
+        "slots": "1"
+    },
+    {
+        "name": "Combustibles",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Conqueror's Efficiency",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Conqueror's Longevity",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Conqueror's Potency",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Contract: Jamanra's Rest",
+        "dustVal": "10.64",
+        "slots": "1"
+    },
+    {
+        "name": "Coralito's Signature",
+        "dustVal": "2.70",
+        "slots": "2"
+    },
+    {
+        "name": "Corrupted Energy",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Cortex",
+        "dustVal": "21.28",
+        "slots": "1"
+    },
+    {
+        "name": "Coruscating Elixir",
+        "dustVal": "3.31",
+        "slots": "2"
+    },
+    {
+        "name": "Dead Reckoning",
+        "dustVal": "10.52",
+        "slots": "1"
+    },
+    {
+        "name": "Death and Taxes",
+        "dustVal": "8.91",
+        "slots": "1"
+    },
+    {
+        "name": "Dissolution of the Flesh",
+        "dustVal": "10.52",
+        "slots": "1"
+    },
+    {
+        "name": "Divination Distillate",
+        "dustVal": "4.71",
+        "slots": "2"
+    },
+    {
+        "name": "Divine Inferno",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Doedre's Elixir",
+        "dustVal": "1.38",
+        "slots": "2"
+    },
+    {
+        "name": "Doryani's Machinarium",
+        "dustVal": "48.93",
+        "slots": "1"
+    },
+    {
+        "name": "Dying Sun",
+        "dustVal": "9.92",
+        "slots": "2"
+    },
+    {
+        "name": "Efficient Training",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Eldritch Knowledge",
+        "dustVal": "2.36",
+        "slots": "1"
+    },
+    {
+        "name": "Elegant Hubris",
+        "dustVal": "14.49",
+        "slots": "1"
+    },
+    {
+        "name": "Elixir of the Unbroken Circle",
+        "dustVal": "4.31",
+        "slots": "2"
+    },
+    {
+        "name": "Emperor's Cunning",
+        "dustVal": "10.52",
+        "slots": "1"
+    },
+    {
+        "name": "Emperor's Mastery",
+        "dustVal": "6.00",
+        "slots": "1"
+    },
+    {
+        "name": "Emperor's Might",
+        "dustVal": "10.52",
+        "slots": "1"
+    },
+    {
+        "name": "Emperor's Wit",
+        "dustVal": "10.52",
+        "slots": "1"
+    },
+    {
+        "name": "Endless Misery",
+        "dustVal": "2.19",
+        "slots": "1"
+    },
+    {
+        "name": "Energised Armour",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Energy From Within",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Enmity's Embrace",
+        "dustVal": "61.99",
+        "slots": "1"
+    },
+    {
+        "name": "Fertile Mind",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Fevered Mind",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Fight for Survival",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Fireborn",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Firesong",
+        "dustVal": "10.52",
+        "slots": "1"
+    },
+    {
+        "name": "First Snow",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Fluid Motion",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Forbidden Flame",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Forbidden Flesh",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Forbidden Taste",
+        "dustVal": "4.59",
+        "slots": "2"
+    },
+    {
+        "name": "Fortified Legion",
+        "dustVal": "2.36",
+        "slots": "1"
+    },
+    {
+        "name": "Fortress Covenant",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Fragile Bloom",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Fragility",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "From Dust",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Frozen Trail",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Glorious Vanity",
+        "dustVal": "14.49",
+        "slots": "1"
+    },
+    {
+        "name": "Grace of the Goddess",
+        "dustVal": "43.48",
+        "slots": "3"
+    },
+    {
+        "name": "Grand Spectrum",
+        "dustVal": "10.52",
+        "slots": "1"
+    },
+    {
+        "name": "Grasping Nightshade",
+        "dustVal": "9.03",
+        "slots": "2"
+    },
+    {
+        "name": "Grattus Signet",
+        "dustVal": "2.54",
+        "slots": "1"
+    },
+    {
+        "name": "Growing Agony",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Hair Trigger",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Hall of Grandmasters",
+        "dustVal": "7.46",
+        "slots": "1"
+    },
+    {
+        "name": "Hallowed Ground",
+        "dustVal": "7.92",
+        "slots": "1"
+    },
+    {
+        "name": "Hand of Heresy",
+        "dustVal": "116.86",
+        "slots": "4"
+    },
+    {
+        "name": "Hazardous Research",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Healthy Mind",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Hidden Potential",
+        "dustVal": "17.82",
+        "slots": "1"
+    },
+    {
+        "name": "Hotheaded",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Howlcrack",
+        "dustVal": "14.49",
+        "slots": "4"
+    },
+    {
+        "name": "Hungry Abyss",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Immutable Force",
+        "dustVal": "10.52",
+        "slots": "1"
+    },
+    {
+        "name": "Impossible Escape",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Inertia",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Inevitability",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Infused Beachhead",
+        "dustVal": "67.73",
+        "slots": "1"
+    },
+    {
+        "name": "Inspired Learning",
+        "dustVal": "25.54",
+        "slots": "1"
+    },
+    {
+        "name": "Intuitive Leap",
+        "dustVal": "10.52",
+        "slots": "1"
+    },
+    {
+        "name": "Izaro's Turmoil",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Kaom's Command",
+        "dustVal": "8.02",
+        "slots": "4"
+    },
+    {
+        "name": "Kiara's Determination",
+        "dustVal": "2.16",
+        "slots": "2"
+    },
+    {
+        "name": "Kitava's Teachings",
+        "dustVal": "2.00",
+        "slots": "1"
+    },
+    {
+        "name": "Kurgal's Gaze",
+        "dustVal": "20.66",
+        "slots": "1"
+    },
+    {
+        "name": "Lavianga's Spirit",
+        "dustVal": "5.32",
+        "slots": "2"
+    },
+    {
+        "name": "Legacy of the Rose",
+        "dustVal": "139.53",
+        "slots": "8"
+    },
+    {
+        "name": "Lethal Pride",
+        "dustVal": "14.49",
+        "slots": "1"
+    },
+    {
+        "name": "Lion's Roar",
+        "dustVal": "5.46",
+        "slots": "2"
+    },
+    {
+        "name": "Lioneye's Fall",
+        "dustVal": "10.52",
+        "slots": "1"
+    },
+    {
+        "name": "Lord of Steel",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Maelström of Chaos",
+        "dustVal": "7.03",
+        "slots": "1"
+    },
+    {
+        "name": "Malicious Intent",
+        "dustVal": "5.72",
+        "slots": "1"
+    },
+    {
+        "name": "Mantra of Flames",
+        "dustVal": "4.26",
+        "slots": "1"
+    },
+    {
+        "name": "Mao Kun",
+        "dustVal": "7.25",
+        "slots": "1"
+    },
+    {
+        "name": "Martial Artistry",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Megalomaniac",
+        "dustVal": "2.00",
+        "slots": "1"
+    },
+    {
+        "name": "Melding of the Flesh",
+        "dustVal": "10.52",
+        "slots": "1"
+    },
+    {
+        "name": "Might and Influence",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Might in All Forms",
+        "dustVal": "3.17",
+        "slots": "1"
+    },
+    {
+        "name": "Might of the Meek",
+        "dustVal": "10.52",
+        "slots": "1"
+    },
+    {
+        "name": "Mightblood Ire",
+        "dustVal": "3.31",
+        "slots": "2"
+    },
+    {
+        "name": "Militant Faith",
+        "dustVal": "14.49",
+        "slots": "1"
+    },
+    {
+        "name": "Mutated Growth",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Mystic Refractor",
+        "dustVal": "21.22",
+        "slots": "3"
+    },
+    {
+        "name": "Nadir Mode",
+        "dustVal": "2.19",
+        "slots": "1"
+    },
+    {
+        "name": "Natural Affinity",
+        "dustVal": "2.00",
+        "slots": "1"
+    },
+    {
+        "name": "Nevalius Inheritance",
+        "dustVal": "3.51",
+        "slots": "2"
+    },
+    {
+        "name": "Oba's Cursed Trove",
+        "dustVal": "8.16",
+        "slots": "1"
+    },
+    {
+        "name": "Olmec's Sanctum",
+        "dustVal": "8.65",
+        "slots": "1"
+    },
+    {
+        "name": "Olroth's Resolve",
+        "dustVal": "12.94",
+        "slots": "2"
+    },
+    {
+        "name": "Omen on the Winds",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "One With Nothing",
+        "dustVal": "2.00",
+        "slots": "1"
+    },
+    {
+        "name": "Oriath's End",
+        "dustVal": "30.75",
+        "slots": "2"
+    },
+    {
+        "name": "Overwhelming Odds",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Pacifism",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Pillars of Arun",
+        "dustVal": "8.65",
+        "slots": "1"
+    },
+    {
+        "name": "Pitch Darkness",
+        "dustVal": "7.69",
+        "slots": "1"
+    },
+    {
+        "name": "Poacher's Aim",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Poorjoy's Asylum",
+        "dustVal": "7.92",
+        "slots": "1"
+    },
+    {
+        "name": "Powerlessness",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Primordial Eminence",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Primordial Harmony",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Primordial Might",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Progenesis",
+        "dustVal": "41.32",
+        "slots": "2"
+    },
+    {
+        "name": "Prospero's Protection",
+        "dustVal": "6.25",
+        "slots": "1"
+    },
+    {
+        "name": "Pugilist",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Pure Talent",
+        "dustVal": "10.52",
+        "slots": "1"
+    },
+    {
+        "name": "Quickening Covenant",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Rain of Splinters",
+        "dustVal": "8.51",
+        "slots": "1"
+    },
+    {
+        "name": "Rapid Expansion",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Rational Doctrine",
+        "dustVal": "43.84",
+        "slots": "1"
+    },
+    {
+        "name": "Ravenous Passion",
+        "dustVal": "21.39",
+        "slots": "4"
+    },
+    {
+        "name": "Reckless Defence",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Blood Sacrifice",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Cheap Construction",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Conqueror's Efficiency",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Cortex",
+        "dustVal": "1064.09",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Fragile Bloom",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Fragility",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Hotheaded",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Lavianga's Spirit",
+        "dustVal": "8.51",
+        "slots": "2"
+    },
+    {
+        "name": "Replica Pacifism",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Pillars of Arun",
+        "dustVal": "51.91",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Poorjoy's Asylum",
+        "dustVal": "229.47",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Powerlessness",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Primordial Might",
+        "dustVal": "10.52",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Pure Talent",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Reckless Defence",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Rumi's Concoction",
+        "dustVal": "12.94",
+        "slots": "2"
+    },
+    {
+        "name": "Replica Sorrow of the Divine",
+        "dustVal": "4.31",
+        "slots": "2"
+    },
+    {
+        "name": "Replica Unstable Payload",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Witchfire Brew",
+        "dustVal": "4.31",
+        "slots": "2"
+    },
+    {
+        "name": "Rewritten Distant Memory",
+        "dustVal": "21.28",
+        "slots": "1"
+    },
+    {
+        "name": "Ring of Blades",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Rolling Flames",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Rotgut",
+        "dustVal": "3.17",
+        "slots": "2"
+    },
+    {
+        "name": "Rumi's Concoction",
+        "dustVal": "15.37",
+        "slots": "2"
+    },
+    {
+        "name": "Sacrificial Harvest",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Sap of the Seasons",
+        "dustVal": "3.31",
+        "slots": "2"
+    },
+    {
+        "name": "Scornflux",
+        "dustVal": "9.06",
+        "slots": "4"
+    },
+    {
+        "name": "Seething Fury",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Self-Flagellation",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Serle's Masterwork",
+        "dustVal": "5.81",
+        "slots": "6"
+    },
+    {
+        "name": "Servant of Decay",
+        "dustVal": "58.43",
+        "slots": "6"
+    },
+    {
+        "name": "Seven Teachings",
+        "dustVal": "50.00",
+        "slots": "6"
+    },
+    {
+        "name": "Shattered Chains",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Sin's Rebirth",
+        "dustVal": "53.91",
+        "slots": "2"
+    },
+    {
+        "name": "Soul Catcher",
+        "dustVal": "2.70",
+        "slots": "2"
+    },
+    {
+        "name": "Soul Ripper",
+        "dustVal": "53.91",
+        "slots": "2"
+    },
+    {
+        "name": "Soul Tether",
+        "dustVal": "8.02",
+        "slots": "2"
+    },
+    {
+        "name": "Soul's Wick",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Spinehail",
+        "dustVal": "49.34",
+        "slots": "6"
+    },
+    {
+        "name": "Spire of Stone",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Spirit Guards",
+        "dustVal": "2.19",
+        "slots": "1"
+    },
+    {
+        "name": "Spirited Response",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Split Personality",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Spreading Rot",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Squirming Terror",
+        "dustVal": "14.69",
+        "slots": "1"
+    },
+    {
+        "name": "Starcaller",
+        "dustVal": "139.53",
+        "slots": "8"
+    },
+    {
+        "name": "Starlight Chalice",
+        "dustVal": "4.31",
+        "slots": "2"
+    },
+    {
+        "name": "Static Electricity",
+        "dustVal": "3.17",
+        "slots": "1"
+    },
+    {
+        "name": "Steel Spirit",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Stormshroud",
+        "dustVal": "10.52",
+        "slots": "1"
+    },
+    {
+        "name": "Sublime Vision",
+        "dustVal": "6.00",
+        "slots": "1"
+    },
+    {
+        "name": "Sudden Ignition",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Survival Instincts",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Survival Secrets",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Survival Skills",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Svalinn",
+        "dustVal": "26.30",
+        "slots": "8"
+    },
+    {
+        "name": "Taste of Hate",
+        "dustVal": "25.54",
+        "slots": "2"
+    },
+    {
+        "name": "Tawhoa's Felling",
+        "dustVal": "7.36",
+        "slots": "8"
+    },
+    {
+        "name": "Tecrod's Gaze",
+        "dustVal": "20.66",
+        "slots": "1"
+    },
+    {
+        "name": "Tempered Flesh",
+        "dustVal": "2.19",
+        "slots": "1"
+    },
+    {
+        "name": "Tempered Mind",
+        "dustVal": "2.19",
+        "slots": "1"
+    },
+    {
+        "name": "Tempered Spirit",
+        "dustVal": "2.19",
+        "slots": "1"
+    },
+    {
+        "name": "That Which Was Taken",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "The Adorned",
+        "dustVal": "10.52",
+        "slots": "1"
+    },
+    {
+        "name": "The Anima Stone",
+        "dustVal": "6.00",
+        "slots": "1"
+    },
+    {
+        "name": "The Apostate",
+        "dustVal": "16.39",
+        "slots": "6"
+    },
+    {
+        "name": "The Arkhon's Tools",
+        "dustVal": "52.61",
+        "slots": "2"
+    },
+    {
+        "name": "The Balance of Terror",
+        "dustVal": "10.52",
+        "slots": "1"
+    },
+    {
+        "name": "The Battle Within",
+        "dustVal": "11.44",
+        "slots": "2"
+    },
+    {
+        "name": "The Beachhead",
+        "dustVal": "8.16",
+        "slots": "1"
+    },
+    {
+        "name": "The Blue Dream",
+        "dustVal": "1.84",
+        "slots": "1"
+    },
+    {
+        "name": "The Blue Nightmare",
+        "dustVal": "21.92",
+        "slots": "1"
+    },
+    {
+        "name": "The Celestial Brace",
+        "dustVal": "27.91",
+        "slots": "4"
+    },
+    {
+        "name": "The Coward's Trial",
+        "dustVal": "5.72",
+        "slots": "1"
+    },
+    {
+        "name": "The Dark Monarch",
+        "dustVal": "46.51",
+        "slots": "4"
+    },
+    {
+        "name": "The Devourer of Minds",
+        "dustVal": "37.50",
+        "slots": "4"
+    },
+    {
+        "name": "The Front Line",
+        "dustVal": "2.00",
+        "slots": "1"
+    },
+    {
+        "name": "The Golden Rule",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "The Green Dream",
+        "dustVal": "1.84",
+        "slots": "1"
+    },
+    {
+        "name": "The Green Nightmare",
+        "dustVal": "21.92",
+        "slots": "1"
+    },
+    {
+        "name": "The Hand of Phrecia",
+        "dustVal": "5.00",
+        "slots": "4"
+    },
+    {
+        "name": "The Hateful Accuser",
+        "dustVal": "7.25",
+        "slots": "1"
+    },
+    {
+        "name": "The Interrogation",
+        "dustVal": "2.00",
+        "slots": "1"
+    },
+    {
+        "name": "The Light of Meaning",
+        "dustVal": "1.00",
+        "slots": "1"
+    },
+    {
+        "name": "The Living Blade",
+        "dustVal": "11.78",
+        "slots": "8"
+    },
+    {
+        "name": "The Long Winter",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "The Overflowing Chalice",
+        "dustVal": "2.70",
+        "slots": "2"
+    },
+    {
+        "name": "The Perandus Manor",
+        "dustVal": "9.45",
+        "slots": "1"
+    },
+    {
+        "name": "The Perandus Pact",
+        "dustVal": "1.00",
+        "slots": "1"
+    },
+    {
+        "name": "The Putrid Cloister",
+        "dustVal": "9.18",
+        "slots": "1"
+    },
+    {
+        "name": "The Queller of Minds",
+        "dustVal": "7.25",
+        "slots": "1"
+    },
+    {
+        "name": "The Red Dream",
+        "dustVal": "1.84",
+        "slots": "1"
+    },
+    {
+        "name": "The Red Nightmare",
+        "dustVal": "21.92",
+        "slots": "1"
+    },
+    {
+        "name": "The Selfish Shepherd",
+        "dustVal": "7.25",
+        "slots": "1"
+    },
+    {
+        "name": "The Siege",
+        "dustVal": "2.00",
+        "slots": "1"
+    },
+    {
+        "name": "The Sorrow of the Divine",
+        "dustVal": "2.70",
+        "slots": "2"
+    },
+    {
+        "name": "The Tempest",
+        "dustVal": "1.27",
+        "slots": "8"
+    },
+    {
+        "name": "The Tempest Rising",
+        "dustVal": "28.74",
+        "slots": "4"
+    },
+    {
+        "name": "The Tides of Time",
+        "dustVal": "50.40",
+        "slots": "2"
+    },
+    {
+        "name": "The Tower of Ordeals",
+        "dustVal": "282.22",
+        "slots": "1"
+    },
+    {
+        "name": "The Twilight Temple",
+        "dustVal": "18.36",
+        "slots": "1"
+    },
+    {
+        "name": "The Utmost",
+        "dustVal": "151.26",
+        "slots": "1"
+    },
+    {
+        "name": "The Vigil",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "The Vinktar Square",
+        "dustVal": "61.99",
+        "slots": "1"
+    },
+    {
+        "name": "The Wise Oak",
+        "dustVal": "2.46",
+        "slots": "2"
+    },
+    {
+        "name": "The Writhing Jar",
+        "dustVal": "7.15",
+        "slots": "2"
+    },
+    {
+        "name": "Thread of Hope",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "To Dust",
+        "dustVal": "3.51",
+        "slots": "1"
+    },
+    {
+        "name": "Transcendent Flesh",
+        "dustVal": "10.52",
+        "slots": "1"
+    },
+    {
+        "name": "Transcendent Mind",
+        "dustVal": "10.52",
+        "slots": "1"
+    },
+    {
+        "name": "Transcendent Spirit",
+        "dustVal": "10.52",
+        "slots": "1"
+    },
+    {
+        "name": "Twisted Distant Memory",
+        "dustVal": "21.28",
+        "slots": "1"
+    },
+    {
+        "name": "Ulaman's Gaze",
+        "dustVal": "20.66",
+        "slots": "1"
+    },
+    {
+        "name": "Unending Hunger",
+        "dustVal": "10.52",
+        "slots": "1"
+    },
+    {
+        "name": "Unnatural Instinct",
+        "dustVal": "10.52",
+        "slots": "1"
+    },
+    {
+        "name": "Unstable Payload",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Vaal Sentencing",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Vaults of Atziri",
+        "dustVal": "7.25",
+        "slots": "1"
+    },
+    {
+        "name": "Venarius' Astrolabe",
+        "dustVal": "53.47",
+        "slots": "1"
+    },
+    {
+        "name": "Veruso's Ambition",
+        "dustVal": "3.32",
+        "slots": "4"
+    },
+    {
+        "name": "Vessel of Vinktar",
+        "dustVal": "9.92",
+        "slots": "2"
+    },
+    {
+        "name": "Violent Dead",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Voices",
+        "dustVal": "6.00",
+        "slots": "1"
+    },
+    {
+        "name": "Volley Fire",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Vorana's Preparation",
+        "dustVal": "2.70",
+        "slots": "2"
+    },
+    {
+        "name": "Warlord's Reach",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Warrior's Tale",
+        "dustVal": "10.52",
+        "slots": "1"
+    },
+    {
+        "name": "Watcher's Eye",
+        "dustVal": "2.00",
+        "slots": "1"
+    },
+    {
+        "name": "Weight of Sin",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Weight of the Empire",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Whakawairua Tuahu",
+        "dustVal": "7.92",
+        "slots": "1"
+    },
+    {
+        "name": "Whispers of Infinity",
+        "dustVal": "51.91",
+        "slots": "1"
+    },
+    {
+        "name": "Wildfire",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Wildfire Phloem",
+        "dustVal": "5.00",
+        "slots": "2"
+    },
+    {
+        "name": "Wine of the Prophet",
+        "dustVal": "139.53",
+        "slots": "2"
+    },
+    {
+        "name": "Winter Burial",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Winter's Bounty",
+        "dustVal": "1.75",
+        "slots": "1"
+    },
+    {
+        "name": "Witchbane",
+        "dustVal": "10.52",
+        "slots": "1"
+    },
+    {
+        "name": "Witchfire Brew",
+        "dustVal": "8.02",
+        "slots": "2"
+    },
+    {
+        "name": "Ynda's Stand",
+        "dustVal": "9.03",
+        "slots": "2"
+    },
+    {
+        "name": "Zerphi's Last Breath",
+        "dustVal": "106.41",
+        "slots": "2"
+    },
+    {
+        "name": "Festering Resentment",
+        "dustVal": "130.43",
+        "slots": "3"
+    },
+    {
+        "name": "Wing of the Wyvern",
+        "dustVal": "122.94",
+        "slots": "8"
+    },
+    {
+        "name": "The Golden Charlatan",
+        "dustVal": "119.36",
+        "slots": "8"
+    },
+    {
+        "name": "Rigwald's Hunt",
+        "dustVal": "40.98",
+        "slots": "6"
+    },
+    {
+        "name": "Lost Unity",
+        "dustVal": "31.67",
+        "slots": "1"
+    },
+    {
+        "name": "Hand of the Lords",
+        "dustVal": "25.54",
+        "slots": "4"
+    },
+    {
+        "name": "The Unseen Hue",
+        "dustVal": "19.48",
+        "slots": "1"
+    },
+    {
+        "name": "Woespike",
+        "dustVal": "19.48",
+        "slots": "1"
+    },
+    {
+        "name": "Refuge in Isolation",
+        "dustVal": "19.48",
+        "slots": "4"
+    },
+    {
+        "name": "Bonemeld",
+        "dustVal": "17.30",
+        "slots": "1"
+    },
+    {
+        "name": "The Hallowed Monarch",
+        "dustVal": "16.80",
+        "slots": "4"
+    },
+    {
+        "name": "Jiquani's Potential",
+        "dustVal": "13.66",
+        "slots": "8"
+    },
+    {
+        "name": "Cowards' Wail",
+        "dustVal": "12.88",
+        "slots": "8"
+    },
+    {
+        "name": "Bitter Instinct",
+        "dustVal": "12.14",
+        "slots": "4"
+    },
+    {
+        "name": "Haunting Memories",
+        "dustVal": "10.52",
+        "slots": "1"
+    },
+    {
+        "name": "The Caged Mammoth",
+        "dustVal": "6.15",
+        "slots": "4"
+    },
+    {
+        "name": "The Grey Wind",
+        "dustVal": "5.15",
+        "slots": "6"
+    },
+    {
+        "name": "Wellwater Phylactery",
+        "dustVal": "4.71",
+        "slots": "2"
+    },
+    {
+        "name": "The Will of Tul",
+        "dustVal": "3.96",
+        "slots": "1"
+    },
+    {
+        "name": "The Will of Xoph",
+        "dustVal": "3.96",
+        "slots": "1"
+    },
+    {
+        "name": "The Will of Esh",
+        "dustVal": "3.96",
+        "slots": "1"
+    },
+    {
+        "name": "The Will of Uul-Netol",
+        "dustVal": "3.96",
+        "slots": "1"
+    },
+    {
+        "name": "The Sundered Will",
+        "dustVal": "3.96",
+        "slots": "1"
+    },
+    {
+        "name": "The Monastery Bell",
+        "dustVal": "3.13",
+        "slots": "6"
+    },
+    {
+        "name": "Unlight Extant",
+        "dustVal": "2.95",
+        "slots": "3"
+    }
+]

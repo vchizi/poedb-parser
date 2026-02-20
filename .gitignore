@@ -1,9 +1,1 @@
-all_mods_with_simplified.json
-all_mods.json
-simplified_mods.json
-dust.json
-divination_cards.json
-eldritch_implicit.json
-downloaded_page.html
-TheEaterofWorldsImplicit.html
-TheSearingExarchImplicit.html
+.env.local

@@ -13,12 +13,62 @@ $divClass = [
 ];
 
 $implicitMods = [];
+
+function parseTierBaseChance(DOMDocument $dom, DOMElement $cell): ?array
+{
+    $html = $dom->saveHTML($cell);
+    if (!is_string($html) || $html === '') {
+        return null;
+    }
+
+    // Parse sequences like: <i>no_tier_6_eldritch_implicit</i> 0
+    if (!preg_match_all('/<i>\s*([^<]+?)\s*<\/i>\s*([0-9]+)/i', $html, $matches, PREG_SET_ORDER)) {
+        return null;
+    }
+
+    $tier = -1;
+    $base = 'default';
+    $chance = 0;
+
+    foreach ($matches as $m) {
+        $key = trim($m[1]);
+        $value = (int)$m[2];
+
+        if ($tier === -1 && preg_match('/no_tier_(\d+)_/', $key, $tierMatch)) {
+            $tier = (int)$tierMatch[1];
+            continue;
+        }
+
+        if ($key === 'default') {
+            continue;
+        }
+
+        // Use first concrete base bucket; this matches current poedb table shape.
+        if ($base === 'default') {
+            $base = $key;
+            $chance = $value;
+        }
+    }
+
+    return [
+        'tier' => $tier,
+        'base' => $base,
+        'chance' => $chance,
+    ];
+}
+
 foreach ($sources as $source => $url) {
     echo "Processing $source from $url\n";
 
-//    $html = file_get_contents($url);
-    $html = file_get_contents($divClass[$source] . ".html");
-//    file_put_contents($divClass[$source] . ".html", $html);
+    $html = file_get_contents($url);
+    if ($html === false) {
+        $localHtmlPath = $divClass[$source] . ".html";
+        if (file_exists($localHtmlPath)) {
+            $html = file_get_contents($localHtmlPath);
+            echo "Using local fallback: {$localHtmlPath}\n";
+        }
+    }
+    // file_put_contents($divClass[$source] . ".html", $html);
     if ($html === false) {
         echo "Failed to fetch $url\n";
         continue;
@@ -58,35 +108,34 @@ foreach ($sources as $source => $url) {
         $implicitModSpan = $secondTd->getElementsByTagName('span');
         $implicitText = '';
         foreach ($implicitModSpan as $span) {
-            if ($span->getAttribute('class') === 'implicitMod') {
+            if (str_contains($span->getAttribute('class'), 'implicitMod')) {
                 $implicitText = trim($span->textContent);
                 break;
             }
         }
-
-        // Get values from third <td>, exploded by <br>
-        $thirdTd = $tds->item(2);
-        $thirdTdHtml = '';
-        foreach ($thirdTd->childNodes as $node) {
-            if ($node->nodeType === XML_TEXT_NODE || $node->nodeName === 'br') {
-                $thirdTdHtml .= $dom->saveHTML($node);
-            }
+        if ($implicitText === '') {
+            continue;
         }
 
-        $tags = array_filter(array_map('trim', explode('<br>', $thirdTdHtml)));
+        $thirdTd = $tds->item(2);
+        if (!$thirdTd instanceof DOMElement) {
+            continue;
+        }
 
-        [$tier, $ignore] = explode(' ', $tags[0]);
-        [$base, $chance] = explode(' ', $tags[1]);
+        $parsed = parseTierBaseChance($dom, $thirdTd);
+        if ($parsed === null) {
+            continue;
+        }
 
         $implicitMods[$source][] = [
             "Level" => (int)$itemLevel,
             "Mod" => $value = str_replace("\u{2013}", '-', $implicitText),
-            "Base" => $base,
-            "Tier" => (int)(preg_match('/no_tier_(\d+)_/', $tier, $m) ? $m[1] : -1),
-            "Chance" => (int)$chance,
+            "Base" => $parsed['base'],
+            "Tier" => $parsed['tier'],
+            "Chance" => $parsed['chance'],
         ];
     }
 }
 
 echo "Downloaded \n";
-file_put_contents('eldritch_implicit.json', json_encode($implicitMods));
+file_put_contents('data/eldritch_implicit.json', json_encode($implicitMods, JSON_PRETTY_PRINT));
