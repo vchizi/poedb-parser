@@ -1,0 +1,134 @@
+{
+    "T1": [
+        "Academy Map",
+        "Bone Crypt Map",
+        "Shipyard Map",
+        "Thicket Map"
+    ],
+    "T2": [
+        "Core Map",
+        "Dunes Map",
+        "Flooded Mine Map",
+        "Residence Map",
+        "Toxic Sewer Map",
+        "Tropical Island Map",
+        "Volcano Map",
+        "Waterways Map"
+    ],
+    "T3": [
+        "Canyon Map",
+        "Castle Ruins Map",
+        "Coves Map",
+        "Excavation Map",
+        "Overgrown Shrine Map",
+        "Palace Map",
+        "Strand Map",
+        "Summit Map"
+    ],
+    "T4": [
+        "Cemetery Map",
+        "Factory Map",
+        "Jungle Valley Map",
+        "Mesa Map",
+        "Moon Temple Map",
+        "Precinct Map",
+        "Silo Map",
+        "Vaal Pyramid Map"
+    ],
+    "T5": [
+        "Atoll Map",
+        "Bramble Valley Map",
+        "Colosseum Map",
+        "Courtyard Map",
+        "Crimson Temple Map",
+        "Ghetto Map",
+        "Iceberg Map",
+        "Lava Chamber Map"
+    ],
+    "T6": [
+        "Arsenal Map",
+        "Lookout Map",
+        "Promenade Map",
+        "Sepulchre Map",
+        "Shore Map",
+        "Spider Forest Map",
+        "Waste Pool Map"
+    ],
+    "T7": [
+        "City Square Map",
+        "Cursed Crypt Map",
+        "Estuary Map",
+        "Grave Trough Map",
+        "Infested Valley Map",
+        "Primordial Blocks Map",
+        "Tower Map"
+    ],
+    "T8": [
+        "Alleyways Map",
+        "Arachnid Nest Map",
+        "Bazaar Map",
+        "Channel Map",
+        "Grotto Map",
+        "Pit Map",
+        "Port Map"
+    ],
+    "T9": [
+        "Arid Lake Map",
+        "Dark Forest Map",
+        "Glacier Map",
+        "Lava Lake Map",
+        "Mausoleum Map",
+        "Villa Map"
+    ],
+    "T10": [
+        "Cells Map",
+        "Crater Map",
+        "Frozen Cabins Map",
+        "Mineral Pools Map",
+        "Primordial Pool Map",
+        "Underground Sea Map"
+    ],
+    "T11": [
+        "Acid Caverns Map",
+        "Arcade Map",
+        "Ashen Wood Map",
+        "Belfry Map",
+        "Desert Map",
+        "Ramparts Map"
+    ],
+    "T12": [
+        "Crimson Township Map",
+        "Marshes Map",
+        "Mud Geyser Map",
+        "Museum Map",
+        "Necropolis Map",
+        "Park Map"
+    ],
+    "T13": [
+        "Burial Chambers Map",
+        "Chateau Map",
+        "Defiled Cathedral Map",
+        "Desert Spring Map",
+        "Lighthouse Map"
+    ],
+    "T14": [
+        "Arachnid Tomb Map",
+        "Maze Map",
+        "Orchard Map",
+        "Racecourse Map",
+        "Temple Map"
+    ],
+    "T15": [
+        "Arena Map",
+        "Phantasmagoria Map",
+        "Plateau Map",
+        "Sulphur Vents Map",
+        "Underground River Map"
+    ],
+    "T16": [
+        "Beach Map",
+        "Forking River Map",
+        "Ivory Temple Map",
+        "Wasteland Map"
+    ]
+}

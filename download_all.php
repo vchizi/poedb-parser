@@ -6,6 +6,7 @@ $scripts = [
     'download_divination_cards.php',
     'download_eldritch_implicit_modifiers.php',
     'download_items_mods.php',
+    'download_maps.php',
 ];
 
 $passed = 0;
