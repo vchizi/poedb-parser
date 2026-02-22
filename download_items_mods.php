@@ -87,15 +87,6 @@ function extractModsViewData($html) {
 
 function extractMods(array $downloadedMods, string $modType)
 {
-    $ignore = [
-        "<span class=\"secondary\">map ground effect patches per 100 tiles",
-        "<span class=\"secondary\">map ground effect radius",
-        "<span class=\"secondary\">map extra content weighting",
-        "<span class=\"secondary\">map rare monsters have nemesis mod",
-        "<span class=\"secondary\">map extra content weighting",
-        "<span class=\"secondary\">map magic pack mod rules"
-    ];
-
     $itemMods = [];
     if (!isset($downloadedMods[$modType]) || !is_array($downloadedMods[$modType])) {
         return $itemMods;
@@ -118,13 +109,10 @@ function extractMods(array $downloadedMods, string $modType)
             implode('_', $mod['ModFamilyList']),
         );
 
-        $value = preg_replace('/<br><span class=\'secondary\'>(.*?)<\/span>/', '', $mod['str']);
+        $value = preg_replace('/<br><span class="secondary">(.*?)<\/span>/', '', $mod['str']);
         $value = str_replace(["<span class='mod-value'>", "</span>"], '', $value);
         $value = str_replace(["&ndash;", "—", "–"], '-', $value);
         $value = str_replace(["<br>", "<br/>"], '<br>', $value);
-        foreach ($ignore as $ignoreMod) {
-            $value = str_replace($ignoreMod, '', $value);
-        }
 
         $mods = explode('<br>', $value);
 
