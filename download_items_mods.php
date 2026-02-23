@@ -74,10 +74,6 @@ function extractModsViewData($html) {
 
     $jsonPayload = substr($html, $objectStart, $objectEnd - $objectStart + 1);
     $decoded = json_decode($jsonPayload, true);
-    file_put_contents(
-        'test.json',
-        json_encode($decoded, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT)
-    );
     if (!is_array($decoded)) {
         return null;
     }
@@ -102,12 +98,15 @@ function extractMods(array $downloadedMods, string $modType)
         }
 
         $id = sprintf(
-            "%s_%s_%s_%s",
+            "%s_%s_%s_%s_%s_%s",
             $modDomainId,
             $mod['Name'],
             $mod['ModGenerationTypeID'],
             implode('_', $mod['ModFamilyList']),
+            $downloadedMods['opt']['ItemClassesCode'],
+            $downloadedMods['baseitem']['tags'] ?? ''
         );
+        $id = str_replace(' ', '-', $id);
 
         $value = preg_replace('/<br><span class="secondary">(.*?)<\/span>/', '', $mod['str']);
         $value = str_replace(["<span class='mod-value'>", "</span>"], '', $value);
@@ -116,7 +115,42 @@ function extractMods(array $downloadedMods, string $modType)
 
         $mods = explode('<br>', $value);
 
-        $itemMods[] = [
+        $attributes = [];
+        if ($modDomainId == 5) {
+            $attributePatterns = [
+                'more_currency' => '/^([+-]?\d+)%\s+more Currency found in Area$/i',
+                'rarity' => '/^([+-]?\d+)%\s+increased Rarity of Items found in this Area$/i',
+                'quantity' => '/^([+-]?\d+)%\s+increased Quantity of Items found in this Area$/i',
+                'pack_size' => '/^([+-]?\d+)%\s+increased Pack size$/i',
+                'more_maps' => '/^([+-]?\d+)%\s+more Maps found in Area$/i',
+                'more_scarabs' => '/^([+-]?\d+)%\s+more Scarabs found in Area$/i',
+            ];
+
+            $filteredMods = [];
+            foreach ($mods as $modLine) {
+                $modLine = trim($modLine);
+                if ($modLine === '') {
+                    continue;
+                }
+
+                $matchedAttribute = false;
+                foreach ($attributePatterns as $attributeKey => $pattern) {
+                    if (preg_match($pattern, $modLine, $matches)) {
+                        $attributes[$attributeKey] = (int)$matches[1];
+                        $matchedAttribute = true;
+                        break;
+                    }
+                }
+
+                if (!$matchedAttribute) {
+                    $filteredMods[] = $modLine;
+                }
+            }
+
+            $mods = $filteredMods;
+        }
+
+        $itemMod = [
             'ID' => $id,
             'Name' => $mod['Name'],
             'Code' => implode('_', $mod['ModFamilyList']),
@@ -124,7 +158,16 @@ function extractMods(array $downloadedMods, string $modType)
             'ModDomainsID' => $modDomainId,
             'ModGenerationTypeID' => (int)$mod['ModGenerationTypeID'],
             'Mods' => $mods,
+            'Base' => $downloadedMods['opt']['ItemClassesCode'],
+            'BaseId' => $downloadedMods['opt']['ItemClassesID'],
+            'BaseTag' => $downloadedMods['baseitem']['tags'] ?? null,
         ];
+
+        if (!empty($attributes)) {
+            $itemMod['Attributes'] = $attributes;
+        }
+
+        $itemMods[] = $itemMod;
     }
 
     return $itemMods;
@@ -133,6 +176,19 @@ function extractMods(array $downloadedMods, string $modType)
 $items = [
     'Weapons' => [
         'Claws' => 'https://poedb.tw/us/Claws#ModifiersCalc',
+        'Daggers' => 'https://poedb.tw/us/Daggers#ModifiersCalc',
+        'One Hand Swords' => 'https://poedb.tw/us/One_Hand_Swords#ModifiersCalc',
+        'One_Hand_Axes' => 'https://poedb.tw/us/One_Hand_Axes#ModifiersCalc',
+        'One_Hand_Maces' => 'https://poedb.tw/us/One_Hand_Maces#ModifiersCalc',
+        'Sceptres' => 'https://poedb.tw/us/Sceptres#ModifiersCalc',
+        'Rune_Daggers' => 'https://poedb.tw/us/Rune_Daggers#ModifiersCalc',
+        'Thrusting_One_Hand_Swords' => 'https://poedb.tw/us/Thrusting_One_Hand_Swords#ModifiersCalc',
+        'Bows' => 'https://poedb.tw/us/Bows#ModifiersCalc',
+        'Staves' => 'https://poedb.tw/us/Staves#ModifiersCalc',
+        'Two_Hand_Swords' => 'https://poedb.tw/us/Two_Hand_Swords#ModifiersCalc',
+        'Two_Hand_Axes' => 'https://poedb.tw/us/Two_Hand_Axes#ModifiersCalc',
+        'Two_Hand_Maces' => 'https://poedb.tw/us/Two_Hand_Maces#ModifiersCalc',
+        'Warstaves' => 'https://poedb.tw/us/Warstaves#ModifiersCalc',
     ],
     'Jewellery' => [
         'Amulets' => 'https://poedb.tw/us/Amulets#ModifiersCalc',
@@ -291,6 +347,11 @@ foreach ($modTypes as $modType) {
     $modsByType[$modType] = [];
 }
 
+//$rawOutputDir = 'tmp_data';
+//if (!is_dir($rawOutputDir)) {
+//    mkdir($rawOutputDir, 0777, true);
+//}
+
 foreach ($items as $category => $subCategories) {
     if (!is_array($subCategories)) {
         continue;
@@ -315,6 +376,19 @@ foreach ($items as $category => $subCategories) {
             fwrite(STDERR, "Failed to parse ModsView payload for {$subCategory}: {$url}\n");
             continue;
         }
+
+//        $rawModDomainId = (string)($downloadedMods['opt']['ModDomainsID'] ?? 'unknown');
+//        $rawItemClassesCode = (string)($downloadedMods['opt']['ItemClassesCode'] ?? 'unknown');
+//        $rawItemClassesId = (string)($downloadedMods['opt']['ItemClassesID'] ?? 'unknown');
+//        $rawBaseitemTags = (string)($downloadedMods['baseitem']['tags'] ?? 'unknown');
+//        $rawFileId = "{$rawModDomainId}_{$rawItemClassesCode}_{$rawItemClassesId}_{$rawBaseitemTags}";
+//        $safeRawFileName = preg_replace('/[^A-Za-z0-9._-]+/', '_', $rawFileId);
+//        $rawOutputFile = "{$rawOutputDir}/{$safeRawFileName}.json";
+//        file_put_contents(
+//            $rawOutputFile,
+//            json_encode($downloadedMods, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT)
+//        );
+//        echo "Saved raw to {$rawOutputFile}\n";
 
         foreach ($modTypes as $modType) {
             $extractedMods = extractMods($downloadedMods, $modType);
