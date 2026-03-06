@@ -45567,14 +45567,14 @@
             "BaseTag": null
         },
         {
-            "ID": "24_Lucky_1_HeistTrinketCurrencyChaosDropsAsExalted_Trinket_",
+            "ID": "24_Lucky_1_HeistTrinketCurrencyRegalDropsAsDivine_Trinket_",
             "Name": "Lucky",
-            "Code": "HeistTrinketCurrencyChaosDropsAsExalted",
-            "Level": 83,
+            "Code": "HeistTrinketCurrencyRegalDropsAsDivine",
+            "Level": 75,
             "ModDomainsID": 24,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "1% chance in Heists for Chaos Orbs to drop as Exalted Orbs instead"
+                "1% chance in Heists for Regal Orbs to drop as Divine Orbs instead"
             ],
             "Base": "Trinket",
             "BaseId": 71,
@@ -45584,7 +45584,7 @@
             "ID": "24_Lucky_1_HeistTrinketCurrencyRegalDropsAsDivine_Trinket_",
             "Name": "Lucky",
             "Code": "HeistTrinketCurrencyRegalDropsAsDivine",
-            "Level": 60,
+            "Level": 80,
             "ModDomainsID": 24,
             "ModGenerationTypeID": 1,
             "Mods": [
@@ -45595,48 +45595,6 @@
             "BaseTag": null
         },
         {
-            "ID": "24_Lucky_1_HeistTrinketCurrencyRegalDropsAsDivine_Trinket_",
-            "Name": "Lucky",
-            "Code": "HeistTrinketCurrencyRegalDropsAsDivine",
-            "Level": 75,
-            "ModDomainsID": 24,
-            "ModGenerationTypeID": 1,
-            "Mods": [
-                "3% chance in Heists for Regal Orbs to drop as Divine Orbs instead"
-            ],
-            "Base": "Trinket",
-            "BaseId": 71,
-            "BaseTag": null
-        },
-        {
-            "ID": "24_Lucky_1_HeistTrinketCurrencyRegalDropsAsDivine_Trinket_",
-            "Name": "Lucky",
-            "Code": "HeistTrinketCurrencyRegalDropsAsDivine",
-            "Level": 80,
-            "ModDomainsID": 24,
-            "ModGenerationTypeID": 1,
-            "Mods": [
-                "4% chance in Heists for Regal Orbs to drop as Divine Orbs instead"
-            ],
-            "Base": "Trinket",
-            "BaseId": 71,
-            "BaseTag": null
-        },
-        {
-            "ID": "24_Lucky_1_HeistTrinketCurrencyRegalDropsAsExalted_Trinket_",
-            "Name": "Lucky",
-            "Code": "HeistTrinketCurrencyRegalDropsAsExalted",
-            "Level": 60,
-            "ModDomainsID": 24,
-            "ModGenerationTypeID": 1,
-            "Mods": [
-                "2% chance in Heists for Regal Orbs to drop as Exalted Orbs instead"
-            ],
-            "Base": "Trinket",
-            "BaseId": 71,
-            "BaseTag": null
-        },
-        {
             "ID": "24_Lucky_1_HeistTrinketCurrencyRegalDropsAsExalted_Trinket_",
             "Name": "Lucky",
             "Code": "HeistTrinketCurrencyRegalDropsAsExalted",
@@ -45644,7 +45602,7 @@
             "ModDomainsID": 24,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "3% chance in Heists for Regal Orbs to drop as Exalted Orbs instead"
+                "1% chance in Heists for Regal Orbs to drop as Ancient Orbs instead"
             ],
             "Base": "Trinket",
             "BaseId": 71,
@@ -45658,7 +45616,7 @@
             "ModDomainsID": 24,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "4% chance in Heists for Regal Orbs to drop as Exalted Orbs instead"
+                "2% chance in Heists for Regal Orbs to drop as Ancient Orbs instead"
             ],
             "Base": "Trinket",
             "BaseId": 71,
@@ -46443,90 +46401,6 @@
             "ModGenerationTypeID": 2,
             "Mods": [
                 "3% chance to receive additional Blight items when opening a Reward Chest in a Heist"
-            ],
-            "Base": "Trinket",
-            "BaseId": 71,
-            "BaseTag": null
-        },
-        {
-            "ID": "24_of-Superstition_2_HeistTrinketAdditionalHarbingerRewardsFromRewardChests_Trinket_",
-            "Name": "of Superstition",
-            "Code": "HeistTrinketAdditionalHarbingerRewardsFromRewardChests",
-            "Level": 40,
-            "ModDomainsID": 24,
-            "ModGenerationTypeID": 2,
-            "Mods": [
-                "1% chance to receive additional Harbinger items when opening a Reward Chest in a Heist"
-            ],
-            "Base": "Trinket",
-            "BaseId": 71,
-            "BaseTag": null
-        },
-        {
-            "ID": "24_of-Superstition_2_HeistTrinketAdditionalHarbingerRewardsFromRewardChests_Trinket_",
-            "Name": "of Superstition",
-            "Code": "HeistTrinketAdditionalHarbingerRewardsFromRewardChests",
-            "Level": 50,
-            "ModDomainsID": 24,
-            "ModGenerationTypeID": 2,
-            "Mods": [
-                "2% chance to receive additional Harbinger items when opening a Reward Chest in a Heist"
-            ],
-            "Base": "Trinket",
-            "BaseId": 71,
-            "BaseTag": null
-        },
-        {
-            "ID": "24_of-Superstition_2_HeistTrinketAdditionalHarbingerRewardsFromRewardChests_Trinket_",
-            "Name": "of Superstition",
-            "Code": "HeistTrinketAdditionalHarbingerRewardsFromRewardChests",
-            "Level": 70,
-            "ModDomainsID": 24,
-            "ModGenerationTypeID": 2,
-            "Mods": [
-                "3% chance to receive additional Harbinger items when opening a Reward Chest in a Heist"
-            ],
-            "Base": "Trinket",
-            "BaseId": 71,
-            "BaseTag": null
-        },
-        {
-            "ID": "24_of-Superstition_2_HeistTrinketAdditionalDelveRewardsFromRewardChests_Trinket_",
-            "Name": "of Superstition",
-            "Code": "HeistTrinketAdditionalDelveRewardsFromRewardChests",
-            "Level": 40,
-            "ModDomainsID": 24,
-            "ModGenerationTypeID": 2,
-            "Mods": [
-                "1% chance to receive additional Delve items when opening a Reward Chest in a Heist"
-            ],
-            "Base": "Trinket",
-            "BaseId": 71,
-            "BaseTag": null
-        },
-        {
-            "ID": "24_of-Superstition_2_HeistTrinketAdditionalDelveRewardsFromRewardChests_Trinket_",
-            "Name": "of Superstition",
-            "Code": "HeistTrinketAdditionalDelveRewardsFromRewardChests",
-            "Level": 50,
-            "ModDomainsID": 24,
-            "ModGenerationTypeID": 2,
-            "Mods": [
-                "2% chance to receive additional Delve items when opening a Reward Chest in a Heist"
-            ],
-            "Base": "Trinket",
-            "BaseId": 71,
-            "BaseTag": null
-        },
-        {
-            "ID": "24_of-Superstition_2_HeistTrinketAdditionalDelveRewardsFromRewardChests_Trinket_",
-            "Name": "of Superstition",
-            "Code": "HeistTrinketAdditionalDelveRewardsFromRewardChests",
-            "Level": 70,
-            "ModDomainsID": 24,
-            "ModGenerationTypeID": 2,
-            "Mods": [
-                "3% chance to receive additional Delve items when opening a Reward Chest in a Heist"
             ],
             "Base": "Trinket",
             "BaseId": 71,
@@ -152500,6 +152374,20 @@
             "BaseTag": "affliction_warcry_buff_effect"
         },
         {
+            "ID": "21_Notable_1_AfflictionNotableHolyWord_Jewel_affliction_warcry_buff_effect",
+            "Name": "Notable",
+            "Code": "AfflictionNotableHolyWord",
+            "Level": 50,
+            "ModDomainsID": 21,
+            "ModGenerationTypeID": 1,
+            "Mods": [
+                "1 Added Passive Skill is Holy Word"
+            ],
+            "Base": "Jewel",
+            "BaseId": "41",
+            "BaseTag": "affliction_warcry_buff_effect"
+        },
+        {
             "ID": "21_Hale_1_AfflictionJewelSmallPassivesGrantLife_Jewel_affliction_warcry_buff_effect",
             "Name": "Hale",
             "Code": "AfflictionJewelSmallPassivesGrantLife",
@@ -169328,6 +169216,20 @@
             "BaseTag": "affliction_chance_to_block"
         },
         {
+            "ID": "21_Notable_1_AfflictionNotableFieryAegis_Jewel_affliction_chance_to_block",
+            "Name": "Notable",
+            "Code": "AfflictionNotableFieryAegis",
+            "Level": 50,
+            "ModDomainsID": 21,
+            "ModGenerationTypeID": 1,
+            "Mods": [
+                "1 Added Passive Skill is Fiery Aegis"
+            ],
+            "Base": "Jewel",
+            "BaseId": "41",
+            "BaseTag": "affliction_chance_to_block"
+        },
+        {
             "ID": "21_Hale_1_AfflictionJewelSmallPassivesGrantLife_Jewel_affliction_chance_to_block",
             "Name": "Hale",
             "Code": "AfflictionJewelSmallPassivesGrantLife",
@@ -170736,6 +170638,20 @@
             "ModGenerationTypeID": 1,
             "Mods": [
                 "1 Added Passive Skill is One with the Shield"
+            ],
+            "Base": "Jewel",
+            "BaseId": "41",
+            "BaseTag": "affliction_chance_to_block"
+        },
+        {
+            "ID": "21_Notable_1_AfflictionNotableFieryAegis_Jewel_affliction_chance_to_block",
+            "Name": "Notable",
+            "Code": "AfflictionNotableFieryAegis",
+            "Level": 50,
+            "ModDomainsID": 21,
+            "ModGenerationTypeID": 1,
+            "Mods": [
+                "1 Added Passive Skill is Fiery Aegis"
             ],
             "Base": "Jewel",
             "BaseId": "41",
@@ -222163,7 +222079,7 @@
             "BaseTag": "uber_tier_map",
             "Attributes": {
                 "quantity": 16,
-                "rarity": 45,
+                "rarity": 56,
                 "pack_size": 6
             }
         },
@@ -222185,7 +222101,7 @@
                 "quantity": 13,
                 "rarity": 8,
                 "pack_size": 5,
-                "more_maps": 50
+                "more_maps": 35
             }
         },
         {
@@ -222206,7 +222122,7 @@
                 "quantity": 13,
                 "rarity": 8,
                 "pack_size": 5,
-                "more_maps": 50
+                "more_maps": 35
             }
         },
         {
@@ -222227,7 +222143,7 @@
                 "quantity": 13,
                 "rarity": 8,
                 "pack_size": 5,
-                "more_maps": 50
+                "more_maps": 35
             }
         },
         {
@@ -222246,26 +222162,7 @@
             "Attributes": {
                 "quantity": 19,
                 "rarity": 11,
-                "pack_size": 15
-            }
-        },
-        {
-            "ID": "5_Cycling_1_MapUberModDamageRotation_Map_uber_tier_map",
-            "Name": "Cycling",
-            "Code": "MapUberModDamageRotation",
-            "Level": 1,
-            "ModDomainsID": 5,
-            "ModGenerationTypeID": 1,
-            "Mods": [
-                "Players and their Minions deal no damage for 3 out of every 10 seconds"
-            ],
-            "Base": "Map",
-            "BaseId": 35,
-            "BaseTag": "uber_tier_map",
-            "Attributes": {
-                "quantity": 19,
-                "rarity": 56,
-                "pack_size": 5
+                "pack_size": 20
             }
         },
         {
@@ -222284,7 +222181,7 @@
             "BaseTag": "uber_tier_map",
             "Attributes": {
                 "quantity": 19,
-                "rarity": 45,
+                "rarity": 56,
                 "pack_size": 7
             }
         },
@@ -222304,7 +222201,7 @@
             "BaseTag": "uber_tier_map",
             "Attributes": {
                 "quantity": 16,
-                "rarity": 45,
+                "rarity": 56,
                 "pack_size": 6
             }
         },
@@ -222325,7 +222222,7 @@
             "BaseTag": "uber_tier_map",
             "Attributes": {
                 "quantity": 16,
-                "rarity": 36,
+                "rarity": 49,
                 "pack_size": 6
             }
         },
@@ -222344,7 +222241,7 @@
             "BaseTag": "uber_tier_map",
             "Attributes": {
                 "quantity": 19,
-                "rarity": 45,
+                "rarity": 56,
                 "pack_size": 7
             }
         },
@@ -222365,7 +222262,7 @@
                 "quantity": 13,
                 "rarity": 8,
                 "pack_size": 5,
-                "more_maps": 50
+                "more_maps": 35
             }
         },
         {
@@ -222383,7 +222280,7 @@
             "BaseTag": "uber_tier_map",
             "Attributes": {
                 "quantity": 16,
-                "rarity": 45,
+                "rarity": 56,
                 "pack_size": 6
             }
         },
@@ -222404,7 +222301,7 @@
                 "quantity": 13,
                 "rarity": 8,
                 "pack_size": 5,
-                "more_maps": 50
+                "more_maps": 35
             }
         },
         {
@@ -222424,7 +222321,7 @@
                 "quantity": 13,
                 "rarity": 8,
                 "pack_size": 5,
-                "more_currency": 70
+                "more_currency": 47
             }
         },
         {
@@ -222442,7 +222339,7 @@
             "BaseTag": "uber_tier_map",
             "Attributes": {
                 "quantity": 16,
-                "rarity": 36,
+                "rarity": 49,
                 "pack_size": 6
             }
         },
@@ -222464,7 +222361,7 @@
                 "quantity": 10,
                 "rarity": 8,
                 "pack_size": 5,
-                "more_currency": 70
+                "more_currency": 47
             }
         },
         {
@@ -222486,7 +222383,7 @@
                 "quantity": 13,
                 "rarity": 11,
                 "pack_size": 6,
-                "more_scarabs": 50
+                "more_scarabs": 35
             }
         },
         {
@@ -222504,7 +222401,7 @@
             "BaseTag": "uber_tier_map",
             "Attributes": {
                 "quantity": 13,
-                "rarity": 56,
+                "rarity": 69,
                 "pack_size": 5
             }
         },
@@ -222523,7 +222420,7 @@
             "BaseTag": "uber_tier_map",
             "Attributes": {
                 "quantity": 10,
-                "rarity": 45,
+                "rarity": 56,
                 "pack_size": 5
             }
         },
@@ -222544,7 +222441,7 @@
                 "quantity": 13,
                 "rarity": 8,
                 "pack_size": 5,
-                "more_currency": 70
+                "more_currency": 47
             }
         },
         {
@@ -222584,7 +222481,7 @@
                 "quantity": 13,
                 "rarity": 8,
                 "pack_size": 5,
-                "more_maps": 50
+                "more_maps": 35
             }
         },
         {
@@ -222604,7 +222501,7 @@
                 "quantity": 13,
                 "rarity": 8,
                 "pack_size": 5,
-                "more_maps": 60
+                "more_maps": 40
             }
         },
         {
@@ -222624,27 +222521,7 @@
                 "quantity": 13,
                 "rarity": 11,
                 "pack_size": 5,
-                "more_scarabs": 78
-            }
-        },
-        {
-            "ID": "5_of-Petrification_2_MapUberModAmbush_Map_uber_tier_map",
-            "Name": "of Petrification",
-            "Code": "MapUberModAmbush",
-            "Level": 1,
-            "ModDomainsID": 5,
-            "ModGenerationTypeID": 2,
-            "Mods": [
-                "Area contains Petrification Statues"
-            ],
-            "Base": "Map",
-            "BaseId": 35,
-            "BaseTag": "uber_tier_map",
-            "Attributes": {
-                "quantity": 13,
-                "rarity": 8,
-                "pack_size": 5,
-                "more_scarabs": 50
+                "more_scarabs": 53
             }
         },
         {
@@ -222662,7 +222539,7 @@
             "BaseTag": "uber_tier_map",
             "Attributes": {
                 "quantity": 16,
-                "rarity": 56,
+                "rarity": 71,
                 "pack_size": 6
             }
         },
@@ -222681,7 +222558,7 @@
             "BaseTag": "uber_tier_map",
             "Attributes": {
                 "quantity": 16,
-                "rarity": 36,
+                "rarity": 46,
                 "pack_size": 6
             }
         },
@@ -222702,7 +222579,7 @@
             "BaseTag": "uber_tier_map",
             "Attributes": {
                 "quantity": 19,
-                "rarity": 45,
+                "rarity": 56,
                 "pack_size": 7
             }
         },
@@ -222723,7 +222600,7 @@
                 "quantity": 13,
                 "rarity": 8,
                 "pack_size": 5,
-                "more_currency": 70
+                "more_currency": 47
             }
         },
         {
@@ -222745,7 +222622,7 @@
                 "quantity": 13,
                 "rarity": 8,
                 "pack_size": 5,
-                "more_currency": 70
+                "more_currency": 47
             }
         },
         {
@@ -222765,7 +222642,7 @@
                 "quantity": 13,
                 "rarity": 8,
                 "pack_size": 5,
-                "more_currency": 70
+                "more_currency": 45
             }
         },
         {
@@ -222785,7 +222662,7 @@
                 "quantity": 13,
                 "rarity": 8,
                 "pack_size": 5,
-                "more_scarabs": 50
+                "more_scarabs": 35
             }
         },
         {
@@ -222804,7 +222681,7 @@
             "Attributes": {
                 "quantity": 16,
                 "rarity": 8,
-                "pack_size": 15
+                "pack_size": 20
             }
         },
         {
@@ -222826,7 +222703,7 @@
                 "quantity": 13,
                 "rarity": 8,
                 "pack_size": 5,
-                "more_maps": 50
+                "more_maps": 35
             }
         },
         {
@@ -222847,7 +222724,7 @@
                 "quantity": 13,
                 "rarity": 8,
                 "pack_size": 5,
-                "more_scarabs": 90
+                "more_scarabs": 60
             }
         },
         {
@@ -222867,7 +222744,7 @@
                 "quantity": 10,
                 "rarity": 6,
                 "pack_size": 4,
-                "more_scarabs": 50
+                "more_scarabs": 35
             }
         },
         {
@@ -222885,73 +222762,13 @@
             "BaseTag": "uber_tier_map",
             "Attributes": {
                 "quantity": 19,
-                "rarity": 58,
+                "rarity": 72,
                 "pack_size": 6
             }
         },
         {
-            "ID": "5_of-Deceleration_2_MapUberModActionSpeed_Map_uber_tier_map",
-            "Name": "of Deceleration",
-            "Code": "MapUberModActionSpeed",
-            "Level": 1,
-            "ModDomainsID": 5,
-            "ModGenerationTypeID": 2,
-            "Mods": [
-                "Players have 3% reduced Action Speed for each time they've used a Skill Recently"
-            ],
-            "Base": "Map",
-            "BaseId": 35,
-            "BaseTag": "uber_tier_map",
-            "Attributes": {
-                "quantity": 16,
-                "rarity": 65,
-                "pack_size": 6
-            }
-        },
-        {
-            "ID": "5_Retributive_1_MapUberModMarkedForDeath_Map_uber_tier_map",
-            "Name": "Retributive",
-            "Code": "MapUberModMarkedForDeath",
-            "Level": 1,
-            "ModDomainsID": 5,
-            "ModGenerationTypeID": 1,
-            "Mods": [
-                "Players are Marked for Death for 10 seconds",
-                "after killing a Rare or Unique monster"
-            ],
-            "Base": "Map",
-            "BaseId": 35,
-            "BaseTag": "uber_tier_map",
-            "Attributes": {
-                "quantity": 13,
-                "rarity": 8,
-                "pack_size": 5,
-                "more_currency": 70
-            }
-        },
-        {
-            "ID": "5_Equalising_1_MapUberModPercentDamage_Map_uber_tier_map",
-            "Name": "Equalising",
-            "Code": "MapUberModPercentDamage",
-            "Level": 1,
-            "ModDomainsID": 5,
-            "ModGenerationTypeID": 1,
-            "Mods": [
-                "Rare and Unique Monsters remove 5% of Life, Mana and Energy Shield from Players or their Minions on Hit"
-            ],
-            "Base": "Map",
-            "BaseId": 35,
-            "BaseTag": "uber_tier_map",
-            "Attributes": {
-                "quantity": 19,
-                "rarity": 12,
-                "pack_size": 6,
-                "more_currency": 126
-            }
-        },
-        {
-            "ID": "5_Decaying_2_MapUberModElderNovas_Map_uber_tier_map",
-            "Name": "Decaying",
+            "ID": "5_of-Decaying_2_MapUberModElderNovas_Map_uber_tier_map",
+            "Name": "of Decaying",
             "Code": "MapUberModElderNovas",
             "Level": 1,
             "ModDomainsID": 5,
@@ -222965,49 +222782,7 @@
             "Attributes": {
                 "quantity": 16,
                 "rarity": 11,
-                "pack_size": 15
-            }
-        },
-        {
-            "ID": "5_Impaling_1_MapUberModImpaleDetonation_Map_uber_tier_map",
-            "Name": "Impaling",
-            "Code": "MapUberModImpaleDetonation",
-            "Level": 1,
-            "ModDomainsID": 5,
-            "ModGenerationTypeID": 1,
-            "Mods": [
-                "Monsters' Attacks Impale on Hit",
-                "When a fifth Impale is inflicted on a Player,",
-                "Impales are removed to Reflect their Physical Damage multiplied",
-                "by their remaining Hits to that Player and their Allies within 1.8 metres"
-            ],
-            "Base": "Map",
-            "BaseId": 35,
-            "BaseTag": "uber_tier_map",
-            "Attributes": {
-                "quantity": 13,
-                "rarity": 11,
-                "pack_size": 5,
-                "more_currency": 84
-            }
-        },
-        {
-            "ID": "5_of-Desolation_2_MapGroundEffect_Map_uber_tier_map",
-            "Name": "of Desolation",
-            "Code": "MapGroundEffect",
-            "Level": 1,
-            "ModDomainsID": 5,
-            "ModGenerationTypeID": 2,
-            "Mods": [
-                "Area has patches of Awakeners' Desolation"
-            ],
-            "Base": "Map",
-            "BaseId": 35,
-            "BaseTag": "uber_tier_map",
-            "Attributes": {
-                "quantity": 16,
-                "rarity": 11,
-                "pack_size": 15
+                "pack_size": 20
             }
         },
         {
@@ -223026,70 +222801,7 @@
             "Attributes": {
                 "quantity": 13,
                 "rarity": 11,
-                "pack_size": 15
-            }
-        },
-        {
-            "ID": "5_Sabotaging_1_MapUberModTrapMineCount_Map_uber_tier_map",
-            "Name": "Sabotaging",
-            "Code": "MapUberModTrapMineCount",
-            "Level": 1,
-            "ModDomainsID": 5,
-            "ModGenerationTypeID": 1,
-            "Mods": [
-                "Player Skills which Throw Mines throw 1 fewer Mine",
-                "Player Skills which Throw Traps throw 1 fewer Trap"
-            ],
-            "Base": "Map",
-            "BaseId": 35,
-            "BaseTag": "uber_tier_map",
-            "Attributes": {
-                "quantity": 13,
-                "rarity": 8,
-                "pack_size": 5,
-                "more_scarabs": 53
-            }
-        },
-        {
-            "ID": "5_of-Revolt_2_MapUberModMinionSpeed_Map_uber_tier_map",
-            "Name": "of Revolt",
-            "Code": "MapUberModMinionSpeed",
-            "Level": 1,
-            "ModDomainsID": 5,
-            "ModGenerationTypeID": 2,
-            "Mods": [
-                "Players' Minions have 50% less Attack Speed",
-                "Players' Minions have 50% less Cast Speed",
-                "Players' Minions have 50% less Movement Speed"
-            ],
-            "Base": "Map",
-            "BaseId": 35,
-            "BaseTag": "uber_tier_map",
-            "Attributes": {
-                "quantity": 16,
-                "rarity": 8,
-                "pack_size": 5,
-                "more_scarabs": 33
-            }
-        },
-        {
-            "ID": "5_Parasitic_1_MapUberModTotemLife_Map_uber_tier_map",
-            "Name": "Parasitic",
-            "Code": "MapUberModTotemLife",
-            "Level": 1,
-            "ModDomainsID": 5,
-            "ModGenerationTypeID": 1,
-            "Mods": [
-                "15% of Damage Players' Totems take from Hits is taken from their Summoner's Life instead"
-            ],
-            "Base": "Map",
-            "BaseId": 35,
-            "BaseTag": "uber_tier_map",
-            "Attributes": {
-                "quantity": 13,
-                "rarity": 8,
-                "pack_size": 5,
-                "more_scarabs": 53
+                "pack_size": 20
             }
         },
         {
@@ -223108,7 +222820,7 @@
             "Attributes": {
                 "quantity": 13,
                 "rarity": 8,
-                "pack_size": 15
+                "pack_size": 20
             }
         },
         {
@@ -223128,7 +222840,7 @@
                 "quantity": 16,
                 "rarity": 12,
                 "pack_size": 6,
-                "more_currency": 109
+                "more_currency": 64
             }
         },
         {
@@ -223147,7 +222859,7 @@
             "Attributes": {
                 "quantity": 13,
                 "rarity": 8,
-                "pack_size": 15
+                "pack_size": 20
             }
         },
         {
@@ -223166,7 +222878,7 @@
             "Attributes": {
                 "quantity": 13,
                 "rarity": 8,
-                "pack_size": 15
+                "pack_size": 20
             }
         },
         {
@@ -223186,6 +222898,103 @@
                 "quantity": 19,
                 "rarity": 8,
                 "pack_size": 5
+            }
+        },
+        {
+            "ID": "5_of-Treachery_2_MapUberModTreachery_Map_uber_tier_map",
+            "Name": "of Treachery",
+            "Code": "MapUberModTreachery",
+            "Level": 1,
+            "ModDomainsID": 5,
+            "ModGenerationTypeID": 2,
+            "Mods": [
+                "Auras from Player Skills which affect Allies also affect Enemies"
+            ],
+            "Base": "Map",
+            "BaseId": 35,
+            "BaseTag": "uber_tier_map",
+            "Attributes": {
+                "quantity": 16,
+                "rarity": 54,
+                "pack_size": 5
+            }
+        },
+        {
+            "ID": "5_of-Persistence_2_MapUberModRaresLastGasp_Map_uber_tier_map",
+            "Name": "of Persistence",
+            "Code": "MapUberModRaresLastGasp",
+            "Level": 1,
+            "ModDomainsID": 5,
+            "ModGenerationTypeID": 2,
+            "Mods": [
+                "Rare monsters in area Temporarily Revive on death"
+            ],
+            "Base": "Map",
+            "BaseId": 35,
+            "BaseTag": "uber_tier_map",
+            "Attributes": {
+                "quantity": 16,
+                "rarity": 8,
+                "pack_size": 17
+            }
+        },
+        {
+            "ID": "5_Labyrinth's_1_MapUberModLabyrinthHazards_Map_uber_tier_map",
+            "Name": "Labyrinth's",
+            "Code": "MapUberModLabyrinthHazards",
+            "Level": 1,
+            "ModDomainsID": 5,
+            "ModGenerationTypeID": 1,
+            "Mods": [
+                "Area contains Labyrinth Hazards"
+            ],
+            "Base": "Map",
+            "BaseId": 35,
+            "BaseTag": "uber_tier_map",
+            "Attributes": {
+                "quantity": 19,
+                "rarity": 54,
+                "pack_size": 5
+            }
+        },
+        {
+            "ID": "5_Diluted_1_MapUberModLessFlaskEffect_Map_uber_tier_map",
+            "Name": "Diluted",
+            "Code": "MapUberModLessFlaskEffect",
+            "Level": 1,
+            "ModDomainsID": 5,
+            "ModGenerationTypeID": 1,
+            "Mods": [
+                "Players have 40% less effect of Flasks applied to them"
+            ],
+            "Base": "Map",
+            "BaseId": 35,
+            "BaseTag": "uber_tier_map",
+            "Attributes": {
+                "quantity": 16,
+                "rarity": 8,
+                "pack_size": 5,
+                "more_currency": 47
+            }
+        },
+        {
+            "ID": "5_of-Marking_2_MapUberModPlayerMarks_Map_uber_tier_map",
+            "Name": "of Marking",
+            "Code": "MapUberModPlayerMarks",
+            "Level": 1,
+            "ModDomainsID": 5,
+            "ModGenerationTypeID": 2,
+            "Mods": [
+                "Area contains patches of moving Marked Ground, inflicting random Marks"
+            ],
+            "Base": "Map",
+            "BaseId": 35,
+            "BaseTag": "uber_tier_map",
+            "Attributes": {
+                "quantity": 16,
+                "rarity": 8,
+                "pack_size": 5,
+                "more_scarabs": 36
             }
         },
         {
@@ -241904,7 +241713,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take (31-45)% reduced Reflected Physical Damage"
+                "(40-55)% of Physical Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Ring",
             "BaseId": 5,
@@ -241918,7 +241727,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take (46-55)% reduced Reflected Physical Damage"
+                "(56-75)% of Physical Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Ring",
             "BaseId": 5,
@@ -248092,7 +247901,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take 100% reduced Reflected Physical Damage"
+                "100% of Physical Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -248276,8 +248085,8 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "(3-5)% reduced Physical Damage taken",
-                "You and your Minions take 100% reduced Reflected Physical Damage"
+                "100% of Physical Hit Damage from you and your Minions cannot be Reflected",
+                "(3-5)% reduced Physical Damage taken"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -248406,7 +248215,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take 100% reduced Reflected Physical Damage"
+                "100% of Physical Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -248590,8 +248399,8 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "(3-5)% reduced Physical Damage taken",
-                "You and your Minions take 100% reduced Reflected Physical Damage"
+                "100% of Physical Hit Damage from you and your Minions cannot be Reflected",
+                "(3-5)% reduced Physical Damage taken"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -248720,7 +248529,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take 100% reduced Reflected Physical Damage"
+                "100% of Physical Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -248904,8 +248713,8 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "(3-5)% reduced Physical Damage taken",
-                "You and your Minions take 100% reduced Reflected Physical Damage"
+                "100% of Physical Hit Damage from you and your Minions cannot be Reflected",
+                "(3-5)% reduced Physical Damage taken"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -249034,7 +248843,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take 100% reduced Reflected Physical Damage"
+                "100% of Physical Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -249218,8 +249027,8 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "(3-5)% reduced Physical Damage taken",
-                "You and your Minions take 100% reduced Reflected Physical Damage"
+                "100% of Physical Hit Damage from you and your Minions cannot be Reflected",
+                "(3-5)% reduced Physical Damage taken"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -249348,7 +249157,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take 100% reduced Reflected Physical Damage"
+                "100% of Physical Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -249532,8 +249341,8 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "(3-5)% reduced Physical Damage taken",
-                "You and your Minions take 100% reduced Reflected Physical Damage"
+                "100% of Physical Hit Damage from you and your Minions cannot be Reflected",
+                "(3-5)% reduced Physical Damage taken"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -249662,7 +249471,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take 100% reduced Reflected Physical Damage"
+                "100% of Physical Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -249846,8 +249655,8 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "(3-5)% reduced Physical Damage taken",
-                "You and your Minions take 100% reduced Reflected Physical Damage"
+                "100% of Physical Hit Damage from you and your Minions cannot be Reflected",
+                "(3-5)% reduced Physical Damage taken"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -249976,7 +249785,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take 100% reduced Reflected Physical Damage"
+                "100% of Physical Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -250160,8 +249969,8 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "(3-5)% reduced Physical Damage taken",
-                "You and your Minions take 100% reduced Reflected Physical Damage"
+                "100% of Physical Hit Damage from you and your Minions cannot be Reflected",
+                "(3-5)% reduced Physical Damage taken"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -255278,7 +255087,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take (31-45)% reduced Reflected Physical Damage"
+                "(40-55)% of Physical Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Ring",
             "BaseId": "5",
@@ -255292,7 +255101,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take (46-55)% reduced Reflected Physical Damage"
+                "(56-75)% of Physical Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Ring",
             "BaseId": "5",
@@ -255474,7 +255283,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take (31-45)% reduced Reflected Physical Damage"
+                "(40-55)% of Physical Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Ring",
             "BaseId": "5",
@@ -255488,7 +255297,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take (46-55)% reduced Reflected Physical Damage"
+                "(56-75)% of Physical Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Ring",
             "BaseId": "5",
@@ -256021,7 +255830,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 2,
             "Mods": [
-                "Socketed Gems are Supported by Level 16 Lesser Multiple Projectiles",
+                "Socketed Gems are Supported by Level 16 Multiple Projectiles",
                 "(15-20)% increased Projectile Damage"
             ],
             "Base": "Wand",
@@ -256036,7 +255845,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 2,
             "Mods": [
-                "Socketed Gems are Supported by Level 18 Lesser Multiple Projectiles",
+                "Socketed Gems are Supported by Level 18 Multiple Projectiles",
                 "(21-25)% increased Projectile Damage"
             ],
             "Base": "Wand",
@@ -256051,7 +255860,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 2,
             "Mods": [
-                "Socketed Gems are Supported by Level 20 Lesser Multiple Projectiles",
+                "Socketed Gems are Supported by Level 20 Multiple Projectiles",
                 "(26-30)% increased Projectile Damage"
             ],
             "Base": "Wand",
@@ -264921,7 +264730,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take (31-45)% reduced Reflected Elemental Damage"
+                "(40-55)% of Elemental Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Ring",
             "BaseId": 5,
@@ -264935,7 +264744,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take (46-55)% reduced Reflected Elemental Damage"
+                "(56-75)% of Elemental Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Ring",
             "BaseId": 5,
@@ -271351,7 +271160,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take 100% reduced Reflected Elemental Damage"
+                "100% of Elemental Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -271565,8 +271374,8 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "(3-5)% reduced Elemental Damage taken",
-                "You and your Minions take 100% reduced Reflected Elemental Damage"
+                "100% of Elemental Hit Damage from you and your Minions cannot be Reflected",
+                "(3-5)% reduced Elemental Damage taken"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -271738,7 +271547,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take 100% reduced Reflected Elemental Damage"
+                "100% of Elemental Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -271952,8 +271761,8 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "(3-5)% reduced Elemental Damage taken",
-                "You and your Minions take 100% reduced Reflected Elemental Damage"
+                "100% of Elemental Hit Damage from you and your Minions cannot be Reflected",
+                "(3-5)% reduced Elemental Damage taken"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -272125,7 +271934,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take 100% reduced Reflected Elemental Damage"
+                "100% of Elemental Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -272339,8 +272148,8 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "(3-5)% reduced Elemental Damage taken",
-                "You and your Minions take 100% reduced Reflected Elemental Damage"
+                "100% of Elemental Hit Damage from you and your Minions cannot be Reflected",
+                "(3-5)% reduced Elemental Damage taken"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -272512,7 +272321,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take 100% reduced Reflected Elemental Damage"
+                "100% of Elemental Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -272726,8 +272535,8 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "(3-5)% reduced Elemental Damage taken",
-                "You and your Minions take 100% reduced Reflected Elemental Damage"
+                "100% of Elemental Hit Damage from you and your Minions cannot be Reflected",
+                "(3-5)% reduced Elemental Damage taken"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -272899,7 +272708,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take 100% reduced Reflected Elemental Damage"
+                "100% of Elemental Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -273113,8 +272922,8 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "(3-5)% reduced Elemental Damage taken",
-                "You and your Minions take 100% reduced Reflected Elemental Damage"
+                "100% of Elemental Hit Damage from you and your Minions cannot be Reflected",
+                "(3-5)% reduced Elemental Damage taken"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -273286,7 +273095,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take 100% reduced Reflected Elemental Damage"
+                "100% of Elemental Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -273500,8 +273309,8 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "(3-5)% reduced Elemental Damage taken",
-                "You and your Minions take 100% reduced Reflected Elemental Damage"
+                "100% of Elemental Hit Damage from you and your Minions cannot be Reflected",
+                "(3-5)% reduced Elemental Damage taken"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -273673,7 +273482,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take 100% reduced Reflected Elemental Damage"
+                "100% of Elemental Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -273887,8 +273696,8 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "(3-5)% reduced Elemental Damage taken",
-                "You and your Minions take 100% reduced Reflected Elemental Damage"
+                "100% of Elemental Hit Damage from you and your Minions cannot be Reflected",
+                "(3-5)% reduced Elemental Damage taken"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -278770,7 +278579,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take (31-45)% reduced Reflected Elemental Damage"
+                "(40-55)% of Elemental Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Ring",
             "BaseId": "5",
@@ -278784,7 +278593,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take (46-55)% reduced Reflected Elemental Damage"
+                "(56-75)% of Elemental Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Ring",
             "BaseId": "5",
@@ -278994,7 +278803,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take (31-45)% reduced Reflected Elemental Damage"
+                "(40-55)% of Elemental Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Ring",
             "BaseId": "5",
@@ -279008,7 +278817,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take (46-55)% reduced Reflected Elemental Damage"
+                "(56-75)% of Elemental Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Ring",
             "BaseId": "5",
@@ -308696,7 +308505,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take 100% reduced Reflected Elemental Damage"
+                "100% of Elemental Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -308880,8 +308689,8 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "(3-5)% reduced Elemental Damage taken",
-                "You and your Minions take 100% reduced Reflected Elemental Damage"
+                "100% of Elemental Hit Damage from you and your Minions cannot be Reflected",
+                "(3-5)% reduced Elemental Damage taken"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -309026,7 +308835,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take 100% reduced Reflected Elemental Damage"
+                "100% of Elemental Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -309210,8 +309019,8 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "(3-5)% reduced Elemental Damage taken",
-                "You and your Minions take 100% reduced Reflected Elemental Damage"
+                "100% of Elemental Hit Damage from you and your Minions cannot be Reflected",
+                "(3-5)% reduced Elemental Damage taken"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -309356,7 +309165,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take 100% reduced Reflected Elemental Damage"
+                "100% of Elemental Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -309540,8 +309349,8 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "(3-5)% reduced Elemental Damage taken",
-                "You and your Minions take 100% reduced Reflected Elemental Damage"
+                "100% of Elemental Hit Damage from you and your Minions cannot be Reflected",
+                "(3-5)% reduced Elemental Damage taken"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -309686,7 +309495,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take 100% reduced Reflected Elemental Damage"
+                "100% of Elemental Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -309870,8 +309679,8 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "(3-5)% reduced Elemental Damage taken",
-                "You and your Minions take 100% reduced Reflected Elemental Damage"
+                "100% of Elemental Hit Damage from you and your Minions cannot be Reflected",
+                "(3-5)% reduced Elemental Damage taken"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -310016,7 +309825,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take 100% reduced Reflected Elemental Damage"
+                "100% of Elemental Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -310200,8 +310009,8 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "(3-5)% reduced Elemental Damage taken",
-                "You and your Minions take 100% reduced Reflected Elemental Damage"
+                "100% of Elemental Hit Damage from you and your Minions cannot be Reflected",
+                "(3-5)% reduced Elemental Damage taken"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -310346,7 +310155,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take 100% reduced Reflected Elemental Damage"
+                "100% of Elemental Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -310530,8 +310339,8 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "(3-5)% reduced Elemental Damage taken",
-                "You and your Minions take 100% reduced Reflected Elemental Damage"
+                "100% of Elemental Hit Damage from you and your Minions cannot be Reflected",
+                "(3-5)% reduced Elemental Damage taken"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -310676,7 +310485,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take 100% reduced Reflected Elemental Damage"
+                "100% of Elemental Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -310860,8 +310669,8 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "(3-5)% reduced Elemental Damage taken",
-                "You and your Minions take 100% reduced Reflected Elemental Damage"
+                "100% of Elemental Hit Damage from you and your Minions cannot be Reflected",
+                "(3-5)% reduced Elemental Damage taken"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -322314,7 +322123,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take (31-45)% reduced Reflected Physical Damage"
+                "(40-55)% of Physical Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Ring",
             "BaseId": 5,
@@ -322328,7 +322137,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take (46-55)% reduced Reflected Physical Damage"
+                "(56-75)% of Physical Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Ring",
             "BaseId": 5,
@@ -322342,7 +322151,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take (31-45)% reduced Reflected Elemental Damage"
+                "(40-55)% of Elemental Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Ring",
             "BaseId": 5,
@@ -322356,7 +322165,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take (46-55)% reduced Reflected Elemental Damage"
+                "(56-75)% of Elemental Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Ring",
             "BaseId": 5,
@@ -332575,7 +332384,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take (31-45)% reduced Reflected Physical Damage"
+                "(40-55)% of Physical Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Ring",
             "BaseId": "5",
@@ -332589,7 +332398,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take (46-55)% reduced Reflected Physical Damage"
+                "(56-75)% of Physical Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Ring",
             "BaseId": "5",
@@ -332603,7 +332412,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take (31-45)% reduced Reflected Elemental Damage"
+                "(40-55)% of Elemental Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Ring",
             "BaseId": "5",
@@ -332617,7 +332426,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take (46-55)% reduced Reflected Elemental Damage"
+                "(56-75)% of Elemental Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Ring",
             "BaseId": "5",
@@ -332788,7 +332597,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take (31-45)% reduced Reflected Physical Damage"
+                "(40-55)% of Physical Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Ring",
             "BaseId": "5",
@@ -332802,7 +332611,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take (46-55)% reduced Reflected Physical Damage"
+                "(56-75)% of Physical Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Ring",
             "BaseId": "5",
@@ -332816,7 +332625,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take (31-45)% reduced Reflected Elemental Damage"
+                "(40-55)% of Elemental Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Ring",
             "BaseId": "5",
@@ -332830,7 +332639,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take (46-55)% reduced Reflected Elemental Damage"
+                "(56-75)% of Elemental Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Ring",
             "BaseId": "5",
@@ -345490,7 +345299,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take 100% reduced Reflected Physical Damage"
+                "100% of Physical Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -345688,8 +345497,8 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "(3-5)% reduced Physical Damage taken",
-                "You and your Minions take 100% reduced Reflected Physical Damage"
+                "100% of Physical Hit Damage from you and your Minions cannot be Reflected",
+                "(3-5)% reduced Physical Damage taken"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -345835,7 +345644,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take 100% reduced Reflected Physical Damage"
+                "100% of Physical Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -346033,8 +345842,8 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "(3-5)% reduced Physical Damage taken",
-                "You and your Minions take 100% reduced Reflected Physical Damage"
+                "100% of Physical Hit Damage from you and your Minions cannot be Reflected",
+                "(3-5)% reduced Physical Damage taken"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -346180,7 +345989,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take 100% reduced Reflected Physical Damage"
+                "100% of Physical Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -346378,8 +346187,8 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "(3-5)% reduced Physical Damage taken",
-                "You and your Minions take 100% reduced Reflected Physical Damage"
+                "100% of Physical Hit Damage from you and your Minions cannot be Reflected",
+                "(3-5)% reduced Physical Damage taken"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -346525,7 +346334,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take 100% reduced Reflected Physical Damage"
+                "100% of Physical Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -346723,8 +346532,8 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "(3-5)% reduced Physical Damage taken",
-                "You and your Minions take 100% reduced Reflected Physical Damage"
+                "100% of Physical Hit Damage from you and your Minions cannot be Reflected",
+                "(3-5)% reduced Physical Damage taken"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -346870,7 +346679,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take 100% reduced Reflected Physical Damage"
+                "100% of Physical Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -347068,8 +346877,8 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "(3-5)% reduced Physical Damage taken",
-                "You and your Minions take 100% reduced Reflected Physical Damage"
+                "100% of Physical Hit Damage from you and your Minions cannot be Reflected",
+                "(3-5)% reduced Physical Damage taken"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -347215,7 +347024,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take 100% reduced Reflected Physical Damage"
+                "100% of Physical Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -347413,8 +347222,8 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "(3-5)% reduced Physical Damage taken",
-                "You and your Minions take 100% reduced Reflected Physical Damage"
+                "100% of Physical Hit Damage from you and your Minions cannot be Reflected",
+                "(3-5)% reduced Physical Damage taken"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -347560,7 +347369,7 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "You and your Minions take 100% reduced Reflected Physical Damage"
+                "100% of Physical Hit Damage from you and your Minions cannot be Reflected"
             ],
             "Base": "Body Armour",
             "BaseId": 24,
@@ -347758,8 +347567,8 @@
             "ModDomainsID": 1,
             "ModGenerationTypeID": 1,
             "Mods": [
-                "(3-5)% reduced Physical Damage taken",
-                "You and your Minions take 100% reduced Reflected Physical Damage"
+                "100% of Physical Hit Damage from you and your Minions cannot be Reflected",
+                "(3-5)% reduced Physical Damage taken"
             ],
             "Base": "Body Armour",
             "BaseId": 24,

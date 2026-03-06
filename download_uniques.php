@@ -45,7 +45,7 @@ function fetchUniques($jwtAuth) {
         throw new RuntimeException('JWT_AUTH is empty in .env.local');
     }
 
-    $url = 'https://poeladder.com/api/v1/users/vchizi/uniques?ladderIdentifier=SSF_Keepers_of_the_Flame&status=all';
+    $url = 'https://poeladder.com/api/v1/users/vchizi/uniques?ladderIdentifier=SSF_Mirage&status=all';
     $opts = [
         'http' => [
             'method' => 'GET',

@@ -25204,252 +25204,252 @@
         },
         {
             "Level": 75,
-            "Mod": "45% reduced Reflected Damage taken",
+            "Mod": "45% of Damage from your Hits cannot be Reflected",
             "Base": "body_armour",
             "Tier": 6,
             "Chance": 700
         },
         {
             "Level": 75,
-            "Mod": "50% reduced Reflected Damage taken",
+            "Mod": "50% of Damage from your Hits cannot be Reflected",
             "Base": "body_armour",
             "Tier": 5,
             "Chance": 700
         },
         {
             "Level": 75,
-            "Mod": "55% reduced Reflected Damage taken",
+            "Mod": "55% of Damage from your Hits cannot be Reflected",
             "Base": "body_armour",
             "Tier": 4,
             "Chance": 700
         },
         {
             "Level": 75,
-            "Mod": "60% reduced Reflected Damage taken",
+            "Mod": "60% of Damage from your Hits cannot be Reflected",
             "Base": "body_armour",
             "Tier": 3,
             "Chance": 700
         },
         {
             "Level": 75,
-            "Mod": "65% reduced Reflected Damage taken",
+            "Mod": "65% of Damage from your Hits cannot be Reflected",
             "Base": "body_armour",
             "Tier": 2,
             "Chance": 700
         },
         {
             "Level": 75,
-            "Mod": "70% reduced Reflected Damage taken",
+            "Mod": "70% of Damage from your Hits cannot be Reflected",
             "Base": "body_armour",
             "Tier": 1,
             "Chance": 700
         },
         {
             "Level": 75,
-            "Mod": "While a Unique Enemy is in your Presence, 60% reduced Reflected Damage taken",
+            "Mod": "While a Unique Enemy is in your Presence, 60% of Damage from your Hits cannot be Reflected",
             "Base": "body_armour",
             "Tier": 6,
             "Chance": 0
         },
         {
             "Level": 75,
-            "Mod": "While a Unique Enemy is in your Presence, 65% reduced Reflected Damage taken",
+            "Mod": "While a Unique Enemy is in your Presence, 65% of Damage from your Hits cannot be Reflected",
             "Base": "body_armour",
             "Tier": 5,
             "Chance": 350
         },
         {
             "Level": 75,
-            "Mod": "While a Unique Enemy is in your Presence, 70% reduced Reflected Damage taken",
+            "Mod": "While a Unique Enemy is in your Presence, 70% of Damage from your Hits cannot be Reflected",
             "Base": "body_armour",
             "Tier": 4,
             "Chance": 350
         },
         {
             "Level": 75,
-            "Mod": "While a Unique Enemy is in your Presence, 75% reduced Reflected Damage taken",
+            "Mod": "While a Unique Enemy is in your Presence, 75% of Damage from your Hits cannot be Reflected",
             "Base": "body_armour",
             "Tier": 3,
             "Chance": 350
         },
         {
             "Level": 75,
-            "Mod": "While a Unique Enemy is in your Presence, 80% reduced Reflected Damage taken",
+            "Mod": "While a Unique Enemy is in your Presence, 80% of Damage from your Hits cannot be Reflected",
             "Base": "body_armour",
             "Tier": 2,
             "Chance": 350
         },
         {
             "Level": 75,
-            "Mod": "While a Unique Enemy is in your Presence, 85% reduced Reflected Damage taken",
+            "Mod": "While a Unique Enemy is in your Presence, 85% of Damage from your Hits cannot be Reflected",
             "Base": "body_armour",
             "Tier": 1,
             "Chance": 350
         },
         {
             "Level": 75,
-            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 75% reduced Reflected Damage taken",
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 75% of Damage from your Hits cannot be Reflected",
             "Base": "body_armour",
             "Tier": 6,
             "Chance": 0
         },
         {
             "Level": 75,
-            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 80% reduced Reflected Damage taken",
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 80% of Damage from your Hits cannot be Reflected",
             "Base": "body_armour",
             "Tier": 5,
             "Chance": 0
         },
         {
             "Level": 75,
-            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 85% reduced Reflected Damage taken",
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 85% of Damage from your Hits cannot be Reflected",
             "Base": "body_armour",
             "Tier": 4,
             "Chance": 140
         },
         {
             "Level": 75,
-            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 90% reduced Reflected Damage taken",
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 90% of Damage from your Hits cannot be Reflected",
             "Base": "body_armour",
             "Tier": 3,
             "Chance": 140
         },
         {
             "Level": 75,
-            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 95% reduced Reflected Damage taken",
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 95% of Damage from your Hits cannot be Reflected",
             "Base": "body_armour",
             "Tier": 2,
             "Chance": 140
         },
         {
             "Level": 75,
-            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 100% reduced Reflected Damage taken",
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 100% of Damage from your Hits cannot be Reflected",
             "Base": "body_armour",
             "Tier": 1,
             "Chance": 140
         },
         {
             "Level": 75,
-            "Mod": "Minions take 45% reduced Reflected Damage",
+            "Mod": "45% of Hit Damage from your Minions cannot be Reflected",
             "Base": "body_armour",
             "Tier": 6,
             "Chance": 700
         },
         {
             "Level": 75,
-            "Mod": "Minions take 50% reduced Reflected Damage",
+            "Mod": "50% of Hit Damage from your Minions cannot be Reflected",
             "Base": "body_armour",
             "Tier": 5,
             "Chance": 700
         },
         {
             "Level": 75,
-            "Mod": "Minions take 55% reduced Reflected Damage",
+            "Mod": "55% of Hit Damage from your Minions cannot be Reflected",
             "Base": "body_armour",
             "Tier": 4,
             "Chance": 700
         },
         {
             "Level": 75,
-            "Mod": "Minions take 60% reduced Reflected Damage",
+            "Mod": "60% of Hit Damage from your Minions cannot be Reflected",
             "Base": "body_armour",
             "Tier": 3,
             "Chance": 700
         },
         {
             "Level": 75,
-            "Mod": "Minions take 65% reduced Reflected Damage",
+            "Mod": "65% of Hit Damage from your Minions cannot be Reflected",
             "Base": "body_armour",
             "Tier": 2,
             "Chance": 700
         },
         {
             "Level": 75,
-            "Mod": "Minions take 70% reduced Reflected Damage",
+            "Mod": "70% of Hit Damage from your Minions cannot be Reflected",
             "Base": "body_armour",
             "Tier": 1,
             "Chance": 700
         },
         {
             "Level": 75,
-            "Mod": "While a Unique Enemy is in your Presence, Minions take 60% reduced Reflected Damage",
+            "Mod": "While a Unique Enemy is in your Presence, 60% of Hit Damage from your Minions cannot be Reflected",
             "Base": "body_armour",
             "Tier": 6,
             "Chance": 0
         },
         {
             "Level": 75,
-            "Mod": "While a Unique Enemy is in your Presence, Minions take 65% reduced Reflected Damage",
+            "Mod": "While a Unique Enemy is in your Presence, 65% of Hit Damage from your Minions cannot be Reflected",
             "Base": "body_armour",
             "Tier": 5,
             "Chance": 350
         },
         {
             "Level": 75,
-            "Mod": "While a Unique Enemy is in your Presence, Minions take 70% reduced Reflected Damage",
+            "Mod": "While a Unique Enemy is in your Presence, 70% of Hit Damage from your Minions cannot be Reflected",
             "Base": "body_armour",
             "Tier": 4,
             "Chance": 350
         },
         {
             "Level": 75,
-            "Mod": "While a Unique Enemy is in your Presence, Minions take 75% reduced Reflected Damage",
+            "Mod": "While a Unique Enemy is in your Presence, 75% of Hit Damage from your Minions cannot be Reflected",
             "Base": "body_armour",
             "Tier": 3,
             "Chance": 350
         },
         {
             "Level": 75,
-            "Mod": "While a Unique Enemy is in your Presence, Minions take 80% reduced Reflected Damage",
+            "Mod": "While a Unique Enemy is in your Presence, 80% of Hit Damage from your Minions cannot be Reflected",
             "Base": "body_armour",
             "Tier": 2,
             "Chance": 350
         },
         {
             "Level": 75,
-            "Mod": "While a Unique Enemy is in your Presence, Minions take 85% reduced Reflected Damage",
+            "Mod": "While a Unique Enemy is in your Presence, 85% of Hit Damage from your Minions cannot be Reflected",
             "Base": "body_armour",
             "Tier": 1,
             "Chance": 350
         },
         {
             "Level": 75,
-            "Mod": "While a Pinnacle Atlas Boss is in your Presence, Minions take 75% reduced Reflected Damage",
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 75% of Hit Damage from your Minions cannot be Reflected",
             "Base": "body_armour",
             "Tier": 6,
             "Chance": 0
         },
         {
             "Level": 75,
-            "Mod": "While a Pinnacle Atlas Boss is in your Presence, Minions take 80% reduced Reflected Damage",
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 80% of Hit Damage from your Minions cannot be Reflected",
             "Base": "body_armour",
             "Tier": 5,
             "Chance": 0
         },
         {
             "Level": 75,
-            "Mod": "While a Pinnacle Atlas Boss is in your Presence, Minions take 85% reduced Reflected Damage",
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 85% of Hit Damage from your Minions cannot be Reflected",
             "Base": "body_armour",
             "Tier": 4,
             "Chance": 140
         },
         {
             "Level": 75,
-            "Mod": "While a Pinnacle Atlas Boss is in your Presence, Minions take 90% reduced Reflected Damage",
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 90% of Hit Damage from your Minions cannot be Reflected",
             "Base": "body_armour",
             "Tier": 3,
             "Chance": 140
         },
         {
             "Level": 75,
-            "Mod": "While a Pinnacle Atlas Boss is in your Presence, Minions take 95% reduced Reflected Damage",
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 95% of Hit Damage from your Minions cannot be Reflected",
             "Base": "body_armour",
             "Tier": 2,
             "Chance": 140
         },
         {
             "Level": 75,
-            "Mod": "While a Pinnacle Atlas Boss is in your Presence, Minions take 100% reduced Reflected Damage",
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 100% of Hit Damage from your Minions cannot be Reflected",
             "Base": "body_armour",
             "Tier": 1,
             "Chance": 140

@@ -7,7 +7,6 @@
     "The Poet": "Blood of Corruption",
     "Hope": "Prismatic Ring",
     "The Fiend": "Headhunter",
-    "Birth of the Three": "The Goddess Bound",
     "The Hunger": "Taste of Hate",
     "The Drunken Aristocrat": "Divination Distillate",
     "The Sun": "Rise of the Phoenix",
@@ -125,10 +124,9 @@
     "The Twilight Moon": "The Twilight Temple",
     "A Dab of Ink": "The Poet's Pen",
     "The Life Thief": "Zerphi's Heart",
-    "The Messenger": "Harbinger Piece",
+    "The Messenger": "Harbinger Item",
     "The Mad King": "Vaal Aspect",
     "Arrogance of the Vaal": "Item",
-    "The Landing": "The Beachhead",
     "Dark Temptation": "Obliteration",
     "Alone in the Darkness": "Delve Item",
     "Vanity": "Tabula Rasa",
@@ -141,6 +139,7 @@
     "Remembrance": "Precursor's Emblem",
     "Vile Power": "Doomfletch",
     "Azyran's Reward": "Prismatic Jewel",
+    "The Eye of Terror": "Mageblood",
     "The Demon": "Headhunter",
     "Akil's Prophecy": "Elegant Round Shield",
     "The Damned": "Soul Ripper",
@@ -230,5 +229,9 @@
     "Last Stand": "The Surrender",
     "Damnation": "The Original Scripture",
     "When Currents Blaze": "Stormfire",
-    "The Last Laugh": "Replica Dragonfang's Flight"
+    "The Last Laugh": "Replica Dragonfang's Flight",
+    "The Everlasting": "Originator Incarnation Item",
+    "Lucky Bastion": "Svalinn",
+    "Apocalypse": "Eyes of the Greatwolf",
+    "Reflection of the Heart": "Kalandra's Touch"
 }
