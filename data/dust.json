@@ -6728,5 +6728,85 @@
         "name": "Unlight Extant",
         "dustVal": "2.95",
         "slots": "3"
+    },
+    {
+        "name": "Screams of the Desiccated",
+        "dustVal": "46.12",
+        "slots": "2"
+    },
+    {
+        "name": "The Sands of Time",
+        "dustVal": "32.35",
+        "slots": "6"
+    },
+    {
+        "name": "Skysunder",
+        "dustVal": "15.37",
+        "slots": "8"
+    },
+    {
+        "name": "Fleshrender",
+        "dustVal": "15.37",
+        "slots": "8"
+    },
+    {
+        "name": "The Bane of Hope",
+        "dustVal": "9.90",
+        "slots": "8"
+    },
+    {
+        "name": "The Flame of Hope",
+        "dustVal": "9.90",
+        "slots": "8"
+    },
+    {
+        "name": "The Broken Elegy",
+        "dustVal": "9.87",
+        "slots": "8"
+    },
+    {
+        "name": "The Desecrated Chalice",
+        "dustVal": "9.33",
+        "slots": "8"
+    },
+    {
+        "name": "The Sacred Chalice",
+        "dustVal": "9.33",
+        "slots": "8"
+    },
+    {
+        "name": "Untainted Paradise",
+        "dustVal": "5.72",
+        "slots": "1"
+    },
+    {
+        "name": "Khatal's Geyser",
+        "dustVal": "5.64",
+        "slots": "1"
+    },
+    {
+        "name": "Khatal's Weeping",
+        "dustVal": "5.64",
+        "slots": "1"
+    },
+    {
+        "name": "Replica Gifts from Above",
+        "dustVal": "2.78",
+        "slots": "1"
+    },
+    {
+        "name": "Saresh's Darkness",
+        "dustVal": "1.97",
+        "slots": "2"
+    },
+    {
+        "name": "Solerai's Radiance",
+        "dustVal": "1.97",
+        "slots": "2"
+    },
+    {
+        "name": "The Bandit Lord's Band",
+        "dustVal": "29.60",
+        "slots": "1"
     }
 ]
