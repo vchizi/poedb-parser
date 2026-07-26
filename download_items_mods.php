@@ -113,6 +113,8 @@ function extractMods(array $downloadedMods, string $modType)
         $value = str_replace(["&ndash;", "—", "–"], '-', $value);
         $value = str_replace(["<br>", "<br/>"], '<br>', $value);
 
+        $value = preg_replace('/<a\b[^>]*>(.*?)<\/a>/is', '$1', $value);
+
         $mods = explode('<br>', $value);
 
         $attributes = [];
