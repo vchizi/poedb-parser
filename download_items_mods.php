@@ -109,7 +109,7 @@ function extractMods(array $downloadedMods, string $modType)
         $id = str_replace(' ', '-', $id);
 
         $value = preg_replace('/<br><span class="secondary">(.*?)<\/span>/', '', $mod['str']);
-        $value = str_replace(["<span class='mod-value'>", "</span>"], '', $value);
+        $value = str_replace(["<span class='mod-value'>", "</span>", "<span class=\"ndash\">"], '', $value);
         $value = str_replace(["&ndash;", "—", "–"], '-', $value);
         $value = str_replace(["<br>", "<br/>"], '<br>', $value);
 

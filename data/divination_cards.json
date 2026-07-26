@@ -136,6 +136,7 @@
     "Thirst for Knowledge": "Gluttony",
     "Pride of the First Ones": "Farrul's Fur",
     "The Deep Ones": "Tidebreaker",
+    "The Price of Loyalty": "Skin of the Loyal",
     "Remembrance": "Precursor's Emblem",
     "Vile Power": "Doomfletch",
     "Azyran's Reward": "Prismatic Jewel",
@@ -220,6 +221,7 @@
     "The Insane Cat": "Mageblood",
     "The Return of the Rat": "Tavukai",
     "Poisoned Faith": "Arakaali's Fang",
+    "Matryoshka": "Item",
     "Fire Of Unknown Origin": "Nimis",
     "Father's Love": "Sublime Vision",
     "Assassin's Gift": "Divinarius",
@@ -233,5 +235,7 @@
     "The Everlasting": "Originator Incarnation Item",
     "Lucky Bastion": "Svalinn",
     "Apocalypse": "Eyes of the Greatwolf",
-    "Reflection of the Heart": "Kalandra's Touch"
+    "Reflection of the Heart": "Kalandra's Touch",
+    "Pearls Before Swine": "Progenesis",
+    "Energy Sword": "Ephemeral Edge"
 }

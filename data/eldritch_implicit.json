@@ -3278,28 +3278,28 @@
         },
         {
             "Level": 75,
-            "Mod": "Non-Vaal Strike Skills target 1 additional nearby Enemy",
+            "Mod": "Non-Vaal Strike Skills target 1 additional nearby Enemies",
             "Base": "gloves",
             "Tier": 6,
             "Chance": 400
         },
         {
             "Level": 75,
-            "Mod": "Non-Vaal Strike Skills target 1 additional nearby Enemy",
+            "Mod": "Non-Vaal Strike Skills target 1 additional nearby Enemies",
             "Base": "gloves",
             "Tier": 5,
             "Chance": 400
         },
         {
             "Level": 75,
-            "Mod": "Non-Vaal Strike Skills target 1 additional nearby Enemy",
+            "Mod": "Non-Vaal Strike Skills target 1 additional nearby Enemies",
             "Base": "gloves",
             "Tier": 4,
             "Chance": 400
         },
         {
             "Level": 75,
-            "Mod": "Non-Vaal Strike Skills target 1 additional nearby Enemy",
+            "Mod": "Non-Vaal Strike Skills target 1 additional nearby Enemies",
             "Base": "gloves",
             "Tier": 3,
             "Chance": 400
@@ -6302,45 +6302,171 @@
         },
         {
             "Level": 75,
-            "Mod": "(19\u201420)% reduced Mana Cost of Attacks",
+            "Mod": "(25\u201426)% increased Mana Cost Efficiency",
             "Base": "helmet",
             "Tier": 6,
             "Chance": 700
         },
         {
             "Level": 75,
-            "Mod": "(21\u201422)% reduced Mana Cost of Attacks",
+            "Mod": "(27\u201428)% increased Mana Cost Efficiency",
             "Base": "helmet",
             "Tier": 5,
             "Chance": 700
         },
         {
             "Level": 75,
-            "Mod": "(23\u201424)% reduced Mana Cost of Attacks",
+            "Mod": "(29\u201430)% increased Mana Cost Efficiency",
             "Base": "helmet",
             "Tier": 4,
             "Chance": 700
         },
         {
             "Level": 75,
-            "Mod": "(25\u201426)% reduced Mana Cost of Attacks",
+            "Mod": "(31\u201432)% increased Mana Cost Efficiency",
             "Base": "helmet",
             "Tier": 3,
             "Chance": 700
         },
         {
             "Level": 75,
-            "Mod": "(27\u201428)% reduced Mana Cost of Attacks",
+            "Mod": "(33\u201434)% increased Mana Cost Efficiency",
             "Base": "helmet",
             "Tier": 2,
             "Chance": 700
         },
         {
             "Level": 75,
-            "Mod": "(29\u201430)% reduced Mana Cost of Attacks",
+            "Mod": "(35\u201436)% increased Mana Cost Efficiency",
             "Base": "helmet",
             "Tier": 1,
             "Chance": 700
+        },
+        {
+            "Level": 75,
+            "Mod": "While a Unique Enemy is in your Presence, (35\u201436)% increased Mana Cost Efficiency",
+            "Base": "helmet",
+            "Tier": 6,
+            "Chance": 0
+        },
+        {
+            "Level": 75,
+            "Mod": "While a Unique Enemy is in your Presence, (37\u201438)% increased Mana Cost Efficiency",
+            "Base": "helmet",
+            "Tier": 5,
+            "Chance": 350
+        },
+        {
+            "Level": 75,
+            "Mod": "While a Unique Enemy is in your Presence, (39\u201440)% increased Mana Cost Efficiency",
+            "Base": "helmet",
+            "Tier": 4,
+            "Chance": 350
+        },
+        {
+            "Level": 75,
+            "Mod": "While a Unique Enemy is in your Presence, (41\u201442)% increased Mana Cost Efficiency",
+            "Base": "helmet",
+            "Tier": 3,
+            "Chance": 350
+        },
+        {
+            "Level": 75,
+            "Mod": "While a Unique Enemy is in your Presence, (43\u201444)% increased Mana Cost Efficiency",
+            "Base": "helmet",
+            "Tier": 2,
+            "Chance": 350
+        },
+        {
+            "Level": 75,
+            "Mod": "While a Unique Enemy is in your Presence, (45\u201446)% increased Mana Cost Efficiency",
+            "Base": "helmet",
+            "Tier": 1,
+            "Chance": 350
+        },
+        {
+            "Level": 75,
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, (44\u201445)% increased Mana Cost Efficiency",
+            "Base": "helmet",
+            "Tier": 6,
+            "Chance": 0
+        },
+        {
+            "Level": 75,
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, (46\u201447)% increased Mana Cost Efficiency",
+            "Base": "helmet",
+            "Tier": 5,
+            "Chance": 0
+        },
+        {
+            "Level": 75,
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, (48\u201449)% increased Mana Cost Efficiency",
+            "Base": "helmet",
+            "Tier": 4,
+            "Chance": 140
+        },
+        {
+            "Level": 75,
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, (50\u201451)% increased Mana Cost Efficiency",
+            "Base": "helmet",
+            "Tier": 3,
+            "Chance": 140
+        },
+        {
+            "Level": 75,
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, (52\u201453)% increased Mana Cost Efficiency",
+            "Base": "helmet",
+            "Tier": 2,
+            "Chance": 140
+        },
+        {
+            "Level": 75,
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, (54\u201455)% increased Mana Cost Efficiency",
+            "Base": "helmet",
+            "Tier": 1,
+            "Chance": 140
+        },
+        {
+            "Level": 75,
+            "Mod": "(19\u201420)% reduced Mana Cost of Attacks",
+            "Base": "helmet",
+            "Tier": 6,
+            "Chance": 0
+        },
+        {
+            "Level": 75,
+            "Mod": "(21\u201422)% reduced Mana Cost of Attacks",
+            "Base": "helmet",
+            "Tier": 5,
+            "Chance": 0
+        },
+        {
+            "Level": 75,
+            "Mod": "(23\u201424)% reduced Mana Cost of Attacks",
+            "Base": "helmet",
+            "Tier": 4,
+            "Chance": 0
+        },
+        {
+            "Level": 75,
+            "Mod": "(25\u201426)% reduced Mana Cost of Attacks",
+            "Base": "helmet",
+            "Tier": 3,
+            "Chance": 0
+        },
+        {
+            "Level": 75,
+            "Mod": "(27\u201428)% reduced Mana Cost of Attacks",
+            "Base": "helmet",
+            "Tier": 2,
+            "Chance": 0
+        },
+        {
+            "Level": 75,
+            "Mod": "(29\u201430)% reduced Mana Cost of Attacks",
+            "Base": "helmet",
+            "Tier": 1,
+            "Chance": 0
         },
         {
             "Level": 75,
@@ -6354,35 +6480,35 @@
             "Mod": "While a Unique Enemy is in your Presence, (27\u201428)% reduced Mana Cost of Attacks",
             "Base": "helmet",
             "Tier": 5,
-            "Chance": 350
+            "Chance": 0
         },
         {
             "Level": 75,
             "Mod": "While a Unique Enemy is in your Presence, (29\u201430)% reduced Mana Cost of Attacks",
             "Base": "helmet",
             "Tier": 4,
-            "Chance": 350
+            "Chance": 0
         },
         {
             "Level": 75,
             "Mod": "While a Unique Enemy is in your Presence, (31\u201432)% reduced Mana Cost of Attacks",
             "Base": "helmet",
             "Tier": 3,
-            "Chance": 350
+            "Chance": 0
         },
         {
             "Level": 75,
             "Mod": "While a Unique Enemy is in your Presence, (33\u201434)% reduced Mana Cost of Attacks",
             "Base": "helmet",
             "Tier": 2,
-            "Chance": 350
+            "Chance": 0
         },
         {
             "Level": 75,
             "Mod": "While a Unique Enemy is in your Presence, (35\u201436)% reduced Mana Cost of Attacks",
             "Base": "helmet",
             "Tier": 1,
-            "Chance": 350
+            "Chance": 0
         },
         {
             "Level": 75,
@@ -6403,28 +6529,28 @@
             "Mod": "While a Pinnacle Atlas Boss is in your Presence, (35\u201436)% reduced Mana Cost of Attacks",
             "Base": "helmet",
             "Tier": 4,
-            "Chance": 140
+            "Chance": 0
         },
         {
             "Level": 75,
             "Mod": "While a Pinnacle Atlas Boss is in your Presence, (37\u201438)% reduced Mana Cost of Attacks",
             "Base": "helmet",
             "Tier": 3,
-            "Chance": 140
+            "Chance": 0
         },
         {
             "Level": 75,
             "Mod": "While a Pinnacle Atlas Boss is in your Presence, (39\u201440)% reduced Mana Cost of Attacks",
             "Base": "helmet",
             "Tier": 2,
-            "Chance": 140
+            "Chance": 0
         },
         {
             "Level": 75,
             "Mod": "While a Pinnacle Atlas Boss is in your Presence, (41\u201442)% reduced Mana Cost of Attacks",
             "Base": "helmet",
             "Tier": 1,
-            "Chance": 140
+            "Chance": 0
         },
         {
             "Level": 75,
@@ -12728,28 +12854,28 @@
         },
         {
             "Level": 75,
-            "Mod": "Flasks gain a Charge every 3 seconds",
+            "Mod": "Flasks gain 1 Charges every 3 seconds",
             "Base": "body_armour",
             "Tier": 6,
             "Chance": 500
         },
         {
             "Level": 75,
-            "Mod": "Flasks gain a Charge every 3 seconds",
+            "Mod": "Flasks gain 1 Charges every 3 seconds",
             "Base": "body_armour",
             "Tier": 5,
             "Chance": 500
         },
         {
             "Level": 75,
-            "Mod": "Flasks gain a Charge every 3 seconds",
+            "Mod": "Flasks gain 1 Charges every 3 seconds",
             "Base": "body_armour",
             "Tier": 4,
             "Chance": 500
         },
         {
             "Level": 75,
-            "Mod": "Flasks gain a Charge every 3 seconds",
+            "Mod": "Flasks gain 1 Charges every 3 seconds",
             "Base": "body_armour",
             "Tier": 3,
             "Chance": 500
@@ -17140,28 +17266,28 @@
         },
         {
             "Level": 75,
-            "Mod": "Projectiles Pierce an additional Target",
+            "Mod": "Projectiles Pierce 1 additional Targets",
             "Base": "gloves",
             "Tier": 6,
             "Chance": 500
         },
         {
             "Level": 75,
-            "Mod": "Projectiles Pierce an additional Target",
+            "Mod": "Projectiles Pierce 1 additional Targets",
             "Base": "gloves",
             "Tier": 5,
             "Chance": 500
         },
         {
             "Level": 75,
-            "Mod": "Projectiles Pierce an additional Target",
+            "Mod": "Projectiles Pierce 1 additional Targets",
             "Base": "gloves",
             "Tier": 4,
             "Chance": 500
         },
         {
             "Level": 75,
-            "Mod": "Projectiles Pierce an additional Target",
+            "Mod": "Projectiles Pierce 1 additional Targets",
             "Base": "gloves",
             "Tier": 3,
             "Chance": 500
@@ -25204,252 +25330,252 @@
         },
         {
             "Level": 75,
-            "Mod": "45% of Damage from your Hits cannot be Reflected",
+            "Mod": "Prevent +45% of Reflected Damage",
             "Base": "body_armour",
             "Tier": 6,
             "Chance": 700
         },
         {
             "Level": 75,
-            "Mod": "50% of Damage from your Hits cannot be Reflected",
+            "Mod": "Prevent +50% of Reflected Damage",
             "Base": "body_armour",
             "Tier": 5,
             "Chance": 700
         },
         {
             "Level": 75,
-            "Mod": "55% of Damage from your Hits cannot be Reflected",
+            "Mod": "Prevent +55% of Reflected Damage",
             "Base": "body_armour",
             "Tier": 4,
             "Chance": 700
         },
         {
             "Level": 75,
-            "Mod": "60% of Damage from your Hits cannot be Reflected",
+            "Mod": "Prevent +60% of Reflected Damage",
             "Base": "body_armour",
             "Tier": 3,
             "Chance": 700
         },
         {
             "Level": 75,
-            "Mod": "65% of Damage from your Hits cannot be Reflected",
+            "Mod": "Prevent +65% of Reflected Damage",
             "Base": "body_armour",
             "Tier": 2,
             "Chance": 700
         },
         {
             "Level": 75,
-            "Mod": "70% of Damage from your Hits cannot be Reflected",
+            "Mod": "Prevent +70% of Reflected Damage",
             "Base": "body_armour",
             "Tier": 1,
             "Chance": 700
         },
         {
             "Level": 75,
-            "Mod": "While a Unique Enemy is in your Presence, 60% of Damage from your Hits cannot be Reflected",
+            "Mod": "While a Unique Enemy is in your Presence, Prevent +60% of Reflected Damage",
             "Base": "body_armour",
             "Tier": 6,
             "Chance": 0
         },
         {
             "Level": 75,
-            "Mod": "While a Unique Enemy is in your Presence, 65% of Damage from your Hits cannot be Reflected",
+            "Mod": "While a Unique Enemy is in your Presence, Prevent +65% of Reflected Damage",
             "Base": "body_armour",
             "Tier": 5,
             "Chance": 350
         },
         {
             "Level": 75,
-            "Mod": "While a Unique Enemy is in your Presence, 70% of Damage from your Hits cannot be Reflected",
+            "Mod": "While a Unique Enemy is in your Presence, Prevent +70% of Reflected Damage",
             "Base": "body_armour",
             "Tier": 4,
             "Chance": 350
         },
         {
             "Level": 75,
-            "Mod": "While a Unique Enemy is in your Presence, 75% of Damage from your Hits cannot be Reflected",
+            "Mod": "While a Unique Enemy is in your Presence, Prevent +75% of Reflected Damage",
             "Base": "body_armour",
             "Tier": 3,
             "Chance": 350
         },
         {
             "Level": 75,
-            "Mod": "While a Unique Enemy is in your Presence, 80% of Damage from your Hits cannot be Reflected",
+            "Mod": "While a Unique Enemy is in your Presence, Prevent +80% of Reflected Damage",
             "Base": "body_armour",
             "Tier": 2,
             "Chance": 350
         },
         {
             "Level": 75,
-            "Mod": "While a Unique Enemy is in your Presence, 85% of Damage from your Hits cannot be Reflected",
+            "Mod": "While a Unique Enemy is in your Presence, Prevent +85% of Reflected Damage",
             "Base": "body_armour",
             "Tier": 1,
             "Chance": 350
         },
         {
             "Level": 75,
-            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 75% of Damage from your Hits cannot be Reflected",
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, Prevent +75% of Reflected Damage",
             "Base": "body_armour",
             "Tier": 6,
             "Chance": 0
         },
         {
             "Level": 75,
-            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 80% of Damage from your Hits cannot be Reflected",
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, Prevent +80% of Reflected Damage",
             "Base": "body_armour",
             "Tier": 5,
             "Chance": 0
         },
         {
             "Level": 75,
-            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 85% of Damage from your Hits cannot be Reflected",
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, Prevent +85% of Reflected Damage",
             "Base": "body_armour",
             "Tier": 4,
             "Chance": 140
         },
         {
             "Level": 75,
-            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 90% of Damage from your Hits cannot be Reflected",
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, Prevent +90% of Reflected Damage",
             "Base": "body_armour",
             "Tier": 3,
             "Chance": 140
         },
         {
             "Level": 75,
-            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 95% of Damage from your Hits cannot be Reflected",
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, Prevent +95% of Reflected Damage",
             "Base": "body_armour",
             "Tier": 2,
             "Chance": 140
         },
         {
             "Level": 75,
-            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 100% of Damage from your Hits cannot be Reflected",
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, Prevent +100% of Reflected Damage",
             "Base": "body_armour",
             "Tier": 1,
             "Chance": 140
         },
         {
             "Level": 75,
-            "Mod": "45% of Hit Damage from your Minions cannot be Reflected",
+            "Mod": "Minions prevent +45% of Reflected Damage they would take",
             "Base": "body_armour",
             "Tier": 6,
             "Chance": 700
         },
         {
             "Level": 75,
-            "Mod": "50% of Hit Damage from your Minions cannot be Reflected",
+            "Mod": "Minions prevent +50% of Reflected Damage they would take",
             "Base": "body_armour",
             "Tier": 5,
             "Chance": 700
         },
         {
             "Level": 75,
-            "Mod": "55% of Hit Damage from your Minions cannot be Reflected",
+            "Mod": "Minions prevent +55% of Reflected Damage they would take",
             "Base": "body_armour",
             "Tier": 4,
             "Chance": 700
         },
         {
             "Level": 75,
-            "Mod": "60% of Hit Damage from your Minions cannot be Reflected",
+            "Mod": "Minions prevent +60% of Reflected Damage they would take",
             "Base": "body_armour",
             "Tier": 3,
             "Chance": 700
         },
         {
             "Level": 75,
-            "Mod": "65% of Hit Damage from your Minions cannot be Reflected",
+            "Mod": "Minions prevent +65% of Reflected Damage they would take",
             "Base": "body_armour",
             "Tier": 2,
             "Chance": 700
         },
         {
             "Level": 75,
-            "Mod": "70% of Hit Damage from your Minions cannot be Reflected",
+            "Mod": "Minions prevent +70% of Reflected Damage they would take",
             "Base": "body_armour",
             "Tier": 1,
             "Chance": 700
         },
         {
             "Level": 75,
-            "Mod": "While a Unique Enemy is in your Presence, 60% of Hit Damage from your Minions cannot be Reflected",
+            "Mod": "While a Unique Enemy is in your Presence, Minions prevent +60% of Reflected Damage they would take",
             "Base": "body_armour",
             "Tier": 6,
             "Chance": 0
         },
         {
             "Level": 75,
-            "Mod": "While a Unique Enemy is in your Presence, 65% of Hit Damage from your Minions cannot be Reflected",
+            "Mod": "While a Unique Enemy is in your Presence, Minions prevent +65% of Reflected Damage they would take",
             "Base": "body_armour",
             "Tier": 5,
             "Chance": 350
         },
         {
             "Level": 75,
-            "Mod": "While a Unique Enemy is in your Presence, 70% of Hit Damage from your Minions cannot be Reflected",
+            "Mod": "While a Unique Enemy is in your Presence, Minions prevent +70% of Reflected Damage they would take",
             "Base": "body_armour",
             "Tier": 4,
             "Chance": 350
         },
         {
             "Level": 75,
-            "Mod": "While a Unique Enemy is in your Presence, 75% of Hit Damage from your Minions cannot be Reflected",
+            "Mod": "While a Unique Enemy is in your Presence, Minions prevent +75% of Reflected Damage they would take",
             "Base": "body_armour",
             "Tier": 3,
             "Chance": 350
         },
         {
             "Level": 75,
-            "Mod": "While a Unique Enemy is in your Presence, 80% of Hit Damage from your Minions cannot be Reflected",
+            "Mod": "While a Unique Enemy is in your Presence, Minions prevent +80% of Reflected Damage they would take",
             "Base": "body_armour",
             "Tier": 2,
             "Chance": 350
         },
         {
             "Level": 75,
-            "Mod": "While a Unique Enemy is in your Presence, 85% of Hit Damage from your Minions cannot be Reflected",
+            "Mod": "While a Unique Enemy is in your Presence, Minions prevent +85% of Reflected Damage they would take",
             "Base": "body_armour",
             "Tier": 1,
             "Chance": 350
         },
         {
             "Level": 75,
-            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 75% of Hit Damage from your Minions cannot be Reflected",
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, Minions prevent +75% of Reflected Damage they would take",
             "Base": "body_armour",
             "Tier": 6,
             "Chance": 0
         },
         {
             "Level": 75,
-            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 80% of Hit Damage from your Minions cannot be Reflected",
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, Minions prevent +80% of Reflected Damage they would take",
             "Base": "body_armour",
             "Tier": 5,
             "Chance": 0
         },
         {
             "Level": 75,
-            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 85% of Hit Damage from your Minions cannot be Reflected",
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, Minions prevent +85% of Reflected Damage they would take",
             "Base": "body_armour",
             "Tier": 4,
             "Chance": 140
         },
         {
             "Level": 75,
-            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 90% of Hit Damage from your Minions cannot be Reflected",
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, Minions prevent +90% of Reflected Damage they would take",
             "Base": "body_armour",
             "Tier": 3,
             "Chance": 140
         },
         {
             "Level": 75,
-            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 95% of Hit Damage from your Minions cannot be Reflected",
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, Minions prevent +95% of Reflected Damage they would take",
             "Base": "body_armour",
             "Tier": 2,
             "Chance": 140
         },
         {
             "Level": 75,
-            "Mod": "While a Pinnacle Atlas Boss is in your Presence, 100% of Hit Damage from your Minions cannot be Reflected",
+            "Mod": "While a Pinnacle Atlas Boss is in your Presence, Minions prevent +100% of Reflected Damage they would take",
             "Base": "body_armour",
             "Tier": 1,
             "Chance": 140

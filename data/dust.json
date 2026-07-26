@@ -326,7 +326,7 @@
     },
     {
         "name": "Eyes of the Greatwolf",
-        "dustVal": "65.76",
+        "dustVal": "274.00",
         "slots": "1"
     },
     {
@@ -3316,7 +3316,7 @@
     },
     {
         "name": "Natural Hierarchy",
-        "dustVal": "4.46",
+        "dustVal": "21.39",
         "slots": "1"
     },
     {
@@ -3831,7 +3831,7 @@
     },
     {
         "name": "Blightwell",
-        "dustVal": "2.78",
+        "dustVal": "4.44",
         "slots": "1"
     },
     {
@@ -5161,7 +5161,7 @@
     },
     {
         "name": "Azadi Crest",
-        "dustVal": "9.06",
+        "dustVal": "43.48",
         "slots": "4"
     },
     {
@@ -6306,7 +6306,7 @@
     },
     {
         "name": "The Hateful Accuser",
-        "dustVal": "7.25",
+        "dustVal": "43.48",
         "slots": "1"
     },
     {
@@ -6807,6 +6807,91 @@
     {
         "name": "The Bandit Lord's Band",
         "dustVal": "29.60",
+        "slots": "1"
+    },
+    {
+        "name": "Subsume the Source",
+        "dustVal": "50.40",
+        "slots": "4"
+    },
+    {
+        "name": "Spinesnatch",
+        "dustVal": "46.12",
+        "slots": "8"
+    },
+    {
+        "name": "The Crustacean's Call",
+        "dustVal": "9.87",
+        "slots": "8"
+    },
+    {
+        "name": "Seablister",
+        "dustVal": "9.87",
+        "slots": "4"
+    },
+    {
+        "name": "Stormblood",
+        "dustVal": "5.63",
+        "slots": "2"
+    },
+    {
+        "name": "Unholy Accomplice",
+        "dustVal": "222.79",
+        "slots": "2"
+    },
+    {
+        "name": "Waxen Soul",
+        "dustVal": "122.94",
+        "slots": "6"
+    },
+    {
+        "name": "Zana's Ingenuity",
+        "dustVal": "59.80",
+        "slots": "1"
+    },
+    {
+        "name": "Reclaimed Malevolence",
+        "dustVal": "40.00",
+        "slots": "1"
+    },
+    {
+        "name": "Pearl of Tsoatha",
+        "dustVal": "34.32",
+        "slots": "1"
+    },
+    {
+        "name": "Dread Captain's Cutlass",
+        "dustVal": "14.49",
+        "slots": "6"
+    },
+    {
+        "name": "The Unblinking Eye",
+        "dustVal": "13.26",
+        "slots": "4"
+    },
+    {
+        "name": "Festering Vengeance",
+        "dustVal": "10.00",
+        "slots": "1"
+    },
+    {
+        "name": "Extinguishing Grasp",
+        "dustVal": "10.00",
+        "slots": "1"
+    },
+    {
+        "name": "Baleful Dominion",
+        "dustVal": "10.00",
+        "slots": "1"
+    },
+    {
+        "name": "Destructive Aspiration",
+        "dustVal": "10.00",
+        "slots": "1"
+    },
+    {
+        "name": "Rotmother's Mutiny",
+        "dustVal": "5.46",
         "slots": "1"
     }
 ]
