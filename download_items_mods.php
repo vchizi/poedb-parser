@@ -81,6 +81,62 @@ function extractModsViewData($html) {
 }
 
 
+/**
+ * poedb lists a stat's description template, which is not always what the client renders on the
+ * item. "Rare Monsters each have 1 additional Modifiers" is the template; because the value is
+ * always 1 the game writes "Modifier". Crafting lists and item filter regexes are both written
+ * against what the item shows, so a mod left in its template form is one the app can never match.
+ *
+ * Key is the line exactly as poedb gives it, value is the line as the game prints it. Add an
+ * entry whenever a mod turns up that never matches on a real item.
+ */
+const MOD_TEXT_FIXES = [
+    'Rare Monsters each have 1 additional Modifiers' => 'Rare Monsters each have 1 additional Modifier',
+];
+
+function applyModTextFixes(array $mods): array
+{
+    foreach ($mods as $index => $mod) {
+        $key = trim($mod);
+        if (array_key_exists($key, MOD_TEXT_FIXES)) {
+            $mods[$index] = MOD_TEXT_FIXES[$key];
+            modTextFixUsage($key);
+        }
+    }
+
+    return $mods;
+}
+
+function modTextFixUsage(string $applied = ''): array
+{
+    static $usage = [];
+
+    if ($applied !== '') {
+        $usage[$applied] = ($usage[$applied] ?? 0) + 1;
+    }
+
+    return $usage;
+}
+
+/**
+ * Says what each fix did, so an entry poedb has corrected upstream shows up as dead weight
+ * instead of sitting in the list forever.
+ */
+function reportModTextFixes()
+{
+    $usage = modTextFixUsage();
+
+    foreach (MOD_TEXT_FIXES as $from => $to) {
+        $count = $usage[$from] ?? 0;
+        if ($count === 0) {
+            fwrite(STDERR, "Mod text fix never applied, poedb may have corrected it: \"{$from}\"\n");
+            continue;
+        }
+
+        echo "Fixed mod text {$count}x: \"{$from}\" -> \"{$to}\"\n";
+    }
+}
+
 function extractMods(array $downloadedMods, string $modType)
 {
     $itemMods = [];
@@ -151,6 +207,8 @@ function extractMods(array $downloadedMods, string $modType)
 
             $mods = $filteredMods;
         }
+
+        $mods = applyModTextFixes($mods);
 
         $itemMod = [
             'ID' => $id,
@@ -405,6 +463,8 @@ foreach ($items as $category => $subCategories) {
 }
 
 echo "Downloaded\n";
+
+reportModTextFixes();
 
 $payload = $modsByType;
 foreach ($payload as $modType => $modsList) {
