@@ -92,6 +92,7 @@ function extractModsViewData($html) {
  */
 const MOD_TEXT_FIXES = [
     'Rare Monsters each have 1 additional Modifiers' => 'Rare Monsters each have 1 additional Modifier',
+    'Unique Monsters have 1 random Shrine Buffs' => 'Unique Monsters have a random Shrine Buff',
 ];
 
 function applyModTextFixes(array $mods): array
