@@ -1,5 +1,6 @@
 .env.local
 /tmp_data
+/tmp
 .idea
 /poe-ninja
 /builds-parser

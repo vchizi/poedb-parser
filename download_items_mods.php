@@ -123,14 +123,17 @@ function modTextFixUsage(string $applied = ''): array
  * Says what each fix did, so an entry poedb has corrected upstream shows up as dead weight
  * instead of sitting in the list forever.
  */
-function reportModTextFixes()
+function reportModTextFixes(bool $reportUnused = true)
 {
     $usage = modTextFixUsage();
 
     foreach (MOD_TEXT_FIXES as $from => $to) {
         $count = $usage[$from] ?? 0;
         if ($count === 0) {
-            fwrite(STDERR, "Mod text fix never applied, poedb may have corrected it: \"{$from}\"\n");
+            // A partial run only sees some pages, so an unused fix says nothing about poedb.
+            if ($reportUnused) {
+                fwrite(STDERR, "Mod text fix never applied, poedb may have corrected it: \"{$from}\"\n");
+            }
             continue;
         }
 
@@ -228,10 +231,118 @@ function extractMods(array $downloadedMods, string $modType)
             $itemMod['Attributes'] = $attributes;
         }
 
+        // Tags fossils use to weight the mod. poedb only gives them for mod types fossils can roll.
+        if (!empty($mod['fossil_no']) && is_array($mod['fossil_no'])) {
+            $itemMod['FossilTags'] = array_values($mod['fossil_no']);
+        }
+
         $itemMods[] = $itemMod;
     }
 
     return $itemMods;
+}
+
+/**
+ * Identifies the poedb page a mod came from. Every page has its own combination, so a partial run
+ * can swap out exactly the mods of the pages it downloaded.
+ */
+function modSourceKey(array $mod): string
+{
+    return implode('|', [$mod['ModDomainsID'], $mod['Base'], $mod['BaseId'], $mod['BaseTag'] ?? '']);
+}
+
+function pageSourceKey(array $downloadedMods): string
+{
+    return modSourceKey([
+        'ModDomainsID' => (int)$downloadedMods['opt']['ModDomainsID'],
+        'Base' => $downloadedMods['opt']['ItemClassesCode'],
+        'BaseId' => $downloadedMods['opt']['ItemClassesID'],
+        'BaseTag' => $downloadedMods['baseitem']['tags'] ?? null,
+    ]);
+}
+
+/**
+ * Replaces the mods of re-downloaded pages in place, so a partial run keeps the order of the
+ * existing file and its diff only shows what changed on those pages. Old mods of a fetched page
+ * are dropped even when the page no longer has any of this type.
+ */
+function mergeMods(array $existingMods, array $newMods, array $fetchedSources): array
+{
+    $newBySource = array_fill_keys($fetchedSources, []);
+    foreach ($newMods as $mod) {
+        $newBySource[modSourceKey($mod)][] = $mod;
+    }
+
+    $merged = [];
+    foreach ($existingMods as $mod) {
+        $key = modSourceKey($mod);
+        if (!array_key_exists($key, $newBySource)) {
+            $merged[] = $mod;
+            continue;
+        }
+        if ($newBySource[$key] !== null) {
+            array_push($merged, ...$newBySource[$key]);
+            $newBySource[$key] = null;
+        }
+    }
+
+    foreach ($newBySource as $mods) {
+        if ($mods !== null) {
+            array_push($merged, ...$mods);
+        }
+    }
+
+    return $merged;
+}
+
+function normalizeItemName(string $name): string
+{
+    return strtolower(str_replace('_', ' ', trim($name)));
+}
+
+/**
+ * Keeps only the subcategories asked for. A name can be a subcategory ("Claws") or a whole
+ * category ("Jewellery"), matched case-insensitively with "_" and " " treated the same.
+ */
+function filterItems(array $items, array $names): array
+{
+    $filtered = [];
+    $unknown = [];
+
+    foreach ($names as $name) {
+        $wanted = normalizeItemName($name);
+        $found = false;
+
+        foreach ($items as $category => $subCategories) {
+            if (normalizeItemName($category) === $wanted) {
+                $filtered[$category] = array_merge($filtered[$category] ?? [], $subCategories);
+                $found = true;
+                continue;
+            }
+
+            foreach ($subCategories as $subCategory => $url) {
+                if (normalizeItemName($subCategory) === $wanted) {
+                    $filtered[$category][$subCategory] = $url;
+                    $found = true;
+                }
+            }
+        }
+
+        if (!$found) {
+            $unknown[] = $name;
+        }
+    }
+
+    if (!empty($unknown)) {
+        fwrite(STDERR, "Unknown item(s): " . implode(', ', $unknown) . "\n");
+        fwrite(STDERR, "Available categories and items:\n");
+        foreach ($items as $category => $subCategories) {
+            fwrite(STDERR, "  {$category}: " . implode(', ', array_keys($subCategories)) . "\n");
+        }
+        exit(1);
+    }
+
+    return $filtered;
 }
 
 $items = [
@@ -402,16 +513,29 @@ $items = [
         'Foliate Brooch' => 'https://poedb.tw/us/Foliate_Brooch#ModifiersCalc',
     ],
 ];
+
+// Usage: php download_items_mods.php [--debug] [item ...]
+//   item     subcategory ("Claws", "Amulets") or category ("Jewellery"); all items when omitted
+//   --debug  only save the raw poedb payloads to tmp, data/all_mods.json is left untouched
+$args = array_slice($argv, 1);
+$debug = in_array('--debug', $args, true);
+$itemNames = array_values(array_filter($args, fn($arg) => $arg !== '--debug'));
+$isPartialRun = !empty($itemNames);
+if ($isPartialRun) {
+    $items = filterItems($items, $itemNames);
+}
+
 $modTypes = ['normal', 'elder', 'shaper', 'crusader', 'redeemer', 'hunter', 'warlord'/*, 'searing', 'eater'*/];
 $modsByType = [];
 foreach ($modTypes as $modType) {
     $modsByType[$modType] = [];
 }
+$fetchedSources = [];
 
-//$rawOutputDir = 'tmp_data';
-//if (!is_dir($rawOutputDir)) {
-//    mkdir($rawOutputDir, 0777, true);
-//}
+$rawOutputDir = 'tmp';
+if ($debug && !is_dir($rawOutputDir)) {
+    mkdir($rawOutputDir, 0777, true);
+}
 
 foreach ($items as $category => $subCategories) {
     if (!is_array($subCategories)) {
@@ -435,22 +559,33 @@ foreach ($items as $category => $subCategories) {
             || !is_array($downloadedMods['normal'])
         ) {
             fwrite(STDERR, "Failed to parse ModsView payload for {$subCategory}: {$url}\n");
+            if ($debug) {
+                // Keep the page so the parse failure can be looked at.
+                $htmlOutputFile = "{$rawOutputDir}/" . preg_replace('/[^A-Za-z0-9._-]+/', '_', $subCategory) . '.html';
+                file_put_contents($htmlOutputFile, $html);
+                echo "Saved HTML to {$htmlOutputFile}\n";
+            }
             continue;
         }
 
-//        $rawModDomainId = (string)($downloadedMods['opt']['ModDomainsID'] ?? 'unknown');
-//        $rawItemClassesCode = (string)($downloadedMods['opt']['ItemClassesCode'] ?? 'unknown');
-//        $rawItemClassesId = (string)($downloadedMods['opt']['ItemClassesID'] ?? 'unknown');
-//        $rawBaseitemTags = (string)($downloadedMods['baseitem']['tags'] ?? 'unknown');
-//        $rawFileId = "{$rawModDomainId}_{$rawItemClassesCode}_{$rawItemClassesId}_{$rawBaseitemTags}";
-//        $safeRawFileName = preg_replace('/[^A-Za-z0-9._-]+/', '_', $rawFileId);
-//        $rawOutputFile = "{$rawOutputDir}/{$safeRawFileName}.json";
-//        file_put_contents(
-//            $rawOutputFile,
-//            json_encode($downloadedMods, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT)
-//        );
-//        echo "Saved raw to {$rawOutputFile}\n";
+        if ($debug) {
+            $rawModDomainId = (string)($downloadedMods['opt']['ModDomainsID'] ?? 'unknown');
+            $rawItemClassesCode = (string)($downloadedMods['opt']['ItemClassesCode'] ?? 'unknown');
+            $rawItemClassesId = (string)($downloadedMods['opt']['ItemClassesID'] ?? 'unknown');
+            $rawBaseitemTags = (string)($downloadedMods['baseitem']['tags'] ?? 'unknown');
+            $rawFileId = "{$rawModDomainId}_{$rawItemClassesCode}_{$rawItemClassesId}_{$rawBaseitemTags}";
+            $safeRawFileName = preg_replace('/[^A-Za-z0-9._-]+/', '_', $rawFileId);
+            $rawOutputFile = "{$rawOutputDir}/{$safeRawFileName}.json";
+            file_put_contents(
+                $rawOutputFile,
+                json_encode($downloadedMods, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT)
+            );
+            echo "Saved raw to {$rawOutputFile}\n";
+            echo "Ending subcategory: {$subCategory}\n";
+            continue;
+        }
 
+        $fetchedSources[] = pageSourceKey($downloadedMods);
         foreach ($modTypes as $modType) {
             $extractedMods = extractMods($downloadedMods, $modType);
             $modsByType[$modType] = array_merge(
@@ -465,13 +600,30 @@ foreach ($items as $category => $subCategories) {
 
 echo "Downloaded\n";
 
-reportModTextFixes();
+if ($debug) {
+    echo "Debug run, raw data is in {$rawOutputDir}, data/all_mods.json not updated\n";
+    exit(0);
+}
 
+reportModTextFixes(!$isPartialRun);
+
+$outputFile = 'data/all_mods.json';
 $payload = $modsByType;
+if ($isPartialRun) {
+    $existing = json_decode((string)@file_get_contents($outputFile), true);
+    if (!is_array($existing)) {
+        fwrite(STDERR, "Cannot read {$outputFile} to merge into, run without items to rebuild it\n");
+        exit(1);
+    }
+
+    $payload = $existing;
+    foreach ($modsByType as $modType => $modsList) {
+        $payload[$modType] = mergeMods($existing[$modType] ?? [], $modsList, $fetchedSources);
+    }
+}
 foreach ($payload as $modType => $modsList) {
     $payload[$modType] = array_values($modsList);
 }
-$outputFile = 'data/all_mods.json';
 file_put_contents(
     $outputFile,
     json_encode($payload, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT)
